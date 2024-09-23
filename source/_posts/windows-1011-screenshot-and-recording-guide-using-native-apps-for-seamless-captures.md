@@ -1,7 +1,7 @@
 ---
 title: "Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures"
-date: 2024-09-18 20:16:36
-updated: 2024-09-20 10:10:16
+date: 2024-09-21T16:13:02.989Z
+updated: 2024-09-23T16:03:57.313Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-endless-memories-free-saving-on-instagram-stories/"><u>[New] In 2024, Endless Memories FREE Saving on Instagram Stories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevating-visual-engagement-transferring-twitter-videos-on-snapchat/"><u>[Updated] 2024 Approved Elevating Visual Engagement Transferring Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-10-innovative-affordable-video-call-apps-iosandroid/"><u>[Updated] 2024 Approved Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-terraria-customization-choices-for-2024/"><u>[Updated] Best Terraria Customization Choices for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-loom-app-evaluation-an-in-depth-comparison-with-movavi/"><u>1. Loom App Evaluation: An In-Depth Comparison with Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726224945583-2024-8/"><u>2024년 상세한 무료 웹테이너 선보여주기: 8월에서 제공하는 가장 좋은 플랫폼 페어링</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-faire-concevoir-and-tutorial/"><u>Comment Faire, Concevoir, and Tutorial.</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-opus-tracks-to-mp3-files-free-of-charge-effortless-online-conversion-with-movavi/"><u>Convert Opus Tracks to MP3 Files Free of Charge - Effortless Online Conversion with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/end-hibernation-hurdles-with-easy-fixes-for-win/"><u>End Hibernation Hurdles with Easy Fixes for Win</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-konvertereermiddelen-vob-in-mpeg-format-online-met-movavi/"><u>Gratis Konvertereermiddelen VOB in MPEG Format - Online Met Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/simplified-strategies-to-acquire-and-download-vimeo-videos/"><u>Simplified Strategies to Acquire & Download Vimeo Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-your-iphones-silent-ringer-issue-a-comprehensive-guide/"><u>Troubleshooting Your iPhone's Silent Ringer Issue: A Comprehensive Guide</u></a></li>
+</ul></div>
+

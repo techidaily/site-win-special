@@ -1,7 +1,7 @@
 ---
 title: How Technology Boosts Employee Happiness More Than Colleagues, Insights From a Microsoft Leader | ZDNet
-date: 2024-09-19 21:10:59
-updated: 2024-09-20 12:22:11
+date: 2024-09-21T16:49:33.967Z
+updated: 2024-09-23T16:21:06.118Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-best-rated-vr-joysticks-unveiled-for-2024/"><u>[New] Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-retro-effects-and-filters-for-cutting-edge-videos/"><u>[New] Essential Retro Effects & Filters for Cutting Edge Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-infographic-analysis-the-hottest-2023-trends/"><u>[Updated] 2024 Approved Infographic Analysis The Hottest 2023 Trends</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-storytelling-with-style-making-instagram-text-dance-for-2024/"><u>[Updated] Storytelling with Style Making Instagram Text Dance for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>[Updated] Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226779235-movavi/"><u>免費移動電話影片格式變更工具 - 使用Movavi 線上轉換器</u></a></li>
+<li><a href="https://win-special.techidaily.com/asf-swf-online/"><u>ASF 프리미우스를 SWF로 무료 변환 - Online 코드 전환</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-mpeg-a-flac-tramite-linnovativo-sito-web-di-movavi-esegui-ora/"><u>Conversione Gratuita Da MPEG a FLAC Tramite L'innovativo Sito Web Di Movavi - Esegui Ora!</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-ogm-a-wmv-il-guida-completa-di-movavi-per-il-cambio-formati-video/"><u>Conversione Gratuita Da OGM a WMV: Il Guida Completa Di Movavi per Il Cambio Formati Video</u></a></li>
+<li><a href="https://win-special.techidaily.com/google-online-vimeo-swf-movavi/"><u>Google으로 바꾸기: Online 무료 Vimeo SWF 형식 개선 - Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-unearth-your-secret-snapshots/"><u>How to Unearth Your Secret Snapshots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-srt-creation-the-ultimate-xmlssattml-playbook/"><u>In 2024, Seamless SRT Creation The Ultimate XML/SSA/TTML Playbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gtx-1660-ti-for-superior-gaming-with-the-newest-drivers/"><u>Optimize Your GTX 1660 Ti for Superior Gaming with the Newest Drivers</u></a></li>
+<li><a href="https://win-special.techidaily.com/recensioni-approfondite-per-il-convertitore-video-freemake/"><u>Recensioni Approfondite per Il Convertitore Video Freemake</u></a></li>
+<li><a href="https://win-special.techidaily.com/transformez-vos-images-bmp-en-jpg-sans-frais-solution-simple-et-efficace-a-laide-de-movavi/"><u>Transformez Vos Images BMP en JPG Sans Frais, Solution Simple Et Efficace À L'aide De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-access-royalty-free-clip-art-tips/"><u>Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+</ul></div>
+

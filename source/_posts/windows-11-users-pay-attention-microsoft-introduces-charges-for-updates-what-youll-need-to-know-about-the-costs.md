@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Users, Pay Attention! Microsoft Introduces Charges for Updates – What You'll Need to Know About the Costs
-date: 2024-09-19 11:45:47
-updated: 2024-09-20 12:49:23
+date: 2024-09-18T16:40:38.747Z
+updated: 2024-09-23T16:37:15.908Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-titlegenius-revolutionizing-video-title-generation/"><u>[New] TitleGenius Revolutionizing Video Title Generation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-10-nintendo-switch-fighting-games/"><u>[New] Top 10 Nintendo Switch Fighting Games</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-effective-strategies-to-boost-image-analysis-accuracy/"><u>1. Effective Strategies to Boost Image Analysis Accuracy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-f23-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo F23 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/como-funcionan-los-archivos-wmv-y-las-mejores-practicas-para-su-reproduccion-exitosa/"><u>Cómo Funcionan Los Archivos WMV Y Las Mejores Prácticas Para Su Reproducción Exitosa</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-libera-di-file-wma-a-formato-swf-sul-web-utilizzando-il-software-di-movavi/"><u>Conversione Libera Di File WMA a Formato SWF Sul Web Utilizzando Il Software Di Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/convertissez-vos-fichiers-mpe-en-mp3-facilement-et-sans-frais-via-le-convertisseur-en-ligne-movavi/"><u>Convertissez Vos Fichiers MPE en MP3 Facilement Et Sans Frais via Le Convertisseur en Ligne Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guardianship-tactics-ensuring-safety-for-your-family-against-internet-swindles/"><u>Guardianship Tactics: Ensuring Safety for Your Family Against Internet Swindles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-number-a-comprehensive-guide-to-finding-out-if-youve-been-blocked-by-an-iphone-contact/"><u>Identifying a Blocked Number: A Comprehensive Guide to Finding Out If You've Been Blocked by an iPhone Contact</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-2-unveiled-discover-its-purpose-and-practical-use-cases/"><u>Llama 2 Unveiled: Discover Its Purpose and Practical Use Cases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-gamingproductivity-screen-the-samsung-pixel-dense-viewfinity-s9-monitor-with-stunning-5k-display-and-inbuilt-4k-cam-now-at-an-unbelievable47/"><u>Snag the Ultimate Gaming/Productivity Screen: The Samsung Pixel-Dense ViewFinity S9 Monitor with Stunning 5K Display & Inbuilt ^4K Cam – Now at an Unbelievable $899 Price, Save 44%</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-lexmark-printer-driver-update-process/"><u>Streamline Lexmark Printer Driver Update Process</u></a></li>
+<li><a href="https://win-special.techidaily.com/dts-m4v-to-mp4-online-conversion-tool-by-movavi/"><u>무료 DTS M4V to MP4 변환: Online Conversion Tool by Movavi</u></a></li>
+</ul></div>
+

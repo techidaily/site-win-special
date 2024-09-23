@@ -1,7 +1,7 @@
 ---
 title: "Final Notice: Transition Away From Authy Desktop for Two-Factor Authentication Within a Month | ZDNet"
-date: 2024-09-19 14:52:55
-updated: 2024-09-20 12:59:51
+date: 2024-09-21T16:51:26.822Z
+updated: 2024-09-23T16:26:09.829Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,28 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-key-20-free-pubg-thumbnail-collections/"><u>[Updated] Key 20 Free PUBG Thumbnail Collections</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-essentials-for-elevated-gopro-usage/"><u>2024 Approved Expert Essentials for Elevated GoPro Usage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-90-lite-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor 90 Lite Phone</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726218561915-movavi-mac/"><u>最佳影像转换工具：Movavi Mac编辑器，支持包括视频在内的多种文件格式</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-spreadsheet-complexities-with-chatgpt-excel/"><u>Demystifying Spreadsheet Complexities with ChatGPT-Excel</u></a></li>
+<li><a href="https://win-special.techidaily.com/free-converter-transform-gifs-into-high-quality-webm-format-with-easy-online-tools/"><u>Free Converter: Transform GIFs Into High-Quality WebM Format with Easy Online Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a58-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A58 4G Phone Screen?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/movavi-voorbeelden-voor-kostenloos-m4v-conversie-van-swfs-op-internet/"><u>Movavi - Voorbeelden Voor Kostenloos M4V-Conversie Van SWF's Op Internet</u></a></li>
+<li><a href="https://win-special.techidaily.com/risolvi-velocemente-come-cambiare-formato-da-file-nef-a-jpg-utilizzando-movavi-video-converter/"><u>Risolvi Velocemente: Come Cambiare Formato Da File NEF a JPG Utilizzando Movavi Video Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-trek-movie-saga-the-ultimate-viewing-guide/"><u>Star Trek Movie Saga: The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+<li><a href="https://win-special.techidaily.com/100-3gpp-avi-mp4/"><u>오토바이오드에서 100% 가격 무료: 3GPP AVI 비디오를 MP4로 구성</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226518477-asf-mp4-movavi/"><u>ビデオ変換器のスイッチ：有料なし、ASF MP4へ - Movaviプラス</u></a></li>
+</ul></div>
+

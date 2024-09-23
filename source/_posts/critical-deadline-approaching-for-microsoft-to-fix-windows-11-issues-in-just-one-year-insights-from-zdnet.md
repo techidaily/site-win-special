@@ -1,7 +1,7 @@
 ---
 title: Critical Deadline Approaching for Microsoft to Fix Windows 11 Issues in Just One Year | Insights From ZDNet
-date: 2024-09-19 13:46:40
-updated: 2024-09-20 11:57:50
+date: 2024-09-16T16:12:20.583Z
+updated: 2024-09-23T16:54:24.460Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[New] 2024 Approved Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] 2024 Approved Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-videovault-annual-review-of-top-screen-recorders/"><u>[Updated] 2024 Approved VideoVault Annual Review of Top Screen Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-your-video-projects-with-superior-recorder-software/"><u>[Updated] In 2024, Mastering Your Video Projects with Superior Recorder Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226779235-movavi/"><u>免費移動電話影片格式變更工具 - 使用Movavi 線上轉換器</u></a></li>
+<li><a href="https://win-special.techidaily.com/asf-swf-online/"><u>ASF 프리미우스를 SWF로 무료 변환 - Online 코드 전환</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-mpeg-a-flac-tramite-linnovativo-sito-web-di-movavi-esegui-ora/"><u>Conversione Gratuita Da MPEG a FLAC Tramite L'innovativo Sito Web Di Movavi - Esegui Ora!</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-ogm-a-wmv-il-guida-completa-di-movavi-per-il-cambio-formati-video/"><u>Conversione Gratuita Da OGM a WMV: Il Guida Completa Di Movavi per Il Cambio Formati Video</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-mp3-files-to-wav-format-for-free-using-movavis-easy-tool/"><u>Convert MP3 Files to WAV Format for Free Using Movavi's Easy Tool!</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-swf-files-into-mp4-format-for-free-using-movavis-quick-and-secure-tool/"><u>Convert SWF Files Into MP4 Format for Free Using Movavi's Quick and Secure Tool</u></a></li>
+<li><a href="https://win-special.techidaily.com/google-online-vimeo-swf-movavi/"><u>Google으로 바꾸기: Online 무료 Vimeo SWF 형식 개선 - Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-reliable-is-chatgpt-in-crafting-personalized-and-safe-exercise-schedules-for-your-needs/"><u>How Reliable Is ChatGPT in Crafting Personalized and Safe Exercise Schedules for Your Needs?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-xr21-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-professional-thumbnail-dimensions-for-youtube/"><u>In 2024, The Essential Guide to Professional Thumbnail Dimensions for YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/rapidrun-framefrozen-capture-for-2024/"><u>RapidRun FrameFrozen Capture for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/recensioni-approfondite-per-il-convertitore-video-freemake/"><u>Recensioni Approfondite per Il Convertitore Video Freemake</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-core-elements-in-asmr-visual-media/"><u>The Core Elements in ASMR Visual Media</u></a></li>
+</ul></div>
+

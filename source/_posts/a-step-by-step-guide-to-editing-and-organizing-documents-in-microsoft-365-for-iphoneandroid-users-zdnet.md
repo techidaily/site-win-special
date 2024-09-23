@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Editing & Organizing Documents in Microsoft 365 for iPhone/Android Users | ZDNET
-date: 2024-09-19 11:57:32
-updated: 2024-09-20 10:24:11
+date: 2024-09-19T16:52:40.769Z
+updated: 2024-09-23T16:40:01.469Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,6 +142,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimizing-nintendo-switch-controller-for-steam-games/"><u>[New] 2024 Approved Optimizing Nintendo Switch Controller for Steam Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-every-moment-essential-ways-for-google-meet-recordings/"><u>[New] Capture Every Moment Essential Ways for Google Meet Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-lighting-tips-for-vlogging-how-to-light/"><u>[New] Lighting Tips for Vlogging How to Light</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-strategies-to-perfect-the-last-push-on-your-vimeo-videos-for-2024/"><u>[Updated] Strategies to Perfect the Last Push on Your Vimeo Videos for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726224429261-mp3-movavi/"><u>高品質保持MP3ファイルの効果的な圧縮方法 - 「Movavi」のガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-color-mastery-with-canons-freepaid-lut-variety-for-2024/"><u>Achieve Color Mastery with Canon's Free/Paid LUT Variety for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/editor-de-revezamento-de-imagens-o-melhor-software-para-fotografia-e-edicao-fotografica/"><u>Editor De Revezamento De Imagens: O Melhor Software Para Fotografia E Edição Fotográfica</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-your-playthroughs-secrets-of-ps3-video-capture-for-2024/"><u>Elevate Your Playthroughs Secrets of PS3 Video Capture for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/free-converter-transform-gifs-into-high-quality-webm-format-with-easy-online-tools/"><u>Free Converter: Transform GIFs Into High-Quality WebM Format with Easy Online Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 12 mini Activation Lock</u></a></li>
+<li><a href="https://win-special.techidaily.com/kostenloze-videovervanger-tool-naar-mp4-vrij-voor-belangelingen/"><u>Kostenloze Videovervanger Tool Naar MP4 - Vrij Voor Belangelingen</u></a></li>
+<li><a href="https://win-special.techidaily.com/100-3gpp-avi-mp4/"><u>오토바이오드에서 100% 가격 무료: 3GPP AVI 비디오를 MP4로 구성</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226518477-asf-mp4-movavi/"><u>ビデオ変換器のスイッチ：有料なし、ASF MP4へ - Movaviプラス</u></a></li>
+</ul></div>
+
