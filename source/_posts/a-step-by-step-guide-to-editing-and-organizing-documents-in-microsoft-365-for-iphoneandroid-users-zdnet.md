@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Editing & Organizing Documents in Microsoft 365 for iPhone/Android Users | ZDNET
-date: 2024-09-19T16:52:40.769Z
-updated: 2024-09-23T16:40:01.469Z
+date: 2024-09-20T17:32:30.508Z
+updated: 2024-09-28T07:11:20.329Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -194,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-studio-explained-capturing-ps4-playthroughs/"><u>[New] OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enabling-autoplay-youtube-without-alerts/"><u>[Updated] Enabling Autoplay YouTube Without Alerts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-essential-metaverse-tech-for-your-arsenal-for-2024/"><u>[Updated] Top 7 Essential Metaverse Tech for Your Arsenal for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unboxing-the-future-benq-sw320-4k-display/"><u>[Updated] Unboxing the Future BenQ SW320 4K Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>2024 Approved Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://win-special.techidaily.com/a-critical-countdown-for-microsoft-resolving-major-issues-with-windows-11-in-just-one-year-according-to-zdnet-analysis/"><u>A Critical Countdown for Microsoft: Resolving Major Issues with Windows 11 in Just One Year, According to ZDNet Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/s-unlimited-mcb-theme-images/"><u>Access Unlimited MCB Theme Images</u></a></li>
+<li><a href="https://win-special.techidaily.com/elevate-your-pc-experience-a-step-by-step-guide-to-transforming-windows-home-into-pro-techinsights/"><u>Elevate Your PC Experience: A Step-by-Step Guide to Transforming Windows Home Into Pro | TechInsights</u></a></li>
+<li><a href="https://win-special.techidaily.com/essential-50-desk-gadget-enhances-ergonomic-comfort-for-sitting-and-standing-workers-read-on-at-zdnet/"><u>Essential $50 Desk Gadget Enhances Ergonomic Comfort for Sitting and Standing Workers - Read on at ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/essential-secret-shortcuts-every-tech-savvy-user-should-master-on-a-touchpad-discover-the-top-11/"><u>Essential Secret Shortcuts Every Tech Savvy User Should Master on a Touchpad - Discover the Top 11!</u></a></li>
+<li><a href="https://win-special.techidaily.com/final-notice-transition-away-from-authy-desktop-for-two-factor-authentication-within-a-month-zdnet/"><u>Final Notice: Transition Away From Authy Desktop for Two-Factor Authentication Within a Month | ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/impact-of-proper-illumination-on-staff-contentment-do-desk-lamps-help-explored-by-zdnet/"><u>Impact of Proper Illumination on Staff Contentment: Do Desk Lamps Help? | Explored by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-pova-5-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Pova 5 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsoft-to-introduce-fees-for-windows-10-updates-from-next-year-what-youll-need-to-budget-for-zdnet-insights/"><u>Microsoft to Introduce Fees for Windows 10 Updates From Next Year – What You'll Need to Budget For | ZDNet Insights</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsofts-daunting-challenge-the-urgent-need-to-fix-windows-11-within-a-year-insights-from-zdnet/"><u>Microsoft's Daunting Challenge: The Urgent Need to Fix Windows 11 Within a Year - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-x8b-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from X8b</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-essential-guide-to-recording-dynamic-digital-audio-broadcasts/"><u>Updated The Essential Guide to Recording Dynamic Digital Audio Broadcasts</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-1011-screenshot-and-recording-guide-using-native-apps-for-seamless-captures/"><u>Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures</u></a></li>
+</ul></div>
 

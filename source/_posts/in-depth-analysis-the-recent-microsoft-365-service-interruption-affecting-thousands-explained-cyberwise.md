@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise"
-date: 2024-09-20T16:53:14.704Z
-updated: 2024-09-23T16:40:18.672Z
+date: 2024-09-24T03:07:09.195Z
+updated: 2024-09-28T03:49:46.728Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +194,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-efficient-utilization-of-whiteboard-features-in-zoom-meetings/"><u>[New] Efficient Utilization of Whiteboard Features in Zoom Meetings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-unveil-full-length-videos-in-yt-for-2024/"><u>[Updated] How to Unveil Full-Length Videos in YT for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/a-step-by-step-guide-to-editing-and-organizing-documents-in-microsoft-365-for-iphoneandroid-users-zdnet/"><u>A Step-by-Step Guide to Editing & Organizing Documents in Microsoft 365 for iPhone/Android Users | ZDNET</u></a></li>
+<li><a href="https://win-special.techidaily.com/affordable-microsoft-project-and-visio-professional-licenses-on-sale-at-20-shop-now-zdnet/"><u>Affordable Microsoft Project & Visio Professional Licenses on Sale at $20 - Shop Now | ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-does-youtube-work-after-a-video-is-uploaded/"><u>How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-technology-drives-employee-satisfaction-insights-from-a-top-microsoft-leader-the-key-findings-by-zdnet/"><u>How Technology Drives Employee Satisfaction: Insights From a Top Microsoft Leader - The Key Findings by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-headset-no-sound-on-win10-system/"><u>How To Fix Headset No Sound on WIN10 System</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-moto-g-stylus-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Moto G Stylus (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-drive-encryption-reboot-a-step-by-step-solution-guide-technewsz/"><u>July Microsoft Patch Could Trigger BitLocker Drive Encryption Reboot: A Step-by-Step Solution Guide | TechNewsZ</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsoft-embraces-iot-moves-away-from-traditional-market-as-google-retreats/"><u>Microsoft Embraces IoT, Moves Away From Traditional Market as Google Retreats</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsofts-revolutionary-new-ai-chip-poised-to-outperform-apple-macbook-an-exclusive-first-look-zdnet/"><u>Microsoft's Revolutionary New AI Chip Poised to Outperform Apple MacBook: An Exclusive First Look - ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Making It Possible</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-elite-laptops-at-ifa-2023/"><u>Unveiling Elite Laptops at IFA 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/youtube-comment-discovery-a-step-by-step-walkthrough/"><u>YouTube Comment Discovery A Step-by-Step Walkthrough</u></a></li>
+</ul></div>
 

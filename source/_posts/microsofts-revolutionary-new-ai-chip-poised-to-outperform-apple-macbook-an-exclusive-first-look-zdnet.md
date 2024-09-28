@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Revolutionary New AI Chip Poised to Outperform Apple MacBook: An Exclusive First Look - ZDNet"
-date: 2024-09-17T16:15:40.727Z
-updated: 2024-09-23T16:11:30.835Z
+date: 2024-09-22T18:45:29.341Z
+updated: 2024-09-28T07:21:05.202Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -200,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-prime-biz-vault-services-for-data/"><u>[Updated] Prime Biz Vault Services for Data</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226779235-movavi/"><u>免費移動電話影片格式變更工具 - 使用Movavi 線上轉換器</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-9950x-test-results-in-depth-blender-performance-analysis-across-different-thermal-design-power-configurations/"><u>AMD Ryzen 9 9950X Test Results: In-Depth Blender Performance Analysis Across Different Thermal Design Power Configurations</u></a></li>
+<li><a href="https://win-special.techidaily.com/asf-swf-online/"><u>ASF 프리미우스를 SWF로 무료 변환 - Online 코드 전환</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-mpeg-a-flac-tramite-linnovativo-sito-web-di-movavi-esegui-ora/"><u>Conversione Gratuita Da MPEG a FLAC Tramite L'innovativo Sito Web Di Movavi - Esegui Ora!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-brannprogram-for-windows-bast-programrar-i-6-steg-for-windows-1187/"><u>Gratis Brännprogram För Windows: Bäst Programrar I 6 Steg - För Windows 11/8/7</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-action-steps-for-fixing-google-hangouts-microphone-problems/"><u>Immediate Action Steps for Fixing Google Hangouts' Microphone Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-no-complications-for-patching/"><u>Lenovo Z50-70: No Complications for Patching</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-aspect-ratios-in-video-production/"><u>Mastering Aspect Ratios in Video Production</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-premier-virtual-communities-where-strangers-become-friends/"><u>New 2024 Approved The Premier Virtual Communities Where Strangers Become Friends</u></a></li>
+<li><a href="https://win-special.techidaily.com/recensioni-approfondite-per-il-convertitore-video-freemake/"><u>Recensioni Approfondite per Il Convertitore Video Freemake</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://win-special.techidaily.com/transformez-vos-images-bmp-en-jpg-sans-frais-solution-simple-et-efficace-a-laide-de-movavi/"><u>Transformez Vos Images BMP en JPG Sans Frais, Solution Simple Et Efficace À L'aide De Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-selecting-between-makemkv-and-dvdfab-for-optimal-dvdblu-ray-conversion/"><u>Ultimate Guide: Selecting Between MakeMKV & DVDFab for Optimal DVD/Blu-Ray Conversion</u></a></li>
+</ul></div>
 
