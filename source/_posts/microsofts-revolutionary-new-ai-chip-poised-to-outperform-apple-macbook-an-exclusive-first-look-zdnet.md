@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Revolutionary New AI Chip Poised to Outperform Apple MacBook: An Exclusive First Look - ZDNet"
-date: 2024-09-22T18:45:29.341Z
-updated: 2024-09-28T07:21:05.202Z
+date: 2024-10-01T00:12:48.199Z
+updated: 2024-10-02T19:02:53.576Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-prime-biz-vault-services-for-data/"><u>[Updated] Prime Biz Vault Services for Data</u></a></li>
-<li><a href="https://win-special.techidaily.com/1726226779235-movavi/"><u>免費移動電話影片格式變更工具 - 使用Movavi 線上轉換器</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-9950x-test-results-in-depth-blender-performance-analysis-across-different-thermal-design-power-configurations/"><u>AMD Ryzen 9 9950X Test Results: In-Depth Blender Performance Analysis Across Different Thermal Design Power Configurations</u></a></li>
-<li><a href="https://win-special.techidaily.com/asf-swf-online/"><u>ASF 프리미우스를 SWF로 무료 변환 - Online 코드 전환</u></a></li>
-<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-mpeg-a-flac-tramite-linnovativo-sito-web-di-movavi-esegui-ora/"><u>Conversione Gratuita Da MPEG a FLAC Tramite L'innovativo Sito Web Di Movavi - Esegui Ora!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/gratis-brannprogram-for-windows-bast-programrar-i-6-steg-for-windows-1187/"><u>Gratis Brännprogram För Windows: Bäst Programrar I 6 Steg - För Windows 11/8/7</u></a></li>
-<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-action-steps-for-fixing-google-hangouts-microphone-problems/"><u>Immediate Action Steps for Fixing Google Hangouts' Microphone Problems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-no-complications-for-patching/"><u>Lenovo Z50-70: No Complications for Patching</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-aspect-ratios-in-video-production/"><u>Mastering Aspect Ratios in Video Production</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-premier-virtual-communities-where-strangers-become-friends/"><u>New 2024 Approved The Premier Virtual Communities Where Strangers Become Friends</u></a></li>
-<li><a href="https://win-special.techidaily.com/recensioni-approfondite-per-il-convertitore-video-freemake/"><u>Recensioni Approfondite per Il Convertitore Video Freemake</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/transformez-vos-images-bmp-en-jpg-sans-frais-solution-simple-et-efficace-a-laide-de-movavi/"><u>Transformez Vos Images BMP en JPG Sans Frais, Solution Simple Et Efficace À L'aide De Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-selecting-between-makemkv-and-dvdfab-for-optimal-dvdblu-ray-conversion/"><u>Ultimate Guide: Selecting Between MakeMKV & DVDFab for Optimal DVD/Blu-Ray Conversion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enhance-your-clips-with-these-top-5-macos-sierra-editors-for-2024/"><u>[New] Enhance Your Clips with These Top 5 macOS Sierra Editors for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>[New] In 2024, Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-of-pc-instability-with-persona-3-fd-re-release-and-how-to-fix-them/"><u>Common Causes of PC Instability with Persona 3 FD Re-Release & How to Fix Them</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-movie-file-division-tips-for-cutting-mp4s-across-pc-and-mac-environments/"><u>Effortless Movie File Division: Tips for Cutting MP4s Across PC & Mac Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-recover-deleted-texts-a-three-step-guide/"><u>How to Recover Deleted Texts: A Three-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Pro</u></a></li>
+<li><a href="https://win-special.techidaily.com/mastering-quick-tiktok-edits-a-comprehensive-2023-guide-to-instantly-adding-stunning-visual-enhancements/"><u>Mastering Quick TikTok Edits: A Comprehensive 2023 Guide to Instantly Adding Stunning Visual Enhancements</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-ultimate-guide-to-iphone-photography-apps-in-2angs-transforming-pixels-into-masterpieces/"><u>The Ultimate Guide to iPhone Photography Apps in 2Angs - Transforming Pixels Into Masterpieces</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-picks-best-video-editing-tools-and-software-for-smooth-cuts-and-edits/"><u>Top Picks: Best Video Editing Tools and Software for Smooth Cuts & Edits</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-guide-to-downsizing-your-pdf-files-in-windows-top-tools-of-the-year-both-cost-free-and-subscription-based/"><u>Ultimate Guide to Downsizing Your PDF Files in Windows - Top Tools of the Year (Both Cost-Free and Subscription-Based)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unlocking-fcpx-potential-a-deep-dive-into-xml-files-for-2024/"><u>Unlocking FCPX Potential A Deep Dive Into XML Files for 2024</u></a></li>
 </ul></div>
 

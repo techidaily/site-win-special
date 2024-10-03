@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Users, Pay Attention! Microsoft Introduces Charges for Updates – What You'll Need to Know About the Costs
-date: 2024-09-24T04:02:18.777Z
-updated: 2024-09-27T23:01:24.810Z
+date: 2024-09-28T19:33:55.776Z
+updated: 2024-10-03T05:30:35.292Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>[New] 2024 Approved Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch/"><u>[New] 2024 Approved Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-blur-apps-that-work-wonders-on-iphonesandroids/"><u>[New] Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-revolutionize-your-designs-incorporating-3d-text-psx/"><u>[New] Revolutionize Your Designs Incorporating 3D Text PSX</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-mastering-the-art-of-downloading-full-metal-jacket-fmj-clips-compatible-with-macos-and-windows/"><u>Guide: Mastering the Art of Downloading Full Metal Jacket (FMJ) Clips – Compatible with macOS and Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/harvard-course-materials-on-isites-easy-guide-to-download-and-convert-vids-to-mp4-format/"><u>Harvard Course Materials on iSites – Easy Guide to Download and Convert Vids to MP4 Format</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12r-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12R Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-save-and-playback-sharepoint-content-as-mp4-or-avi-easy-steps-for-windowsmac-users/"><u>How to Save and Playback SharePoint Content as MP4 or AVI – Easy Steps for Windows/Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-save-and-watch-youtube-videos-in-ultra-hd-4k-quality-on-a-windows-or-macos-device/"><u>How to Save and Watch YouTube Videos in Ultra HD (4K) Quality on a Windows or macOS Device</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-use-rutube-downloader-for-quick-video-captures-on-windows-and-macos-systems/"><u>How To Use RuTube Downloader for Quick Video Captures on Windows and macOS Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-12-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus 12 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/mp3-conversion-made-simple-how-to-transfer-songs-from-reverbnation/"><u>MP3 Conversion Made Simple: How to Transfer Songs From ReverbNation</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-10-spacebar-malfunction-on-your-keyboard/"><u>Solution Steps for Windows 10 Spacebar Malfunction on Your Keyboard</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-and-downloading-cudoo-videos-in-multiple-formats/"><u>Step-by-Step Guide: Converting and Downloading Cudoo Videos in Multiple Formats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-problems-behind-us-play-games-and-stream-sound-on-discord-effectively/"><u>The Problem's Behind Us! Play Games and Stream Sound on Discord Effectively.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>[New] Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-watching-to-archiving-how-to-record-with-ease-netflix-and-macos/"><u>[New] From Watching to Archiving How to Record with Ease, Netflix & MacOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-steps-to-capture-iphone-screens-seamlessly/"><u>[Updated] In 2024, Easy Steps to Capture iPhone Screens Seamlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swiftness-at-a-click-managing-youtubes-video-speed-settings/"><u>[Updated] Swiftness at a Click Managing YouTube's Video Speed Settings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool-for-2024/"><u>[Updated] The In-Depth Evaluation of the Next-Gen SloMo Video Tool for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-stealthy-spectator-of-online-tales/"><u>2024 Approved Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://win-special.techidaily.com/best-freepaid-screenshot-and-video-capture-software-top-apps-beyond-apowersoft/"><u>Best Free/Paid Screenshot & Video Capture Software: Top Apps Beyond Apowersoft</u></a></li>
+<li><a href="https://win-special.techidaily.com/best-techniques-for-converting-yapfiles-videos-into-multiple-formats-like-mp4-mov-and-flv/"><u>Best Techniques for Converting YAPfiles Videos Into Multiple Formats Like MP4, MOV & FLV</u></a></li>
+<li><a href="https://win-special.techidaily.com/comprehensive-media-merger-tool-easily-convert-and-bundle-various-file-formats-mp4-avi-wmv-flv-mov-with-f4f-joiner/"><u>Comprehensive Media Merger Tool: Easily Convert & Bundle Various File Formats (MP4, AVI, WMV, FLV, MOV) with F4F Joiner</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-photos-on-ios-efficiently-from-jpegpng-to-pdf-for-2024/"><u>Convert Photos on IOS Efficiently From JPEG/PNG to PDF for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/converting-online-media-into-multiple-formats-mp4-avi-mp3-for-pc-and-mac-users/"><u>Converting Online Media Into Multiple Formats (MP4, AVI, MP3) - For PC & Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-radio-bremen-content-audio-and-video-in-multiple-formats-including-mp4-mov-and-more/"><u>Download Radio Bremen Content - Audio & Video in Multiple Formats Including MP4, MOV and More</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-videos-effortlessly-from-bilibili-using-compatible-apps-for-macwindows/"><u>Download Videos Effortlessly From Bilibili Using Compatible Apps for Mac/Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-your-favorite-shows-from-dnatube-in-high-quality-formats-like-mp4-mov-and-avi/"><u>Download Your Favorite Shows From DNATube in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
+<li><a href="https://win-special.techidaily.com/downloading-riris-hits-converting-track-formats-like-mp3-aac-and-wav-for-pcmac-users/"><u>Downloading RiRi's Hits: Converting Track Formats Like MP3, AAC & WAV for PC/Mac Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/share-your-stories-with-lush-soundtracks-for-2024/"><u>Share Your Stories with Lush Soundtracks for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-6s-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 6s Plus from iCloud</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Significant Privacy & Security Enhancements Following Intense Reviews - ZDNet
-date: 2024-09-22T16:09:30.868Z
-updated: 2024-09-28T02:34:46.754Z
+date: 2024-09-26T03:48:49.051Z
+updated: 2024-10-03T08:42:34.089Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,17 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-warzone-not-using-gpu-on-windows-10/"><u>[SOLVED] Warzone Not Using GPU on Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/compreenas-comprehensive-walkthrough-for-creating-a-unified-skype-chat-room-accessible-by-users-of-different-operating-systems-for-2024/"><u>Compreenas Comprehensive Walkthrough for Creating a Unified Skype Chat Room Accessible by Users of Different Operating Systems for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/controlling-video-flow-on-your-screens-window-netflix/"><u>Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
-<li><a href="https://win-special.techidaily.com/could-samsung-and-microsoft-revolutionize-the-cloud-gaming-industry-discover-more-on-zdnet/"><u>Could Samsung and Microsoft Revolutionize the Cloud Gaming Industry? Discover More on ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/countdown-for-change-how-microsoft-must-resolve-windows-amo-problems-within-a-year-according-to-zdnet-experts/"><u>Countdown for Change: How Microsoft Must Resolve Windows Amo Problems Within a Year, According to ZDNet Experts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/effective-practices-for-device-video-capture-for-2024/"><u>Effective Practices for Device Video Capture for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
-<li><a href="https://win-special.techidaily.com/inside-the-lab-the-rise-of-microsofts-next-gen-ai-processor-to-challenge-apple-macbook-dominance-insights-from-zdnet/"><u>Inside the Lab: The Rise of Microsoft's Next-Gen AI Processor to Challenge Apple MacBook Dominance | Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/smartphone-showdown-evaluating-the-zte-blade-a3ys-proficiency-in-everyday-use/"><u>Smartphone Showdown: Evaluating the ZTE Blade A3Y's Proficiency in Everyday Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[Updated] Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-travel-friendly-laptop-battery-boosters-on-the-market/"><u>Best Travel-Friendly Laptop Battery Boosters on the Market</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ning-a-memorable-youtube-sign-off-for-2024/"><u>Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x8b-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X8b</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-70-lite-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 70 Lite 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-special.techidaily.com/in-depth-analysis-the-recent-microsoft-365-service-interruption-affecting-thousands-explained-cyberwise/"><u>In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-picks-best-win-11-webcams-for-clear-capture-for-2024/"><u>Premium Picks Best Win 11 Webcams for Clear Capture for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-and-surfing-from-the-comfort-of-your-couch-how-to-get-your-home-theater-online/"><u>Streaming and Surfing From the Comfort of Your Couch: How to Get Your Home Theater Online</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-dawn-of-learning-tech-how-pc-producers-are-shaping-the-future-with-windows-11-se-discoveries-on-zdnet/"><u>The Dawn of Learning Tech: How PC Producers Are Shaping the Future with Windows 11 SE | Discoveries on ZDNET</u></a></li>
+<li><a href="https://win-special.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-businesses-discover-the-best-picks-on-zdnet/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Businesses - Discover the Best Picks on ZDNet</u></a></li>
 <li><a href="https://win-special.techidaily.com/unveiling-the-future-of-productivity-with-microsoft-surface-laptop-studio-a-first-look-that-will-make-you-want-more/"><u>Unveiling the Future of Productivity with Microsoft Surface Laptop Studio - A First Look That Will Make You Want More</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-vulnerability-in-abandoned-microsoft-artificial-intelligence-by-notorious-ethical-security-researcher-zdnet/"><u>Unveiling Vulnerability in Abandoned Microsoft Artificial Intelligence by Notorious Ethical Security Researcher | ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-over-lag-issues-in-outriders-tips-and-tricks-for-smooth-gaming/"><u>Winning Over Lag Issues in Outriders - Tips and Tricks for Smooth Gaming</u></a></li>
 </ul></div>
 

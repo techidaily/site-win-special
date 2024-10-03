@@ -1,7 +1,7 @@
 ---
 title: Critical Deadline Approaching for Microsoft to Fix Windows 11 Issues in Just One Year | Insights From ZDNet
-date: 2024-09-24T00:15:10.144Z
-updated: 2024-09-28T00:16:00.963Z
+date: 2024-09-28T08:21:04.872Z
+updated: 2024-10-03T04:21:19.438Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-prime-sd-card-selections-for-optimal-gopro-hero-78-performance-for-2024/"><u>[New] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-power-of-nikon-d7500/"><u>[Updated] Unveiling the Power of Nikon D7500</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-fixes-syncing-iphone-photos-with-computer/"><u>2024 Approved Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sounds-of-laughter-top-ringtones-downloaders/"><u>2024 Approved Sounds of Laughter Top Ringtones Downloaders</u></a></li>
-<li><a href="https://win-special.techidaily.com/ai-recall-vulnerability-unveiled-by-ethical-security-researcher-challenges-perceived-complexity-of-microsofts-technology-zdnet-coverage/"><u>AI Recall Vulnerability Unveiled by Ethical Security Researcher, Challenges Perceived Complexity of Microsoft's Technology | ZDNET Coverage</u></a></li>
-<li><a href="https://win-special.techidaily.com/buy-microsoft-office-2019-at-a-bargain-secure-license-for-pc-or-mac-under-25-now-insights-from-zdnet/"><u>Buy Microsoft Office 2019 at a Bargain! Secure License for PC or Mac Under $25 Now | Insights From ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/congratulations-on-installing-mirilliss-innovative-action-tool/"><u>Congratulations on Installing MirilliS's Innovative Action Tool!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-official-epson-wf-2540-drivers-now-supported-by-windows-operating-systems/"><u>Get the Official Epson WF-2540 Drivers Now – Supported by Windows Operating Systems!</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-technology-boosts-employee-happiness-more-than-colleagues-insights-from-a-microsoft-leader-zdnet/"><u>How Technology Boosts Employee Happiness More Than Colleagues, Insights From a Microsoft Leader | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-clear-cache-and-cookies-in-every-major-browser/"><u>How to Clear Cache and Cookies in Every Major Browser</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-txt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .txt file Using DigiSigner</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-video-learn-the-art-of-live-action-screen-recording-for-gaming-and-editing/"><u>How-To Video: Learn the Art of Live-Action Screen Recording for Gaming and Editing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/save-your-memories-the-ultimate-software-for-iphone-note-data-recovery/"><u>Save Your Memories: The Ultimate Software for iPhone Note Data Recovery</u></a></li>
-<li><a href="https://win-special.techidaily.com/times-tide-waits-for-none-master-chrono-control-today/"><u>Time's Tide Waits for None – Master Chrono Control Today!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweeted-vids-to-mp4wav-conversion/"><u>Tweeted Vids to MP4/WAV Conversion</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-tutorial-on-acquiring-video-content-from-pornerbroscom/"><u>Ultimate Tutorial on Acquiring Video Content From Pornerbros.com</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-tutorial-accessing-and-enjoying-spotify-on-your-sandisk-portable-music-device-effortlessly/"><u>Ultimate Tutorial: Accessing and Enjoying Spotify on Your SanDisk Portable Music Device Effortlessly</u></a></li>
-<li><a href="https://win-special.techidaily.com/unleash-your-control-discover-the-potential-of-action-rcu-app/"><u>Unleash Your Control: Discover the Potential of Action RCU App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-iphone-troubleshooting-secrets-how-to-perform-a-hard-reset-and-boot-into-recovery/"><u>Unlock iPhone Troubleshooting Secrets: How to Perform a Hard Reset and Boot Into Recovery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>[New] TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-room-basics-for-newbies/"><u>[New] Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/"><u>[Updated] In 2024, Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-webcams-for-zoom/"><u>2024 Approved Best Webcams for Zoom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choisissez-le-codec-optimal-handbrake-h264-par-rapport-a-mpeg-4-pour-convertir-vos-dvd/"><u>Choisissez Le Codec Optimal : HandBrake H.264 Par Rapport À MPEG-4 Pour Convertir Vos DVD</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-tips-for-avoiding-instagram-video-troubles/"><u>Expert Tips for Avoiding Instagram Video Troubles</u></a></li>
+<li><a href="https://win-special.techidaily.com/harvard-course-materials-on-isites-easy-guide-to-download-and-convert-vids-to-mp4-format/"><u>Harvard Course Materials on iSites – Easy Guide to Download and Convert Vids to MP4 Format</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-and-playback-sharepoint-content-as-mp4-or-avi-easy-steps-for-windowsmac-users/"><u>How to Save and Playback SharePoint Content as MP4 or AVI – Easy Steps for Windows/Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-and-watch-youtube-videos-in-ultra-hd-4k-quality-on-a-windows-or-macos-device/"><u>How to Save and Watch YouTube Videos in Ultra HD (4K) Quality on a Windows or macOS Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone XR online without SIM Card?</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-use-rutube-downloader-for-quick-video-captures-on-windows-and-macos-systems/"><u>How To Use RuTube Downloader for Quick Video Captures on Windows and macOS Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/mp3-conversion-made-simple-how-to-transfer-songs-from-reverbnation/"><u>MP3 Conversion Made Simple: How to Transfer Songs From ReverbNation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters-for-2024/"><u>Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-and-downloading-cudoo-videos-in-multiple-formats/"><u>Step-by-Step Guide: Converting and Downloading Cudoo Videos in Multiple Formats</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-maharashtra-raat-performances-into-multiple-formats-mp4-mov-mp3/"><u>Step-by-Step Guide: Converting Maharashtra Raat Performances Into Multiple Formats (MP4, MOV, MP3)</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-downloading-video-content-from-sharptrades/"><u>Step-by-Step Guide: Downloading Video Content From SharpTrades</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-securely-capturing-streamed-sessions-on-vtc-services/"><u>Step-by-Step Guide: Securely Capturing Streamed Sessions on VTC Services</u></a></li>
 </ul></div>
 

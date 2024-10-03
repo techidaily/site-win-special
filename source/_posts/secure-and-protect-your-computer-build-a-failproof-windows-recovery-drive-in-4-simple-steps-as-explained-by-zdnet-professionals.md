@@ -1,7 +1,7 @@
 ---
 title: "Secure & Protect Your Computer: Build a Failproof Windows Recovery Drive in 4 Simple Steps, as Explained by ZDNet Professionals"
-date: 2024-09-24T16:58:02.730Z
-updated: 2024-09-28T00:44:41.450Z
+date: 2024-09-27T17:43:54.306Z
+updated: 2024-10-02T20:17:24.541Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -48,18 +55,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -68,16 +75,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -97,13 +98,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -111,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -162,19 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-record-your-games-effortlessly-without-relying-on-microsoft/"><u>[Updated] 2024 Approved Record Your Games Effortlessly, Without Relying on Microsoft</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-rankings-and-insights-best-camcorders/"><u>[Updated] In 2024, Ultimate Rankings & Insights Best Camcorders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-digital-retrieval-saving-and-storing-chats-on-fb/"><u>[Updated] The Art of Digital Retrieval Saving and Storing Chats on FB</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-asmr-a-sound-path-to-wellness/"><u>2024 Approved ASMR A Sound Path to Wellness?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-play-8t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor Play 8T to Roku | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-your-instagram-game-macs-automated-video-resizing/"><u>Boost Your Instagram Game Mac's Automated Video Resizing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-and-creating-content-with-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Connecting and Creating Content with Leading Sites: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-youtube-series-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download YouTube Series in Multiple Formats: MP4, AVI, WMV - Compatible with macOS & Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>In 2024, 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/"><u>New 2024 Approved Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro</u></a></li>
-<li><a href="https://win-special.techidaily.com/say-goodbye-to-unwanted-toolbars-removing-flipbuilder-from-your-browser/"><u>Say Goodbye to Unwanted Toolbars: Removing FlipBuilder From Your Browser</u></a></li>
-<li><a href="https://win-special.techidaily.com/say-goodbye-how-to-easily-uninstall-flipbuilder-from-your-browser/"><u>Say Goodbye: How to Easily Uninstall FlipBuilder From Your Browser</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-multimedia-elements-to-your-flipbook-ebook-with-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Multimedia Elements to Your Flipbook eBook with FlipBuilder Tools</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-creating-and-publishing-interactive-books-for-macos-using-flipbook-creator/"><u>Step-by-Step Guide: Creating and Publishing Interactive Books for macOS Using Flipbook Creator</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-social-stream-snippets-yearly-update/"><u>[New] Social Stream Snippets, Yearly Update</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-captioning-techniques-for-professional-youtube-content/"><u>[Updated] Captioning Techniques for Professional YouTube Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[Updated] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-iphone-tips-efficiently-trim-and-modify-videos/"><u>[Updated] IPhone Tips Efficiently Trim and Modify Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-changing-igtv-video-covers/"><u>2024 Approved The Art of Changing IGTV Video Covers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-technology-to-upgrade-your-prompt-engineering-skills/"><u>Leverage Technology to Upgrade Your Prompt Engineering Skills</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/perfectly-tuned-audio-devices-for-media-consumption/"><u>Perfectly Tuned Audio Devices for Media Consumption</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-itel-a70-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Itel A70</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-operating-system-couldnt-be-detected-issue-expert-solutions-and-tips/"><u>Resolving the ‘Operating System Couldn’t Be Detected’ Issue: Expert Solutions & Tips</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-maharashtra-raat-performances-into-multiple-formats-mp4-mov-mp3/"><u>Step-by-Step Guide: Converting Maharashtra Raat Performances Into Multiple Formats (MP4, MOV, MP3)</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-downloading-video-content-from-sharptrades/"><u>Step-by-Step Guide: Downloading Video Content From SharpTrades</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-securely-capturing-streamed-sessions-on-vtc-services/"><u>Step-by-Step Guide: Securely Capturing Streamed Sessions on VTC Services</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-converting-online-vice-content-into-various-video-files-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial: Converting Online Vice Content Into Various Video Files (MP4, AVI, FLV, MOV)</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-saving-and-exporting-fxs-analysis-videos-in-various-formats-for-macwindows-users/"><u>Step-by-Step Tutorial: Saving and Exporting FXS Analysis Videos in Various Formats for Mac/Windows Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/steps-to-legally-stream-or-download-truly-original-tv-shows/"><u>Steps to Legally Stream or Download Truly Original TV Shows</u></a></li>
 </ul></div>
 
