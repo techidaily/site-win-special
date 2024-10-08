@@ -1,7 +1,7 @@
 ---
 title: "How-To Video: Learn the Art of Live-Action Screen Recording for Gaming and Editing"
-date: 2024-10-01T11:17:40.508Z
-updated: 2024-10-02T21:14:37.903Z
+date: 2024-10-07T17:43:49.141Z
+updated: 2024-10-08T18:14:29.059Z
 tags:
   - product
 categories:
@@ -61,22 +61,35 @@ Action Tutorials
 
  Follow this tutorial to learn basics about fullscreen Windows desktop recording.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Active screen recording mode
 
  Switch Action! recording mode to **"Active screen"**.
 
 ![Mirillis Action! - active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_mode.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Action! HUD appears in top right (default position) corner of your screen. Action! is now connected to your Windows desktop and is ready to start screen recording. 
 
 ![Mirillis Action! - HUD in active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Active screen recording
 
@@ -84,22 +97,15 @@ Action Tutorials
 
 ![Mirillis Action! - HUD showing desktop recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Press "Start/stop recording" button or F9 hotkey again to stop desktop recording. HUD status changes showing that Windows desktop recording has finished.
 
 ![Mirillis Action! - HUD showing finished desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Screen recordings playback
@@ -112,15 +118,15 @@ Action Tutorials
 
 ![Mirillis Action! - desktop recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_playback.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To playback raw Action! video recordings you can also use **Splash** media player. Splash provides additional features like SmartSeek, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on video recordings
 
@@ -143,19 +149,18 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-drone-enhancement-list-for-dji-phantom-4/"><u>[New] 2024 Approved The Ultimate Drone Enhancement List for DJI Phantom 4</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-dive-into-the-world-of-enhanced-youtube-content-with-premium-subscription-for-2024/"><u>[Updated] Dive Into the World of Enhanced YouTube Content with Premium Subscription for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-jokes-laughgenix-hub/"><u>[Updated] Image Jokes LaughGenix Hub</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-webcammastery-practicalrecordingsteps/"><u>[Updated] WebCamMastery PracticalRecordingSteps</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/converting-online-media-into-multiple-formats-mp4-avi-mp3-for-pc-and-mac-users/"><u>Converting Online Media Into Multiple Formats (MP4, AVI, MP3) - For PC & Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-radio-bremen-content-audio-and-video-in-multiple-formats-including-mp4-mov-and-more/"><u>Download Radio Bremen Content - Audio & Video in Multiple Formats Including MP4, MOV and More</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-videos-effortlessly-from-bilibili-using-compatible-apps-for-macwindows/"><u>Download Videos Effortlessly From Bilibili Using Compatible Apps for Mac/Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-your-favorite-shows-from-dnatube-in-high-quality-formats-like-mp4-mov-and-avi/"><u>Download Your Favorite Shows From DNATube in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://win-special.techidaily.com/downloading-riris-hits-converting-track-formats-like-mp3-aac-and-wav-for-pcmac-users/"><u>Downloading RiRi's Hits: Converting Track Formats Like MP3, AAC & WAV for PC/Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/easy-conversion-and-download-of-worldstarhiphop-content-as-mp4-avi-mov-wmv-or-mkv/"><u>Easy Conversion and Download of WorldstarHipHop Content as MP4, AVI, MOV, WMV or MKV</u></a></li>
-<li><a href="https://facebook.techidaily.com/steer-clear-understanding-the-dangers-of-random-friendships/"><u>Steer Clear: Understanding the Dangers of Random Friendships</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-transformation-of-business-tech-tools-amidst-rising-ai-dominance-zdnet/"><u>The Future Transformation of Business Tech Tools Amidst Rising AI Dominance | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-blank-screens-solutions-for-computers-that-boot-without-display/"><u>Troubleshooting Blank Screens: Solutions for Computers that Boot Without Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-moguls-and-millionaires/"><u>[New] YouTube Moguls and Millionaires</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-macbook-webcam-footage/"><u>[Updated] 2024 Approved Mastering MacBook Webcam Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-hashtags-in-twitter-advertising/"><u>[Updated] Leveraging Hashtags in Twitter Advertising</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making-for-2024/"><u>[Updated] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-implementing-auto-captions-in-reels-for-2024/"><u>[Updated] Step-by-Step Implementing Auto Captions in Reels for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-reno-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Reno 11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/mastering-quick-tiktok-edits-a-comprehensive-2023-guide-to-instantly-adding-stunning-visual-enhancements/"><u>Mastering Quick TikTok Edits: A Comprehensive 2023 Guide to Instantly Adding Stunning Visual Enhancements</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-ultimate-guide-to-iphone-photography-apps-in-2angs-transforming-pixels-into-masterpieces/"><u>The Ultimate Guide to iPhone Photography Apps in 2Angs - Transforming Pixels Into Masterpieces</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-guide-to-downsizing-your-pdf-files-in-windows-top-tools-of-the-year-both-cost-free-and-subscription-based/"><u>Ultimate Guide to Downsizing Your PDF Files in Windows - Top Tools of the Year (Both Cost-Free and Subscription-Based)</u></a></li>
 </ul></div>
 

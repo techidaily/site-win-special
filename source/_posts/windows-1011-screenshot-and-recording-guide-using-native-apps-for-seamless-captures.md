@@ -1,7 +1,7 @@
 ---
 title: "Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures"
-date: 2024-09-26T04:16:11.783Z
-updated: 2024-10-03T06:42:47.624Z
+date: 2024-10-01T16:13:43.450Z
+updated: 2024-10-08T17:55:45.226Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,18 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-top-20-chill-country-tracks-for-unwinding-and-grooving-on-tiktok/"><u>[New] Top 20 Chill Country Tracks for Unwinding & Grooving on TikTok</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-your-facebook-experience-mastering-story-uploads/"><u>[Updated] Enhancing Your Facebook Experience Mastering Story Uploads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-hidden-social-content-where-are-your-vids/"><u>2024 Approved Unlocking Hidden Social Content Where Are Your Vids?</u></a></li>
-<li><a href="https://win-special.techidaily.com/apowersoft-unveils-upgraded-screencapture-pro-v11-features-for-efficient-screenshots-and-recording/"><u>Apowersoft Unveils Upgraded ScreenCapture Pro v1.1 Features for Efficient Screenshots and Recording</u></a></li>
-<li><a href="https://win-special.techidaily.com/best-free-unmarked-video-editors-enhance-your-skills-without-spending-a-dime/"><u>Best Free Unmarked Video Editors: Enhance Your Skills Without Spending a Dime</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-education-top-five-chatgpt-applications-for-students/"><u>Enhancing Education: Top Five ChatGPT Applications for Students</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-launch-an-online-podcast-for-free-expert-tips-and-techniques/"><u>How to Launch an Online Podcast for Free - Expert Tips & Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-apowermirrors-aircast-functionality/"><u>Mastering ApowerMirror's AIRCAST Functionality</u></a></li>
-<li><a href="https://win-special.techidaily.com/restore-your-missing-slides-a-complete-guide-to-uncovering-deleted-ppt-files/"><u>Restore Your Missing Slides: A Complete Guide to Uncovering Deleted PPT Files</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-filmora-13-free-trial-download-unlock-pro-features/"><u>Updated Filmora 13 Free Trial Download Unlock Pro Features</u></a></li>
-<li><a href="https://win-special.techidaily.com/your-guide-to-the-elusive-windows-10-lifeline-silent-announcement-from-microsoft-leaves-hope-dwindling/"><u>Your Guide to the Elusive Windows 10 Lifeline - Silent Announcement From Microsoft Leaves Hope Dwindling</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inshot-vs-other-editors-comprehensive-analysis/"><u>[New] InShot vs Other Editors Comprehensive Analysis</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-videos-effortlessly-from-bilibili-using-compatible-apps-for-macwindows/"><u>Download Videos Effortlessly From Bilibili Using Compatible Apps for Mac/Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-your-favorite-shows-from-dnatube-in-high-quality-formats-like-mp4-mov-and-avi/"><u>Download Your Favorite Shows From DNATube in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
+<li><a href="https://win-special.techidaily.com/downloading-riris-hits-converting-track-formats-like-mp3-aac-and-wav-for-pcmac-users/"><u>Downloading RiRi's Hits: Converting Track Formats Like MP3, AAC & WAV for PC/Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/easy-conversion-and-download-of-worldstarhiphop-content-as-mp4-avi-mov-wmv-or-mkv/"><u>Easy Conversion and Download of WorldstarHipHop Content as MP4, AVI, MOV, WMV or MKV</u></a></li>
+<li><a href="https://win-special.techidaily.com/easy-guide-to-saving-rutube-videos-on-pc-or-mac-a-step-by-step-tutorial/"><u>Easy Guide to Saving RuTube Videos on PC or Mac: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-special.techidaily.com/easy-guide-to-transferring-vimeo-content-convert-and-download-in-mp4-and-avi-formats-for-windowsmac-users/"><u>Easy Guide to Transferring Vimeo Content – Convert and Download in MP4 & AVI Formats for Windows/Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/effortless-audio-conversion-on-soundclick-beats-get-your-favorite-beats-in-multiple-formats-mp3-wav-aac-m4a-etc-for-seamless-playback/"><u>Effortless Audio Conversion on SoundClick Beats: Get Your Favorite Beats in Multiple Formats (MP3, WAV, AAC, M4A, Etc.) For Seamless Playback!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>In 2024, The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/joe-biden-uses-social-media-to-speed-up-vax-distribution/"><u>Joe Biden Uses Social Media to Speed Up Vax Distribution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximizing-iphones-internet-speed-8-key-improvements-for-stellar-wi-fi-results/"><u>Maximizing iPhone's Internet Speed: 8 Key Improvements for Stellar Wi-Fi Results</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-selection-10-premium-image-replace-kits-for-2024/"><u>Premier Selection 10 Premium Image Replace Kits for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resetting-display-profiles-for-nvidia-gpus/"><u>Resetting Display Profiles for NVIDIA GPUs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
 </ul></div>
 

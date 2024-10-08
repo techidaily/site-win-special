@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Significant Privacy & Security Enhancements Following Intense Reviews - ZDNet
-date: 2024-09-26T03:48:49.051Z
-updated: 2024-10-03T08:42:34.089Z
+date: 2024-10-01T16:56:45.527Z
+updated: 2024-10-08T16:19:43.977Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[Updated] Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-travel-friendly-laptop-battery-boosters-on-the-market/"><u>Best Travel-Friendly Laptop Battery Boosters on the Market</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ning-a-memorable-youtube-sign-off-for-2024/"><u>Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x8b-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X8b</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-70-lite-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 70 Lite 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win-special.techidaily.com/in-depth-analysis-the-recent-microsoft-365-service-interruption-affecting-thousands-explained-cyberwise/"><u>In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-picks-best-win-11-webcams-for-clear-capture-for-2024/"><u>Premium Picks Best Win 11 Webcams for Clear Capture for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streaming-and-surfing-from-the-comfort-of-your-couch-how-to-get-your-home-theater-online/"><u>Streaming and Surfing From the Comfort of Your Couch: How to Get Your Home Theater Online</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-dawn-of-learning-tech-how-pc-producers-are-shaping-the-future-with-windows-11-se-discoveries-on-zdnet/"><u>The Dawn of Learning Tech: How PC Producers Are Shaping the Future with Windows 11 SE | Discoveries on ZDNET</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-businesses-discover-the-best-picks-on-zdnet/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Businesses - Discover the Best Picks on ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-the-future-of-productivity-with-microsoft-surface-laptop-studio-a-first-look-that-will-make-you-want-more/"><u>Unveiling the Future of Productivity with Microsoft Surface Laptop Studio - A First Look That Will Make You Want More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[New] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nextgen-recording-movavis-new-tech-showcase/"><u>[Updated] 2024 Approved NextGen Recording Movavi's New Tech Showcase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/jpgbmp-movavi/"><u>「即時無障礙JPG到BMP格式自動變更 - 利用Movavi解決方案」</u></a></li>
+<li><a href="https://win-special.techidaily.com/customizing-visuals-in-flipbooks-master-changing-flash-window-hues-on-flipbuildercom/"><u>Customizing Visuals in Flipbooks: Master Changing Flash Window Hues on FlipBuilder.com</u></a></li>
+<li><a href="https://win-special.techidaily.com/direct-printing-selective-pages-from-ebooks-with-flipbuilder-how-it-works/"><u>Direct Printing Selective Pages From eBooks with FlipBuilder - How It Works</u></a></li>
+<li><a href="https://win-special.techidaily.com/discover-flipbuildercom-your-ultimate-online-image-and-video-uploading-platform/"><u>Discover FlipBuilder.com: Your Ultimate Online Image & Video Uploading Platform</u></a></li>
+<li><a href="https://win-special.techidaily.com/emailing-your-custom-made-flipbooks-a-step-by-step-guide-using-html-links-discover-how-at-flipbuildercom/"><u>Emailing Your Custom-Made Flipbooks: A Step-by-Step Guide Using HTML Links - Discover How at FlipBuilder.com</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-build-a-multi-image-pdf-and-allow-downloads-a-guide-on-flipbuilder/"><u>How to Build a Multi-Image PDF & Allow Downloads – A Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-combine-multiple-images-onto-a-single-webpage-flipbuilder-tutorial/"><u>How To Combine Multiple Images Onto A Single Webpage - FlipBuilder Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y36i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y36i Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-11-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 11 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-by-step-process-of-enhancing-your-graphics-card/"><u>Step-by-Step Process of Enhancing Your Graphics Card</u></a></li>
 </ul></div>
 

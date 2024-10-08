@@ -1,7 +1,7 @@
 ---
 title: "Final Notice: Transition Away From Authy Desktop for Two-Factor Authentication Within a Month | ZDNet"
-date: 2024-09-28T03:01:29.819Z
-updated: 2024-10-02T22:09:59.082Z
+date: 2024-10-06T17:14:21.079Z
+updated: 2024-10-08T16:11:06.001Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-voice-modulation-made-easy-ranking-the-best-audio-alteration-apps-on-smartphones/"><u>[Updated] 2024 Approved Voice Modulation Made Easy Ranking the Best Audio Alteration Apps on Smartphones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-personalize-twitter-video-thumbnail/"><u>[Updated] In 2024, Personalize Twitter Video Thumbnail</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>2024 Approved YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-for-highest-quality-power-inverters/"><u>2024'S Ultimate Selection for Highest Quality Power Inverters</u></a></li>
-<li><a href="https://win-special.techidaily.com/a-critical-countdown-for-microsoft-resolving-major-issues-with-windows-11-in-just-one-year-according-to-zdnet-analysis/"><u>A Critical Countdown for Microsoft: Resolving Major Issues with Windows 11 in Just One Year, According to ZDNet Analysis</u></a></li>
-<li><a href="https://win-special.techidaily.com/elevate-your-pc-experience-a-step-by-step-guide-to-transforming-windows-home-into-pro-techinsights/"><u>Elevate Your PC Experience: A Step-by-Step Guide to Transforming Windows Home Into Pro | TechInsights</u></a></li>
-<li><a href="https://win-special.techidaily.com/essential-secret-shortcuts-every-tech-savvy-user-should-master-on-a-touchpad-discover-the-top-11/"><u>Essential Secret Shortcuts Every Tech Savvy User Should Master on a Touchpad - Discover the Top 11!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-scroll-wheel-issue-on-windows-10-laptop/"><u>How to Fix Unresponsive Scroll Wheel Issue on Windows 10 Laptop</u></a></li>
-<li><a href="https://win-special.techidaily.com/is-microsofts-future-bright-despite-setbacks-in-surface-sales/"><u>Is Microsoft's Future Bright Despite Setbacks in Surface Sales?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/make-windows-11-feel-familiar-tips-to-retain-windows-10-like-experience/"><u>Make Windows 11 Feel Familiar: Tips to Retain Windows 10-Like Experience</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-the-trackpad-key-secret-gestures-for-advanced-windows-mastery-discover-now/"><u>Mastering the Trackpad: Key Secret Gestures for Advanced Windows Mastery - Discover Now!</u></a></li>
-<li><a href="https://win-special.techidaily.com/microsofts-latest-unveilings-a-comprehensive-overview-of-the-october-surface-event-insights-from-zdnet/"><u>Microsoft's Latest Unveilings: A Comprehensive Overview of the October Surface Event - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-m6-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco M6 Pro 5G</u></a></li>
-<li><a href="https://facebook.techidaily.com/tailored-digital-purchasing-by-facebook-triumphs-over-apples-standard-model/"><u>Tailored Digital Purchasing by Facebook Triumphs Over Apple's Standard Model</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-xs-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone XS? How to Fix</u></a></li>
-<li><a href="https://win-special.techidaily.com/windows-1011-screenshot-and-recording-guide-using-native-apps-for-seamless-captures/"><u>Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-vids-determining-the-perfect-dimensions/"><u>[Updated] Instagram Vids Determining the Perfect Dimensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-and-gaming-the-revolution-of-nvidias-dlss-technology-in-update-35/"><u>AI and Gaming: The Revolution of Nvidia’s DLSS Technology in Update 3.5</u></a></li>
+<li><a href="https://win-special.techidaily.com/discover-flipbuildercom-your-ultimate-online-image-and-video-uploading-platform/"><u>Discover FlipBuilder.com: Your Ultimate Online Image & Video Uploading Platform</u></a></li>
+<li><a href="https://win-special.techidaily.com/emailing-your-custom-made-flipbooks-a-step-by-step-guide-using-html-links-discover-how-at-flipbuildercom/"><u>Emailing Your Custom-Made Flipbooks: A Step-by-Step Guide Using HTML Links - Discover How at FlipBuilder.com</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-cost-free-camera-screen-recorder-software/"><u>Essential Guide to Cost-Free Camera Screen Recorder Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup/"><u>From Cameras to OBS A Step-by-Step Mac & PC Broadcast Setup</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-build-a-multi-image-pdf-and-allow-downloads-a-guide-on-flipbuilder/"><u>How to Build a Multi-Image PDF & Allow Downloads – A Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-combine-multiple-images-onto-a-single-webpage-flipbuilder-tutorial/"><u>How To Combine Multiple Images Onto A Single Webpage - FlipBuilder Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-oppo-a78-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A78 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>In 2024, Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-to-telegram-heres-your-guide-to-getting-started-with-marketing-for-2024/"><u>New to Telegram? Here's Your Guide to Getting Started with Marketing for 2024</u></a></li>
 </ul></div>
 
