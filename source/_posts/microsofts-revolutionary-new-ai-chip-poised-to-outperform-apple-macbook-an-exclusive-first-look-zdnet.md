@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Revolutionary New AI Chip Poised to Outperform Apple MacBook: An Exclusive First Look - ZDNet"
-date: 2024-10-06T18:21:27.001Z
-updated: 2024-10-08T16:57:19.229Z
+date: 2024-10-08T18:33:58.324Z
+updated: 2024-10-14T17:51:35.636Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-tips-choosing-the-ideal-screen-recorder-software/"><u>[New] 2024 Approved Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-5-mac-software-for-mkv-files/"><u>[New] 2024 Approved Top 5 Mac Software for MKV Files</u></a></li>
-<li><a href="https://win-special.techidaily.com/ai-recall-vulnerability-unveiled-by-ethical-security-researcher-challenges-perceived-complexity-of-microsofts-technology-zdnet-coverage/"><u>AI Recall Vulnerability Unveiled by Ethical Security Researcher, Challenges Perceived Complexity of Microsoft's Technology | ZDNET Coverage</u></a></li>
-<li><a href="https://win-special.techidaily.com/buy-microsoft-office-2019-at-a-bargain-secure-license-for-pc-or-mac-under-25-now-insights-from-zdnet/"><u>Buy Microsoft Office 2019 at a Bargain! Secure License for PC or Mac Under $25 Now | Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-the-omoton-t1-a-solid-choice-for-cost-conscious-tablet-enthusiasts/"><u>Comprehensive Analysis: The Omoton T1, a Solid Choice for Cost-Conscious Tablet Enthusiasts</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-video-learn-the-art-of-live-action-screen-recording-for-gaming-and-editing/"><u>How-To Video: Learn the Art of Live-Action Screen Recording for Gaming and Editing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 15 Pro Activation Lock</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>In 2024, Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
-<li><a href="https://win-special.techidaily.com/times-tide-waits-for-none-master-chrono-control-today/"><u>Time's Tide Waits for None – Master Chrono Control Today!</u></a></li>
-<li><a href="https://win-special.techidaily.com/unleash-your-control-discover-the-potential-of-action-rcu-app/"><u>Unleash Your Control: Discover the Potential of Action RCU App</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-zero-cost-video-editors-for-split-screen-effects-online-and-offline/"><u>Updated 2024 Approved Best Zero-Cost Video Editors for Split-Screen Effects Online & Offline</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visualizing-success-designing-captivating-teasers-and-trailers-for-your-podcasts/"><u>Visualizing Success Designing Captivating Teasers and Trailers for Your Podcasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-easy-start-8-great-beginner-friendly-filming-cameras/"><u>[Updated] Easy Start 8 Great Beginner-Friendly Filming Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-gems-in-the-world-of-snapchat-ringtones-online/"><u>[Updated] Hidden Gems in the World of Snapchat Ringtones Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[Updated] Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-step-by-step-guide-converting-and-downloading-asiancrush-movies-as-mp4-avi-or-mov-files-for-mac-and-windows-users/"><u>1. Step-by-Step Guide: Converting and Downloading AsianCrush Movies as MP4, AVI or MOV Files for Mac & Windows Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/allavsoft-for-mac-now-supports-64-bit-architecture-compatible-with-all-macos-x-versions/"><u>Allavsoft for Mac Now Supports 64-Bit Architecture: Compatible with All macOS X Versions</u></a></li>
+<li><a href="https://win-special.techidaily.com/best-freepaid-screenshot-and-video-capture-software-top-apps-beyond-apowersoft/"><u>Best Free/Paid Screenshot & Video Capture Software: Top Apps Beyond Apowersoft</u></a></li>
+<li><a href="https://win-special.techidaily.com/best-techniques-for-converting-yapfiles-videos-into-multiple-formats-like-mp4-mov-and-flv/"><u>Best Techniques for Converting YAPfiles Videos Into Multiple Formats Like MP4, MOV & FLV</u></a></li>
+<li><a href="https://win-special.techidaily.com/comprehensive-media-merger-tool-easily-convert-and-bundle-various-file-formats-mp4-avi-wmv-flv-mov-with-f4f-joiner/"><u>Comprehensive Media Merger Tool: Easily Convert & Bundle Various File Formats (MP4, AVI, WMV, FLV, MOV) with F4F Joiner</u></a></li>
+<li><a href="https://win-special.techidaily.com/converting-online-media-into-multiple-formats-mp4-avi-mp3-for-pc-and-mac-users/"><u>Converting Online Media Into Multiple Formats (MP4, AVI, MP3) - For PC & Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-radio-bremen-content-audio-and-video-in-multiple-formats-including-mp4-mov-and-more/"><u>Download Radio Bremen Content - Audio & Video in Multiple Formats Including MP4, MOV and More</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-videos-effortlessly-from-bilibili-using-compatible-apps-for-macwindows/"><u>Download Videos Effortlessly From Bilibili Using Compatible Apps for Mac/Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fast-solutions-resolving-issues-with-predictive-emojis-on-your-iphoneipad/"><u>Fast Solutions: Resolving Issues with Predictive Emojis on Your iPhone/iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-pc-version-how-to-stop-final-fantasy-xv-from-crashing/"><u>Fixing the PC Version: How to Stop Final Fantasy XV From Crashing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-copyright-clarity-how-to-verify-video-rights-pre-upload/"><u>In 2024, Copyright Clarity How to Verify Video Rights Pre-Upload</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-light-setups-enhancing-your-game-room-vibe/"><u>Prime Light Setups: Enhancing Your Game Room Vibe</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-community-standards-appropriate-suspension-of-trump-temporarily/"><u>Tech Community Standards: Appropriate Suspension of Trump, Temporarily</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-alternative-apps-to-samsung-kies-for-seamless-android-file-handling/"><u>The Ultimate Guide: Alternative Apps to Samsung Kies for Seamless Android File Handling</u></a></li>
 </ul></div>
 

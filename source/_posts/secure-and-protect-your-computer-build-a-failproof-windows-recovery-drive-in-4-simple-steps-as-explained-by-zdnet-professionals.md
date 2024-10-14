@@ -1,7 +1,7 @@
 ---
 title: "Secure & Protect Your Computer: Build a Failproof Windows Recovery Drive in 4 Simple Steps, as Explained by ZDNet Professionals"
-date: 2024-10-03T16:46:33.297Z
-updated: 2024-10-08T16:44:04.969Z
+date: 2024-10-12T17:04:43.307Z
+updated: 2024-10-14T16:30:12.257Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -48,31 +55,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -91,18 +91,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -111,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,18 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[New] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>[Updated] 2024 Approved Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-iconic-stop-motion-animations-15-best-ever/"><u>2024 Approved Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-seekingnextgencamerasolutions/"><u>2024 Approved SeekingNextGenCameraSolutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/apowersoft-unveils-upgraded-screencapture-pro-v11-features-for-efficient-screenshots-and-recording/"><u>Apowersoft Unveils Upgraded ScreenCapture Pro v1.1 Features for Efficient Screenshots and Recording</u></a></li>
-<li><a href="https://win-special.techidaily.com/best-practices-in-selecting-a-compatible-version-of-sonys-xperia-pc-suite/"><u>Best Practices in Selecting a Compatible Version of Sony's Xperia PC Suite</u></a></li>
-<li><a href="https://win-special.techidaily.com/efficient-methods-unlimited-downloads-from-gaana-without-exertion/"><u>Efficient Methods: Unlimited Downloads From Gaana without Exertion</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-bridging-the-gap-audio-to-text-in-powerpoint-slides/"><u>In 2024, Bridging the Gap Audio to Text in PowerPoint Slides</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/simple-guide-uploading-and-converting-3gp-videos-to-engaging-amvs-for-fans/"><u>Simple Guide: Uploading and Converting 3GP Videos to Engaging AMVs for Fans</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-definitive-list-of-cam-covers-for-secure-shopping-for-2024/"><u>The Definitive List of Cam Covers for Secure Shopping for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-picks-best-video-editing-tools-and-software-for-smooth-cuts-and-edits/"><u>Top Picks: Best Video Editing Tools and Software for Smooth Cuts & Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>[New] 2024 Approved Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-leading-5-high-quality-webcams-with-audio-support/"><u>[Updated] In 2024, Leading 5 High-Quality Webcams with Audio Support</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-loom-app-evaluation-an-in-depth-comparison-with-movavi/"><u>1. Loom App Evaluation: An In-Depth Comparison with Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-basics-of-ffxp-mode/"><u>2024 Approved Understanding the Basics of FFXP Mode</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726224945583-2024-8/"><u>2024년 상세한 무료 웹테이너 선보여주기: 8월에서 제공하는 가장 좋은 플랫폼 페어링</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/3gpmp4/"><u>迅速な変換ガイド - 3GPビデオをMP4形式への完全マッピング</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-faire-concevoir-and-tutorial/"><u>Comment Faire, Concevoir, and Tutorial.</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-opus-tracks-to-mp3-files-free-of-charge-effortless-online-conversion-with-movavi/"><u>Convert Opus Tracks to MP3 Files Free of Charge - Effortless Online Conversion with Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-comprehensive-development-timeline-of-the-iconic-iphone/"><u>Exploring the Comprehensive Development Timeline of the Iconic iPhone</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-brannprogram-for-windows-bast-programrar-i-6-steg-for-windows-1187/"><u>Gratis Brännprogram För Windows: Bäst Programrar I 6 Steg - För Windows 11/8/7</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-konvertereermiddelen-vob-in-mpeg-format-online-met-movavi/"><u>Gratis Konvertereermiddelen VOB in MPEG Format - Online Met Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/make-every-instagram-story-a-visual-feast-multiply-your-images-for-2024/"><u>Make Every Instagram Story a Visual Feast Multiply Your Images for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-iomap64-blue-screen-error-in-win108/"><u>Quick Guide to Resolve IOMap64 Blue Screen Error in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-functional-window-11-menu-bar/"><u>Tackling Non-Functional Window 11 Menu Bar</u></a></li>
 </ul></div>
 

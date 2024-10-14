@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Users, Pay Attention! Microsoft Introduces Charges for Updates – What You'll Need to Know About the Costs
-date: 2024-10-04T16:11:59.604Z
-updated: 2024-10-08T18:21:49.793Z
+date: 2024-10-09T20:10:17.246Z
+updated: 2024-10-14T17:08:56.863Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-streamline-multimedia-with-pip-in-apple-browsers-for-2024/"><u>[Updated] Streamline Multimedia with PIP in Apple Browsers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-windowsmac-interface-for-srt-file-access-for-2024/"><u>[Updated] Windows/Mac Interface for SRT File Access for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elite-guide-exceptional-instagram-hlv-designers/"><u>[New] In 2024, Elite Guide Exceptional Instagram HLV Designers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[New] In 2024, The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
 <li><a href="https://win-special.techidaily.com/best-practices-in-selecting-a-compatible-version-of-sonys-xperia-pc-suite/"><u>Best Practices in Selecting a Compatible Version of Sony's Xperia PC Suite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-top-notch-linkedin-image-for-2024/"><u>Crafting a Top-Notch LinkedIn Image for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-investment-needs-on-youtube/"><u>In 2024, Understanding Investment Needs on YouTube</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-quick-tiktok-edits-a-comprehensive-2023-guide-to-instantly-adding-stunning-visual-enhancements/"><u>Mastering Quick TikTok Edits: A Comprehensive 2023 Guide to Instantly Adding Stunning Visual Enhancements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/strategies-to-forget-a-connected-printer-in-win-1011/"><u>Strategies to Forget a Connected Printer in Win 10/11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-soundtrack-strategy-elevating-facebook-videos-with-music/"><u>The Soundtrack Strategy Elevating Facebook Videos with Music</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-ultimate-guide-to-iphone-photography-apps-in-2angs-transforming-pixels-into-masterpieces/"><u>The Ultimate Guide to iPhone Photography Apps in 2Angs - Transforming Pixels Into Masterpieces</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-website-optimization-enhancing-user-experience-and-conversions/"><u>Cookiebot-Driven Website Optimization: Enhancing User Experience & Conversions</u></a></li>
+<li><a href="https://win-special.techidaily.com/efficient-methods-unlimited-downloads-from-gaana-without-exertion/"><u>Efficient Methods: Unlimited Downloads From Gaana without Exertion</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-nord-n30-se-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Nord N30 SE Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-softwares-and-online-cameras/"><u>Live Streaming Mastery with ManyCam: Advanced Video Softwares & Online Cameras</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-expert-tips-from-toms-hardware-hub/"><u>Mastering Modern Electronics: Expert Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-mastery-online-tutorials-for-beginners-and-pros/"><u>New 2024 Approved Video Editing Mastery Online Tutorials for Beginners and Pros</u></a></li>
+<li><a href="https://win-special.techidaily.com/simple-guide-uploading-and-converting-3gp-videos-to-engaging-amvs-for-fans/"><u>Simple Guide: Uploading and Converting 3GP Videos to Engaging AMVs for Fans</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-techniques-to-overcome-windows-update-stuck-on-0/"><u>Simple Techniques to Overcome Windows Update Stuck on 0%</u></a></li>
 <li><a href="https://win-special.techidaily.com/top-picks-best-video-editing-tools-and-software-for-smooth-cuts-and-edits/"><u>Top Picks: Best Video Editing Tools and Software for Smooth Cuts & Edits</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-guide-to-downsizing-your-pdf-files-in-windows-top-tools-of-the-year-both-cost-free-and-subscription-based/"><u>Ultimate Guide to Downsizing Your PDF Files in Windows - Top Tools of the Year (Both Cost-Free and Subscription-Based)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-12-free-animation-software-for-windows-and-mac/"><u>Updated Best 12 Free Animation Software for Windows and Mac</u></a></li>
 </ul></div>
 

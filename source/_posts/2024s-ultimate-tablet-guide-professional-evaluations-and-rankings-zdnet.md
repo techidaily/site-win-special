@@ -1,7 +1,7 @@
 ---
 title: "2024'S Ultimate Tablet Guide: Professional Evaluations and Rankings | ZDNET"
-date: 2024-10-07T16:23:02.017Z
-updated: 2024-10-08T17:01:16.419Z
+date: 2024-10-09T18:24:11.386Z
+updated: 2024-10-14T18:36:38.749Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,28 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/outubes-user-interface-for-comment-management/"><u>[New] YouTube's User Interface for Comment Management</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>[Updated] 2024 Approved Break Free From Periscope Unique Mobile Video Apps for Smartphones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-ultimate-guide-to-maximum-fitness-mac-recordings-for-snapchat/"><u>[Updated] Ultimate Guide to Maximum Fitness Mac Recordings for Snapchat</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-mastering-file-management-utilize-microsoft-365-mobile-app-efficiently/"><u>1. Mastering File Management: Utilize Microsoft 365 Mobile App Efficiently</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlocking-audio-mp3-conversion-from-skype-no-price/"><u>2024 Approved Unlocking Audio Mp3 Conversion From Skype, No Price</u></a></li>
-<li><a href="https://win-special.techidaily.com/decrease-in-recruitment-should-we-be-concerned-as-major-tech-firms-slow-down-their-hiring-processes-insights-from-zdnet/"><u>Decrease in Recruitment: Should We Be Concerned as Major Tech Firms Slow Down Their Hiring Processes? - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/excessive-resource-use-unwanted-features-in-malware-tools/"><u>Excessive Resource Use: Unwanted Features in Malware Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-microsofts-recent-update-boosts-productivity-for-creative-professionals-on-teams-exploring-zdnet-findings/"><u>How Microsoft's Recent Update Boosts Productivity for Creative Professionals on Teams: Exploring ZDNet Findings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c02-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C02 Phone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y36-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/inside-the-lab-the-rise-of-microsofts-next-gen-ai-processor-to-challenge-apple-macbook-dominance-insights-from-zdnet/"><u>Inside the Lab: The Rise of Microsoft's Next-Gen AI Processor to Challenge Apple MacBook Dominance | Insights From ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/is-the-free-windows-11-update-available-insights-from-zdnet/"><u>Is the FREE Windows 11 Update Available? Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-persistent-among-us-malfunctions-in-2/"><u>Ultimate Troubleshooting Tips for Persistent Among Us Malfunctions in 2지급</u></a></li>
-<li><a href="https://win-special.techidaily.com/unlocking-windows-11-seamlessly-login-using-your-microsoft-365-business-account-benefits-explained-zdnet/"><u>Unlocking Windows 11: Seamlessly Login Using Your Microsoft 365 Business Account – Benefits Explained | ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-vulnerability-in-abandoned-microsoft-artificial-intelligence-by-notorious-ethical-security-researcher-zdnet/"><u>Unveiling Vulnerability in Abandoned Microsoft Artificial Intelligence by Notorious Ethical Security Researcher | ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/windows-11-users-pay-attention-microsoft-introduces-charges-for-updates-what-youll-need-to-know-about-the-costs/"><u>Windows 11 Users, Pay Attention! Microsoft Introduces Charges for Updates – What You'll Need to Know About the Costs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-capitalize-on-your-youtube-shorts-for-cash-flow-for-2024/"><u>[New] How to Capitalize on Your YouTube Shorts for Cash Flow for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/a-critical-countdown-for-microsoft-resolving-major-issues-with-windows-11-in-just-one-year-according-to-zdnet-analysis/"><u>A Critical Countdown for Microsoft: Resolving Major Issues with Windows 11 in Just One Year, According to ZDNet Analysis</u></a></li>
+<li><a href="https://win-community.techidaily.com/datenwiederherstellung-fur-microsoft-word-beste-strategien-erklart/"><u>Datenwiederherstellung Für Microsoft Word: Beste Strategien Erklärt!</u></a></li>
+<li><a href="https://win-special.techidaily.com/elevate-your-pc-experience-a-step-by-step-guide-to-transforming-windows-home-into-pro-techinsights/"><u>Elevate Your PC Experience: A Step-by-Step Guide to Transforming Windows Home Into Pro | TechInsights</u></a></li>
+<li><a href="https://win-special.techidaily.com/final-notice-transition-away-from-authy-desktop-for-two-factor-authentication-within-a-month-zdnet/"><u>Final Notice: Transition Away From Authy Desktop for Two-Factor Authentication Within a Month | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-s18e-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo S18e? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shining-up-your-videos-on-android/"><u>In 2024, Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-the-way-in-affordable-video-conferencing-technology/"><u>Leading the Way in Affordable Video Conferencing Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/master-your-most-watched-videos-on-fb-today-and-beyond-2023/"><u>Master Your Most-Watched Videos on FB Today & Beyond 2023</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsoft-to-introduce-fees-for-windows-10-updates-from-next-year-what-youll-need-to-budget-for-zdnet-insights/"><u>Microsoft to Introduce Fees for Windows 10 Updates From Next Year – What You'll Need to Budget For | ZDNet Insights</u></a></li>
+<li><a href="https://win-special.techidaily.com/microsofts-daunting-challenge-the-urgent-need-to-fix-windows-11-within-a-year-insights-from-zdnet/"><u>Microsoft's Daunting Challenge: The Urgent Need to Fix Windows 11 Within a Year - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-gif-maker-tools-for-seamless-loops-2023-update/"><u>New Free GIF Maker Tools for Seamless Loops 2023 Update</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-1011-screenshot-and-recording-guide-using-native-apps-for-seamless-captures/"><u>Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures</u></a></li>
 </ul></div>
 

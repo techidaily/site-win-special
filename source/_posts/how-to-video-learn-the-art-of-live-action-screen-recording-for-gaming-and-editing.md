@@ -1,7 +1,7 @@
 ---
 title: "How-To Video: Learn the Art of Live-Action Screen Recording for Gaming and Editing"
-date: 2024-10-07T17:43:49.141Z
-updated: 2024-10-08T18:14:29.059Z
+date: 2024-10-09T20:14:38.429Z
+updated: 2024-10-14T20:36:19.968Z
 tags:
   - product
 categories:
@@ -67,28 +67,15 @@ Action Tutorials
 
 ![Mirillis Action! - active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_mode.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Action! HUD appears in top right (default position) corner of your screen. Action! is now connected to your Windows desktop and is ready to start screen recording. 
 
 ![Mirillis Action! - HUD in active desktop recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Active screen recording
@@ -97,15 +84,22 @@ Action Tutorials
 
 ![Mirillis Action! - HUD showing desktop recording in progress](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_video_recording_status.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press "Start/stop recording" button or F9 hotkey again to stop desktop recording. HUD status changes showing that Windows desktop recording has finished.
 
 ![Mirillis Action! - HUD showing finished desktop recording](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Screen recordings playback
@@ -114,19 +108,19 @@ Action Tutorials
 
 ![Mirillis Action! - list of desktop recordings](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_thumbnail.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Action! includes internal fast player dedicated for video recordings playback. Select your new desktop recording and use mouse double click on a thumbnail to start video recording playback.
 
 ![Mirillis Action! - desktop recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_active_desktop_recording_playback.jpg) 
 
  To playback raw Action! video recordings you can also use **Splash** media player. Splash provides additional features like SmartSeek, Audio boost, Screen capture and more. Splash is available for download at Mirillis website:   
 [https://mirillis.com/downloads](https://tools.techidaily.com/mirillis/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Action! HUD on video recordings
 
@@ -149,18 +143,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-moguls-and-millionaires/"><u>[New] YouTube Moguls and Millionaires</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-macbook-webcam-footage/"><u>[Updated] 2024 Approved Mastering MacBook Webcam Footage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-hashtags-in-twitter-advertising/"><u>[Updated] Leveraging Hashtags in Twitter Advertising</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making-for-2024/"><u>[Updated] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-implementing-auto-captions-in-reels-for-2024/"><u>[Updated] Step-by-Step Implementing Auto Captions in Reels for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-reno-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Reno 11 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-quick-tiktok-edits-a-comprehensive-2023-guide-to-instantly-adding-stunning-visual-enhancements/"><u>Mastering Quick TikTok Edits: A Comprehensive 2023 Guide to Instantly Adding Stunning Visual Enhancements</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-ultimate-guide-to-iphone-photography-apps-in-2angs-transforming-pixels-into-masterpieces/"><u>The Ultimate Guide to iPhone Photography Apps in 2Angs - Transforming Pixels Into Masterpieces</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-guide-to-downsizing-your-pdf-files-in-windows-top-tools-of-the-year-both-cost-free-and-subscription-based/"><u>Ultimate Guide to Downsizing Your PDF Files in Windows - Top Tools of the Year (Both Cost-Free and Subscription-Based)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-boosting-webcam-quality-with-ease-and-precision/"><u>[New] 2024 Approved Boosting WebCam Quality with Ease and Precision</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-building-a-powerful-brand-presence-with-instagrams-biz-tools/"><u>[Updated] Building a Powerful Brand Presence with Instagram's Biz Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-evolved-2023-samsung-bd-j5900-a-deep-dive-for-2024/"><u>[Updated] The Evolved 2023 Samsung BD-J5900 A Deep Dive for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/costly-limitations-on-apples-latest-artificial-intelligence-integration-excluding-older-iphones-zdnet-revealed/"><u>Costly Limitations on Apple's Latest Artificial Intelligence Integration Excluding Older iPhones | ZDNET Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/create-a-personalized-stackable-3d-printed-itx-nas-pc-for-optimal-storage-solutions/"><u>Create a Personalized, Stackable 3D-Printed ITX NAS PC for Optimal Storage Solutions</u></a></li>
+<li><a href="https://win-special.techidaily.com/decrease-in-recruitment-should-we-be-concerned-as-major-tech-firms-slow-down-their-hiring-processes-insights-from-zdnet/"><u>Decrease in Recruitment: Should We Be Concerned as Major Tech Firms Slow Down Their Hiring Processes? - Insights From ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/discover-excellent-alternatives-professional-review-of-best-standing-desk-adapters-featured-by-zdnet/"><u>Discover Excellent Alternatives: Professional Review of Best Standing Desk Adapters, Featured by ZDNet!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-gionee-f3-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Gionee F3 Pro Device SIM</u></a></li>
+<li><a href="https://win-special.techidaily.com/essential-50-desk-gadget-enhances-ergonomic-comfort-for-sitting-and-standing-workers-read-on-at-zdnet/"><u>Essential $50 Desk Gadget Enhances Ergonomic Comfort for Sitting and Standing Workers - Read on at ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuit-konverteren-van-vob-naar-aiff-formaat-online-moovavi/"><u>Gratuit Konverteren Van VOB Naar AIFF-Formaat Online - Moovavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-microsofts-recent-update-boosts-productivity-for-creative-professionals-on-teams-exploring-zdnet-findings/"><u>How Microsoft's Recent Update Boosts Productivity for Creative Professionals on Teams: Exploring ZDNet Findings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a78-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A78 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c51-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco C51 Lock Screen Password?</u></a></li>
+<li><a href="https://win-special.techidaily.com/inside-the-lab-the-rise-of-microsofts-next-gen-ai-processor-to-challenge-apple-macbook-dominance-insights-from-zdnet/"><u>Inside the Lab: The Rise of Microsoft's Next-Gen AI Processor to Challenge Apple MacBook Dominance | Insights From ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/is-the-free-windows-11-update-available-insights-from-zdnet/"><u>Is the FREE Windows 11 Update Available? Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
+<li><a href="https://win-special.techidaily.com/unlocking-windows-11-seamlessly-login-using-your-microsoft-365-business-account-benefits-explained-zdnet/"><u>Unlocking Windows 11: Seamlessly Login Using Your Microsoft 365 Business Account – Benefits Explained | ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/unveiling-vulnerability-in-abandoned-microsoft-artificial-intelligence-by-notorious-ethical-security-researcher-zdnet/"><u>Unveiling Vulnerability in Abandoned Microsoft Artificial Intelligence by Notorious Ethical Security Researcher | ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-11-users-pay-attention-microsoft-introduces-charges-for-updates-what-youll-need-to-know-about-the-costs/"><u>Windows 11 Users, Pay Attention! Microsoft Introduces Charges for Updates – What You'll Need to Know About the Costs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise"
-date: 2024-10-04T16:59:10.852Z
-updated: 2024-10-08T16:28:51.651Z
+date: 2024-10-09T20:00:46.542Z
+updated: 2024-10-14T19:18:29.677Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elite-7-drone-gimbal-selections/"><u>[New] Elite 7 Drone Gimbal Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-cross-sound-mixing-in-audacity-pro/"><u>2024 Approved Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://win-special.techidaily.com/1726218561915-movavi-mac/"><u>最佳影像转换工具：Movavi Mac编辑器，支持包括视频在内的多种文件格式</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-titans-clash-can-llama-3-outperform-microsofts-gpt-4/"><u>AI Titans Clash: Can LLaMA 3 Outperform Microsoft's GPT-4?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connect-cultures-with-pearsons-language-portal/"><u>Connect Cultures with Pearson's Language Portal</u></a></li>
-<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-ogm-a-wmv-il-guida-completa-di-movavi-per-il-cambio-formati-video/"><u>Conversione Gratuita Da OGM a WMV: Il Guida Completa Di Movavi per Il Cambio Formati Video</u></a></li>
-<li><a href="https://win-special.techidaily.com/convert-mp3-files-to-wav-format-for-free-using-movavis-easy-tool/"><u>Convert MP3 Files to WAV Format for Free Using Movavi's Easy Tool!</u></a></li>
-<li><a href="https://win-special.techidaily.com/convert-swf-files-into-mp4-format-for-free-using-movavis-quick-and-secure-tool/"><u>Convert SWF Files Into MP4 Format for Free Using Movavi's Quick and Secure Tool</u></a></li>
-<li><a href="https://win-special.techidaily.com/free-converter-transform-gifs-into-high-quality-webm-format-with-easy-online-tools/"><u>Free Converter: Transform GIFs Into High-Quality WebM Format with Easy Online Tools</u></a></li>
-<li><a href="https://win-special.techidaily.com/google-online-vimeo-swf-movavi/"><u>Google으로 바꾸기: Online 무료 Vimeo SWF 형식 개선 - Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix “Failure Configuring Windows Updates” Error</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6s-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6s Plus?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-picarts-quick-shield-for-facial-features/"><u>In 2024, PicArt's Quick Shield for Facial Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-art-of-anonymity-in-video-hiding-private-data/"><u>In 2024, The Art of Anonymity in Video Hiding Private Data</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/movavi-voorbeelden-voor-kostenloos-m4v-conversie-van-swfs-op-internet/"><u>Movavi - Voorbeelden Voor Kostenloos M4V-Conversie Van SWF's Op Internet</u></a></li>
-<li><a href="https://win-special.techidaily.com/risolvi-velocemente-come-cambiare-formato-da-file-nef-a-jpg-utilizzando-movavi-video-converter/"><u>Risolvi Velocemente: Come Cambiare Formato Da File NEF a JPG Utilizzando Movavi Video Converter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[New] In 2024, Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-speedy-view-of-vimeo-videos/"><u>[Updated] Speedy View of Vimeo Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>[Updated] Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-permanent-record-keeper-facebook-live-extraction-techniques/"><u>2024 Approved Permanent Record Keeper Facebook Live Extraction Techniques</u></a></li>
+<li><a href="https://win-special.techidaily.com/emeditor-pro-advanced-text-replacement-feature-in-version-83-beta-powerful-editing-software/"><u>EmEditor Pro: Advanced Text Replacement Feature in Version 8.3 Beta – Powerful Editing Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/emeditor-version-2305-troubleshooting-guide-for-cannot-open-local-help/"><u>EmEditor Version 23.0.5 - Troubleshooting Guide for 'Cannot Open Local Help'</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-novice-to-pro-building-an-insta-highlight-showcase/"><u>From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4v-afbeeldingen-in-wms-kletsen-voor-zwdaarom-eenvoudig-gratis-en-betrouwbaar-met-movavi-converter/"><u>M4V-Afbeeldingen in Wms Kletsen Voor ZwDaarom - Eenvoudig, Gratis en Betrouwbaar Met Movavi Converter</u></a></li>
+<li><a href="https://win-special.techidaily.com/simplify-your-experience-with-emeditors-easy-auto-update-and-uninstall-function-join-our-beta/"><u>Simplify Your Experience with EmEditor's Easy Auto-Update and Uninstall Function - Join Our Beta!</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-overcoming-installation-lockup-in-version-906-of-emeditor-software/"><u>Troubleshooting: Overcoming Installation Lockup in Version 9.06 of EmEditor Software</u></a></li>
 </ul></div>
 

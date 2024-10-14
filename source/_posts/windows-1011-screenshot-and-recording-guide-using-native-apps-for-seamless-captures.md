@@ -1,7 +1,7 @@
 ---
 title: "Windows 10/11 Screenshot & Recording Guide: Using Native Apps for Seamless Captures"
-date: 2024-10-01T16:13:43.450Z
-updated: 2024-10-08T17:55:45.226Z
+date: 2024-10-07T17:21:13.846Z
+updated: 2024-10-14T20:35:05.842Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-inshot-vs-other-editors-comprehensive-analysis/"><u>[New] InShot vs Other Editors Comprehensive Analysis</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-videos-effortlessly-from-bilibili-using-compatible-apps-for-macwindows/"><u>Download Videos Effortlessly From Bilibili Using Compatible Apps for Mac/Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-your-favorite-shows-from-dnatube-in-high-quality-formats-like-mp4-mov-and-avi/"><u>Download Your Favorite Shows From DNATube in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://win-special.techidaily.com/downloading-riris-hits-converting-track-formats-like-mp3-aac-and-wav-for-pcmac-users/"><u>Downloading RiRi's Hits: Converting Track Formats Like MP3, AAC & WAV for PC/Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/easy-conversion-and-download-of-worldstarhiphop-content-as-mp4-avi-mov-wmv-or-mkv/"><u>Easy Conversion and Download of WorldstarHipHop Content as MP4, AVI, MOV, WMV or MKV</u></a></li>
-<li><a href="https://win-special.techidaily.com/easy-guide-to-saving-rutube-videos-on-pc-or-mac-a-step-by-step-tutorial/"><u>Easy Guide to Saving RuTube Videos on PC or Mac: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-special.techidaily.com/easy-guide-to-transferring-vimeo-content-convert-and-download-in-mp4-and-avi-formats-for-windowsmac-users/"><u>Easy Guide to Transferring Vimeo Content – Convert and Download in MP4 & AVI Formats for Windows/Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/effortless-audio-conversion-on-soundclick-beats-get-your-favorite-beats-in-multiple-formats-mp3-wav-aac-m4a-etc-for-seamless-playback/"><u>Effortless Audio Conversion on SoundClick Beats: Get Your Favorite Beats in Multiple Formats (MP3, WAV, AAC, M4A, Etc.) For Seamless Playback!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>In 2024, The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/joe-biden-uses-social-media-to-speed-up-vax-distribution/"><u>Joe Biden Uses Social Media to Speed Up Vax Distribution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/maximizing-iphones-internet-speed-8-key-improvements-for-stellar-wi-fi-results/"><u>Maximizing iPhone's Internet Speed: 8 Key Improvements for Stellar Wi-Fi Results</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-selection-10-premium-image-replace-kits-for-2024/"><u>Premier Selection 10 Premium Image Replace Kits for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resetting-display-profiles-for-nvidia-gpus/"><u>Resetting Display Profiles for NVIDIA GPUs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>[Updated] 2024 Approved Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[Updated] Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/breaking-barriers-watching-live-events-on-your-roku-screen-for-2024/"><u>Breaking Barriers Watching Live Events on Your Roku Screen for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/get-your-linux-academy-course-materials-in-mp4-by-downloading-their-videos/"><u>Get Your Linux Academy Course Materials in MP4 by Downloading Their Videos</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-mastering-the-art-of-downloading-full-metal-jacket-fmj-clips-compatible-with-macos-and-windows/"><u>Guide: Mastering the Art of Downloading Full Metal Jacket (FMJ) Clips – Compatible with macOS and Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/harvard-course-materials-on-isites-easy-guide-to-download-and-convert-vids-to-mp4-format/"><u>Harvard Course Materials on iSites – Easy Guide to Download and Convert Vids to MP4 Format</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-and-playback-sharepoint-content-as-mp4-or-avi-easy-steps-for-windowsmac-users/"><u>How to Save and Playback SharePoint Content as MP4 or AVI – Easy Steps for Windows/Mac Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-save-and-watch-youtube-videos-in-ultra-hd-4k-quality-on-a-windows-or-macos-device/"><u>How to Save and Watch YouTube Videos in Ultra HD (4K) Quality on a Windows or macOS Device</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-use-rutube-downloader-for-quick-video-captures-on-windows-and-macos-systems/"><u>How To Use RuTube Downloader for Quick Video Captures on Windows and macOS Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-flight-fun-best-easy-to-use-drones/"><u>In 2024, First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nt-audience-expansion-with-these-channel-upgrades-for-2024/"><u>Instant Audience Expansion with These Channel Upgrades for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlocking-os-x-mavericks-video-editing-potential/"><u>Updated Unlocking OS X Mavericks Video Editing Potential</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/watch-bollywood-blockbusters-ahead-of-release-top-12-legitimate-and-free-platforms/"><u>Watch Bollywood Blockbusters Ahead of Release - Top 12 Legitimate & Free Platforms</u></a></li>
 </ul></div>
 

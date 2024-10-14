@@ -1,7 +1,7 @@
 ---
 title: Microsoft Embraces IoT, Moves Away From Traditional Market as Google Retreats
-date: 2024-10-02T16:09:56.428Z
-updated: 2024-10-08T16:30:06.498Z
+date: 2024-10-07T16:40:06.835Z
+updated: 2024-10-14T19:50:51.691Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unpacking-presenter-8s-features-against-the-best/"><u>[Updated] Unpacking Presenter 8’S Features Against the Best</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-blur-background-of-your-youtube-video/"><u>2024 Approved How to Blur Background of Your YouTube Video</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722881072925-anticipating-the-google-pixel-10-latest-leaks-on-price-release-date-and-specs/"><u>Anticipating the Google Pixel 10 - Latest Leaks on Price, Release Date & Specs</u></a></li>
-<li><a href="https://win-special.techidaily.com/congratulations-on-installing-mirilliss-innovative-action-tool/"><u>Congratulations on Installing MirilliS's Innovative Action Tool!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-camon-20-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Camon 20 for Free? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-efficiently-archive-your-gaming-adventures-on-windows-10/"><u>In 2024, Efficiently Archive Your Gaming Adventures on Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 12 mini without Password?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-viewing-choice-leveraging-chatgpts-power/"><u>Next Viewing Choice: Leveraging ChatGPT's Power</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-downloading-video-content-from-sharptrades/"><u>Step-by-Step Guide: Downloading Video Content From SharpTrades</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-securely-capturing-streamed-sessions-on-vtc-services/"><u>Step-by-Step Guide: Securely Capturing Streamed Sessions on VTC Services</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-converting-online-vice-content-into-various-video-files-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial: Converting Online Vice Content Into Various Video Files (MP4, AVI, FLV, MOV)</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-saving-and-exporting-fxs-analysis-videos-in-various-formats-for-macwindows-users/"><u>Step-by-Step Tutorial: Saving and Exporting FXS Analysis Videos in Various Formats for Mac/Windows Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/steps-to-legally-stream-or-download-truly-original-tv-shows/"><u>Steps to Legally Stream or Download Truly Original TV Shows</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-ultimate-substitute-for-deezify-on-all-platforms-meet-allavsoft/"><u>The Ultimate Substitute for Deezify on All Platforms - Meet Allavsoft</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-tutorial-on-acquiring-video-content-from-pornerbroscom/"><u>Ultimate Tutorial on Acquiring Video Content From Pornerbros.com</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultimate-tutorial-accessing-and-enjoying-spotify-on-your-sandisk-portable-music-device-effortlessly/"><u>Ultimate Tutorial: Accessing and Enjoying Spotify on Your SanDisk Portable Music Device Effortlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity-for-2024/"><u>Unlock Screen Capture Potential with Expert Tips From Adobe Captivity for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/de-your-youtube-bio-with-pro-templates-for-2024/"><u>Upgrade Your Youtube Bio with Pro Templates for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-learn-quick-fixes-and-updates/"><u>Voicemod Not Working? Learn Quick Fixes & Updates</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-become-a-youtube-star-essential-skills-training/"><u>[New] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-laughter-loops-in-musical-landscape/"><u>[Updated] 2024 Approved Laughter Loops in Musical Landscape</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-windows-recordings-made-simple/"><u>[Updated] 2024 Approved Ultimate Windows Recordings Made Simple</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-top-17-spanish-colloquialisms/"><u>Bridging Cultures: Top 17 Spanish Colloquialisms</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-youtube-series-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download YouTube Series in Multiple Formats: MP4, AVI, WMV - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-broadcasting-the-2024-rio-olympic-games-in-real-time/"><u>Guide to Broadcasting the 2024 Rio Olympic Games in Real-Time</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/quick-and-free-effortless-conversion-of-pdfs-into-docxpptxswfimage-formats/"><u>Quick and Free: Effortless Conversion of PDFs Into DOCX/PPTX/SWF/Image Formats</u></a></li>
+<li><a href="https://win-special.techidaily.com/say-goodbye-to-unwanted-toolbars-removing-flipbuilder-from-your-browser/"><u>Say Goodbye to Unwanted Toolbars: Removing FlipBuilder From Your Browser</u></a></li>
+<li><a href="https://win-special.techidaily.com/say-goodbye-how-to-easily-uninstall-flipbuilder-from-your-browser/"><u>Say Goodbye: How to Easily Uninstall FlipBuilder From Your Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-troubleshooting-non-functioning-dell-sound-output/"><u>Solutions for Troubleshooting Non-Functioning Dell Sound Output</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-multimedia-elements-to-your-flipbook-ebook-with-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Multimedia Elements to Your Flipbook eBook with FlipBuilder Tools</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-creating-and-publishing-interactive-books-for-macos-using-flipbook-creator/"><u>Step-by-Step Guide: Creating and Publishing Interactive Books for macOS Using Flipbook Creator</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-3d-printing-to-new-depths-makers-construct-an-innovative-underwater-printer-fit-for-pools-and-aquariums/"><u>Taking 3D Printing to New Depths: Makers Construct an Innovative Underwater Printer Fit for Pools and Aquariums</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-rule-the-top-10-youtube-stars-amongst-genders/"><u>Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

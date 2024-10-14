@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Significant Privacy & Security Enhancements Following Intense Reviews - ZDNet
-date: 2024-10-01T16:56:45.527Z
-updated: 2024-10-08T16:19:43.977Z
+date: 2024-10-11T19:35:27.396Z
+updated: 2024-10-14T19:06:28.069Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,35 +142,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-flickering-camera-lights-to-financial-highlights-for-2024/"><u>[New] From Flickering Camera Lights to Financial Highlights for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nextgen-recording-movavis-new-tech-showcase/"><u>[Updated] 2024 Approved NextGen Recording Movavi's New Tech Showcase</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/jpgbmp-movavi/"><u>「即時無障礙JPG到BMP格式自動變更 - 利用Movavi解決方案」</u></a></li>
-<li><a href="https://win-special.techidaily.com/customizing-visuals-in-flipbooks-master-changing-flash-window-hues-on-flipbuildercom/"><u>Customizing Visuals in Flipbooks: Master Changing Flash Window Hues on FlipBuilder.com</u></a></li>
-<li><a href="https://win-special.techidaily.com/direct-printing-selective-pages-from-ebooks-with-flipbuilder-how-it-works/"><u>Direct Printing Selective Pages From eBooks with FlipBuilder - How It Works</u></a></li>
-<li><a href="https://win-special.techidaily.com/discover-flipbuildercom-your-ultimate-online-image-and-video-uploading-platform/"><u>Discover FlipBuilder.com: Your Ultimate Online Image & Video Uploading Platform</u></a></li>
-<li><a href="https://win-special.techidaily.com/emailing-your-custom-made-flipbooks-a-step-by-step-guide-using-html-links-discover-how-at-flipbuildercom/"><u>Emailing Your Custom-Made Flipbooks: A Step-by-Step Guide Using HTML Links - Discover How at FlipBuilder.com</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-build-a-multi-image-pdf-and-allow-downloads-a-guide-on-flipbuilder/"><u>How to Build a Multi-Image PDF & Allow Downloads – A Guide on FlipBuilder</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-combine-multiple-images-onto-a-single-webpage-flipbuilder-tutorial/"><u>How To Combine Multiple Images Onto A Single Webpage - FlipBuilder Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y36i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y36i Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-11-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 11 5G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-by-step-process-of-enhancing-your-graphics-card/"><u>Step-by-Step Process of Enhancing Your Graphics Card</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-emulators-top-5-for-playing-ps3-games-on-pc/"><u>[Updated] 2024 Approved Leading Emulators Top 5 for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-soundtrack-of-successful-snapchat-stories/"><u>[Updated] The Soundtrack of Successful Snapchat Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-methods-for-removing-a-disks-partition-in-windows/"><u>3 Methods for Removing a Disk's Partition in Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226779235-movavi/"><u>免費移動電話影片格式變更工具 - 使用Movavi 線上轉換器</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/best-no-cost-substitutes-for-acronis-data-protection-a-comprehensive-guide/"><u>Best No-Cost Substitutes for Acronis Data Protection: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-mpeg-a-flac-tramite-linnovativo-sito-web-di-movavi-esegui-ora/"><u>Conversione Gratuita Da MPEG a FLAC Tramite L'innovativo Sito Web Di Movavi - Esegui Ora!</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-ogm-a-wmv-il-guida-completa-di-movavi-per-il-cambio-formati-video/"><u>Conversione Gratuita Da OGM a WMV: Il Guida Completa Di Movavi per Il Cambio Formati Video</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029999579-dvd/"><u>DVD/ブルーレイの中断した再生を修正するには？問題点と対策秘話</u></a></li>
+<li><a href="https://win-special.techidaily.com/google-online-vimeo-swf-movavi/"><u>Google으로 바꾸기: Online 무료 Vimeo SWF 형식 개선 - Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratuito-conversor-de-ogm-para-video-vob-online-pelo-movavi/"><u>Gratuito Conversor De OGM Para Vídeo (VOB) Online Pelo Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-melodies-for-youtube-personalized-list-creation/"><u>In 2024, Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-free-m4a-editing-software-for-pc-and-mac/"><u>New 2024 Approved Top-Rated Free M4A Editing Software for PC and Mac</u></a></li>
+<li><a href="https://win-special.techidaily.com/recensioni-approfondite-per-il-convertitore-video-freemake/"><u>Recensioni Approfondite per Il Convertitore Video Freemake</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unraveling-zdsofts-screen-monitor-magic/"><u>Unraveling ZDSoft's Screen Monitor Magic</u></a></li>
 </ul></div>
 

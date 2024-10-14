@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Editing & Organizing Documents in Microsoft 365 for iPhone/Android Users | ZDNET
-date: 2024-10-06T16:17:23.304Z
-updated: 2024-10-08T16:36:53.727Z
+date: 2024-10-11T20:37:34.679Z
+updated: 2024-10-14T16:01:15.449Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-harmonious-hues-mastering-color-dynamics/"><u>[New] In 2024, Harmonious Hues Mastering Color Dynamics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-list-best-microphones-for-4k-ultra-hd-for-2024/"><u>[Updated] Essential List Best Microphones for 4K Ultra HD for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-engaging-audiences-how-twitch-stacks-up-against-youtube/"><u>[Updated] In 2024, Engaging Audiences How Twitch Stacks Up Against YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-virtual-meetup-software-titles/"><u>[Updated] In 2024, Premium Virtual Meetup Software Titles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007651120-century-age-of-ashes-for-pc-fixed-enjoy-seamless-gameplay-with-no-more-crashes/"><u>Century: Age of Ashes for PC Fixed! Enjoy Seamless Gameplay with No More Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/convert-your-mobi-books-instantly-into-compatible-epub-ebooks-online-now/"><u>Convert Your MOBI Books Instantly Into Compatible EPUB eBooks Online Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-fans-of-your-posts-on-instagram-the-complete-strategy/"><u>Discovering Fans of Your Posts on Instagram - The Complete Strategy</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-youtube-series-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download YouTube Series in Multiple Formats: MP4, AVI, WMV - Compatible with macOS & Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/quick-and-free-effortless-conversion-of-pdfs-into-docxpptxswfimage-formats/"><u>Quick and Free: Effortless Conversion of PDFs Into DOCX/PPTX/SWF/Image Formats</u></a></li>
-<li><a href="https://win-special.techidaily.com/say-goodbye-to-unwanted-toolbars-removing-flipbuilder-from-your-browser/"><u>Say Goodbye to Unwanted Toolbars: Removing FlipBuilder From Your Browser</u></a></li>
-<li><a href="https://win-special.techidaily.com/say-goodbye-how-to-easily-uninstall-flipbuilder-from-your-browser/"><u>Say Goodbye: How to Easily Uninstall FlipBuilder From Your Browser</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-multimedia-elements-to-your-flipbook-ebook-with-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Multimedia Elements to Your Flipbook eBook with FlipBuilder Tools</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-creating-and-publishing-interactive-books-for-macos-using-flipbook-creator/"><u>Step-by-Step Guide: Creating and Publishing Interactive Books for macOS Using Flipbook Creator</u></a></li>
-<li><a href="https://article-helps.techidaily.com/streamlining-data-management-5-leading-cloud-providers/"><u>Streamlining Data Management 5 Leading Cloud Providers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elevate-your-tiktok-footage-with-stunning-template-techniques-for-2024/"><u>[New] Elevate Your TikTok Footage with Stunning Template Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-successful-home-based-podcasts/"><u>[New] In 2024, Essential Tips for Successful Home-Based Podcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-effortless-elite-status-in-the-instagram-sphere/"><u>[Updated] 2024 Approved Effortless Elite Status in the Instagram Sphere</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726224429261-mp3-movavi/"><u>高品質保持MP3ファイルの効果的な圧縮方法 - 「Movavi」のガイド</u></a></li>
+<li><a href="https://win-special.techidaily.com/editor-de-revezamento-de-imagens-o-melhor-software-para-fotografia-e-edicao-fotografica/"><u>Editor De Revezamento De Imagens: O Melhor Software Para Fotografia E Edição Fotográfica</u></a></li>
+<li><a href="https://win-special.techidaily.com/free-converter-transform-gifs-into-high-quality-webm-format-with-easy-online-tools/"><u>Free Converter: Transform GIFs Into High-Quality WebM Format with Easy Online Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-google-pixelbook-go-an-impressively-crafted-chromebook-with-steep-pricing/"><u>In-Depth Analysis of the Google Pixelbook Go: An Impressively Crafted Chromebook With Steep Pricing</u></a></li>
+<li><a href="https://win-special.techidaily.com/kostenloze-videovervanger-tool-naar-mp4-vrij-voor-belangelingen/"><u>Kostenloze Videovervanger Tool Naar MP4 - Vrij Voor Belangelingen</u></a></li>
+<li><a href="https://win-special.techidaily.com/mac2024/"><u>Mac錄音軟體推薦：2024新春四款不可小看的好用選擇</u></a></li>
+<li><a href="https://win-special.techidaily.com/simple-guide-creating-videos-from-images-seamlessly/"><u>Simple Guide: Creating Videos From Images Seamlessly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/starting-your-journey-in-learning-german-sounds/"><u>Starting Your Journey in Learning German Sounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/100-3gpp-avi-mp4/"><u>오토바이오드에서 100% 가격 무료: 3GPP AVI 비디오를 MP4로 구성</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728487077043-windows-1110/"><u>ハードディスクをセキュリティ確保してWindows 11・10から完全に消去するコマンドプロセス</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226518477-asf-mp4-movavi/"><u>ビデオ変換器のスイッチ：有料なし、ASF MP4へ - Movaviプラス</u></a></li>
 </ul></div>
 
