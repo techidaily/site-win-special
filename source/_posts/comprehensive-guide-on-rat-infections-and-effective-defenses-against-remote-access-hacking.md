@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking
-date: 2024-10-13T20:24:50.317Z
-updated: 2024-10-14T19:29:01.152Z
+date: 2024-10-16T01:37:54.683Z
+updated: 2024-10-19T19:14:57.998Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,6 @@ Moreover,  RATs can spy on victims by discreetly activating a computer’s webca
 
 Other variants of RATs use the network and other machines connected to it and create a botnet. File hosting, torrenting, DDOS attacks, and Bitcoin mining can be done using your home network without your knowledge. RATs usually do not slow down the computer so it can go unnoticed for quite a while. Some may even stay in hiding for long time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Do RATs Get in Your Computer?
 
 Remote Access Trojans gain access to your computer just like any malicious software. It piggybacks on seemingly legitimate files. Once you download the file, the RAT will begin to hide in the computer until it can begin its attack. It can attach in any files such as documents, attachments in emails, and large software packages such as video games. Moreover, websites and advertisements can carry trojan infections just waiting to be downloaded.
@@ -66,10 +59,10 @@ Social engineering is also a common method. Hackers trick users into downloading
 [![internet hacker](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples of RATs
@@ -79,6 +72,19 @@ There are many examples of RATs, and some are still active and receive regular u
 [Back Orifice](http://www.symantec.com/avcenter/warn/backorifice.html) is a legitimate program for remote system administration. It was designed with a client-server architecture that runs using TCP and UDP network protocols. It is notably small and unobtrusive. Back Orifice even installed without the knowledge of the user. Hence, hackers have been using it as a payload of a Trojan Horse to distribute to various victims. It soon evolved into two modern versions: Back Orifice 2000 and Deep Back Orifice.
 
 Other examples of RATs are Poison-Ivy, Turkojan, Optix, and CyberGate. Some have smaller following such as DarkComet, Vortex, and Shark. Nonetheless, they are still effective.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Protect Yourself from RAT Malware
 
@@ -91,10 +97,10 @@ While Windows Defender is a fantastic security software, modern RATs can easily 
 MalwareFox also protects you while browsing with its Browser Cleaner. This will effectively block ads and fake websites that may carry RATs. It specifically protects you from trojans using the Trojan Killer function which will effectively kill any attacks before it infects your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Thoughts
@@ -102,10 +108,16 @@ MalwareFox also protects you while browsing with its Browser Cleaner. This will 
 Determining if a RAT is hiding in your computer is difficult as it does not exhibit the usual symptoms of a malware infection. However, ensuring that you only access legitimate and trustworthy websites is an excellent first step. Make sure that you have proper layers of protection especially if you regularly download files online or use torrent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -133,24 +145,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-insightful-evaluation-androids-photography-tool-lightroom/"><u>[New] Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-selecting-the-best-mac-sniping-solutions/"><u>[Updated] 2024 Approved Selecting the Best Mac Sniping Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-edit-gopro-4k-video-for-2024/"><u>[Updated] How to Edit GoPro 4K Video for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-reclaiming-acoustics-lost-in-social-media-videos/"><u>2024 Approved Reclaiming Acoustics Lost in Social Media Videos</u></a></li>
-<li><a href="https://win-special.techidaily.com/affordable-microsoft-office-2019-deals-get-your-windowsmac-license-for-just-25-read-more-on-zdnet/"><u>Affordable Microsoft Office 2019 Deals: Get Your Windows/Mac License for Just $25 - Read More on ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-sennheisers-professional-mobility/"><u>Discover Sennheiser's Professional Mobility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-finest-7-ai-applications-for-designing-professional-slideshows/"><u>Discover the Finest 7 AI Applications for Designing Professional Slideshows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid-for-2024/"><u>Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-breaking-down-the-fundamentals-of-lut-design/"><u>In 2024, Breaking Down the Fundamentals of LUT Design</u></a></li>
-<li><a href="https://win-special.techidaily.com/in-depth-analysis-the-recent-microsoft-365-service-interruption-affecting-thousands-explained-cyberwise/"><u>In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise</u></a></li>
-<li><a href="https://win-special.techidaily.com/microsoft-announces-significant-privacy-and-security-enhancements-following-intense-reviews-zdnet/"><u>Microsoft Announces Significant Privacy & Security Enhancements Following Intense Reviews - ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/microsofts-revolutionary-new-ai-chip-poised-to-outperform-apple-macbook-an-exclusive-first-look-zdnet/"><u>Microsoft's Revolutionary New AI Chip Poised to Outperform Apple MacBook: An Exclusive First Look - ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/premier-selection-of-greeting-cards-perfect-for-honoring-your-mom-on-her-special-day/"><u>Premier Selection of Greeting Cards Perfect for Honoring Your Mom on Her Special Day</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-dawn-of-learning-tech-how-pc-producers-are-shaping-the-future-with-windows-11-se-discoveries-on-zdnet/"><u>The Dawn of Learning Tech: How PC Producers Are Shaping the Future with Windows 11 SE | Discoveries on ZDNET</u></a></li>
-<li><a href="https://win-special.techidaily.com/unlocking-the-power-of-artificnial-intelligence-features-coming-to-copilot-pcs-and-what-they-mean-for-macbook-users-zdnet/"><u>Unlocking the Power of Artificnial Intelligence: Features Coming to Copilot PCs & What They Mean for MacBook Users | ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-businesses-discover-the-best-picks-on-zdnet/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Businesses - Discover the Best Picks on ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-the-future-of-productivity-with-microsoft-surface-laptop-studio-a-first-look-that-will-make-you-want-more/"><u>Unveiling the Future of Productivity with Microsoft Surface Laptop Studio - A First Look That Will Make You Want More</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44ot44oh44kq55s75yop44go6zplusz5aow5zcm5pyf6kit5a6a5oml6acg44ks5a2m44g25pa55rov/"><u>ビデオ画像と音声同期設定手順を学ぶ方法</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-social-avatar-customization-concocting-caricatured-images/"><u>[New] In 2024, Social Avatar Customization Concocting Caricatured Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ocating-your-own-melodic-treasure-trove-in-youtubes-vault/"><u>[New] Locating Your Own Melodic Treasure Trove in YouTube's Vault</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securing-your-gaming-victories-through-fbx/"><u>[New] Securing Your Gaming Victories Through FBX</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-covertly-crafted-covers-for-iphones-and-androids-for-2024/"><u>[Updated] Covertly Crafted Covers for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/5aac5l2v5zyo5aot57iu5b2x54mh5ykz5lu95pah5lu25lit5bcl5zue6kkr6yg65asx55qe5qqu5qgi/"><u>如何在壓縮影片備份文件中尋回被遺失的檔案</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728480074371-windows-11/"><u>速度改善法｜Windows 11におけるファイル転送・コピーの最適化手段</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728469268002-windows-11/"><u>應用Windows 11無需設定的方法自行修复硬盤</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-resoudre-le-probleme-de-mise-a-jour-windows-manquante-dans-windows-11-guide-avec-solutions-et-astuces/"><u>Comment Résoudre Le Problème De Mise À Jour Windows Manquante Dans Windows 11 : Guide Avec Solutions Et Astuces</u></a></li>
+<li><a href="https://win-special.techidaily.com/exposing-googles-5th-billion-scheme-understanding-the-scam-and-effective-elimination-techniques/"><u>Exposing Google's 5Th Billion Scheme: Understanding the Scam & Effective Elimination Techniques</u></a></li>
+<li><a href="https://win-special.techidaily.com/getting-to-know-kelsey-a-deep-dive-into-the-biography-of-a-renowned-writer/"><u>Getting to Know Kelsey: A Deep Dive Into the Biography of a Renowned Writer</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-sencilla-para-instalar-un-hdd-usado-en-una-nueva-pc-con-windows-10/"><u>Guía Sencilla Para Instalar Un HDD Usado en Una Nueva PC Con Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 90 GT to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-gopro-quik-for-computer-top-picks-and-alternatives/"><u>New In 2024, GoPro Quik for Computer Top Picks and Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-techniques-in-the-art-of-srt-file-making-for-2024/"><u>Proven Techniques in the Art of SRT File Making for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/quest-ce-que-la-restauration-du-systeme-peut-recuperer-et-effacer-definitivement-les-fichiers-supprimes/"><u>Qu'est-Ce Que La Restauration Du Système Peut Récupérer Et Effacer Définitivement Les Fichiers Supprimés?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creme-de-la-meme-collection-10-for-2024/"><u>The Crème De La Meme Collection - #10 for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/wie-man-einen-icloud-backup-fur-das-iphone-ohne-internetverbindung-erstellt/"><u>Wie Man Einen iCloud-Backup Für Das iPhone Ohne Internetverbindung Erstellt</u></a></li>
 </ul></div>
 
