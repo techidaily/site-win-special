@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats"
-date: 2024-10-07T18:47:53.941Z
-updated: 2024-10-14T17:56:15.300Z
+date: 2024-10-28T19:08:54.505Z
+updated: 2024-10-31T17:01:34.096Z
 tags:
   - product
   - antivirus
@@ -72,6 +72,14 @@ After introducing end-to-end encryption, WhatsApp has enabled it by default acro
 1. Open WhatsApp and start the conversation with the contact with whom you want to share the sensitive details.
 2. Inside the chatbox, tap on the contact’s name/number, and select **Encryption**.![tap encryption](https://www.malwarefox.com/wp-content/uploads/2021/09/tap-encryption.png)
 3. You will see the 60-digit security number code and a QR code.![security code whatsapp](https://www.malwarefox.com/wp-content/uploads/2021/09/security-code-whatsapp.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To verify the end-to-end encryption, either scan the code with the contact’s phone or compare the 60-digit code on their device. If the code matches, the chat is end-to-end encrypted.
 
 ---
@@ -84,13 +92,6 @@ Whenever you use WhatsApp on a different device, the security code of end-to-end
 2. On the Account settings, tap on **Security**.![tap security](https://www.malwarefox.com/wp-content/uploads/2021/09/tap-security.png)
 3. Toggle the button to turn ON the Security notifications.![enable security notification](https://www.malwarefox.com/wp-content/uploads/2021/09/enable-security-notification.png)
 4. You will get these notifications when the security code changes.![security notifications](https://www.malwarefox.com/wp-content/uploads/2021/09/security-notifications.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -105,34 +106,13 @@ To enable it, follow these steps:
 3. Select the **Disappearing messages** option.![tap disappearing messages](https://www.malwarefox.com/wp-content/uploads/2021/09/tap-disappearing-messages.png)
 4. Tap **Continue** to get started with the disappearing messages.![get started with disappearing message](https://www.malwarefox.com/wp-content/uploads/2021/09/get-started-with-disappearing-message.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the **On** bullet option to enable the setting.![disappearing message enabled](https://www.malwarefox.com/wp-content/uploads/2021/09/disappearing-message-enabled.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The drawback of this feature is that the messages can be saved in other ways like Screenshots, or transferring the photos, videos, and voice notes somewhere else within the seven days. Moreover, WhatsApp will notify the contact about the disappearing messages, and both the participants can control this setting, irrespective of who turned it ON or OFF. This nullifies the practicality of the feature. However, the advantage is that enabling the feature would clear the clutter from the group chats.
 
 [5 Things to do when your Facebook Account is Hacked](https://tools.techidaily.com/malwarefox/products/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable View Once for Photos/Videos
 
@@ -144,24 +124,25 @@ Here is how you can use the **View Once** feature:
 2. Tap on the attachment icon and select the photo/video to share from the Gallery. You can also instantly click the picture or shoot the video to share.
 3. After selecting the media, tap on the ‘1’ icon to set it for View only once.![enable view once](https://www.malwarefox.com/wp-content/uploads/2021/09/enable-view-once.png)
 4. You will get the notification that the photo is set to View Once.![view once enabled](https://www.malwarefox.com/wp-content/uploads/2021/09/view-once-set.png)
-5. After the receiver views the media once, you will be notified about that too (only if Read receipts is enabled).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. After the receiver views the media once, you will be notified about that too (only if Read receipts is enabled).
 
 Again, this feature also has the practicality issue as the receiver can easily take a screenshot of the images shared without letting the sender know about it.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform Tweaks in Privacy Settings
@@ -169,6 +150,13 @@ Again, this feature also has the practicality issue as the receiver can easily t
 WhatsApp provides you options to configure some privacy settings as per your preference. After opening the app, navigate to **Settings -> Account -> Privacy**. You can perform changes in the following options:
 
 ![privacy options](https://www.malwarefox.com/wp-content/uploads/2021/09/privacy-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Last Seen:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference.
 * **Profile Photo:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference. This will let you put your picture and hide it from unknowns.
@@ -183,14 +171,14 @@ WhatsApp provides you options to configure some privacy settings as per your pre
 * **Blocked contacts:** let you add or remove the contacts from the block list.
 * **Fingerprint Lock:** This is one of the critical features as **_WhatsApp now does not permit third-party app locks_**. Enable Fingerprint lock to add an extra security layer to access your WhatsApp account. Allowing it would prevent others from opening your chats. You can set it to _lock immediately_, _after 1 minute_, or _after 30 minutes_, as per your preference.![fingerprint lock](https://www.malwarefox.com/wp-content/uploads/2021/09/fingerprint-lock.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable the Cloud Backup
 
@@ -200,16 +188,31 @@ Here is how:
 
 1. Open Whatsapp and navigate to **Settings -> Chats**.![chat settings](https://www.malwarefox.com/wp-content/uploads/2021/09/chats-settings.png)
 2. Scroll down and tap on **Chat backup**.![tap on chat backup](https://www.malwarefox.com/wp-content/uploads/2021/09/tap-on-chat-backup.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Now, tap on **Back up to Google Drive**.![back up to Google drive](https://www.malwarefox.com/wp-content/uploads/2021/09/back-up-to-Google-drive.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. From the options, select **Never** bullet point.![never back up](https://www.malwarefox.com/wp-content/uploads/2021/09/never-back-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -254,22 +257,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-creating-polished-video-content-in-captivate-for-2024/"><u>[New] Creating Polished Video Content in Captivate for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-depth-analysis-the-best-livestreaming-video-tech-for-2024/"><u>[New] In-Depth Analysis The Best Livestreaming Video Tech for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-console-capturer-pro-report/"><u>[Updated] In 2024, Console Capturer Pro Report</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-proven-strategies-for-saving-your-digital-discussions-google-meets-for-2024/"><u>[Updated] Proven Strategies for Saving Your Digital Discussions (Google Meets) for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/effortless-video-capture-from-azubu-channel-secure-your-favorites-in-mp4avi-on-windows-or-mac-devices/"><u>Effortless Video Capture From Azubu Channel: Secure Your Favorites in MP4/AVI on Windows or Mac Devices</u></a></li>
-<li><a href="https://win-special.techidaily.com/free-downloading-guide-for-mediasack-media-content-music-and-movies/"><u>Free Downloading Guide for Mediasack Media Content - Music & Movies</u></a></li>
-<li><a href="https://win-special.techidaily.com/get-your-linux-academy-course-materials-in-mp4-by-downloading-their-videos/"><u>Get Your Linux Academy Course Materials in MP4 by Downloading Their Videos</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-mastering-the-art-of-downloading-full-metal-jacket-fmj-clips-compatible-with-macos-and-windows/"><u>Guide: Mastering the Art of Downloading Full Metal Jacket (FMJ) Clips – Compatible with macOS and Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/harvard-course-materials-on-isites-easy-guide-to-download-and-convert-vids-to-mp4-format/"><u>Harvard Course Materials on iSites – Easy Guide to Download and Convert Vids to MP4 Format</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-save-and-playback-sharepoint-content-as-mp4-or-avi-easy-steps-for-windowsmac-users/"><u>How to Save and Playback SharePoint Content as MP4 or AVI – Easy Steps for Windows/Mac Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-save-and-watch-youtube-videos-in-ultra-hd-4k-quality-on-a-windows-or-macos-device/"><u>How to Save and Watch YouTube Videos in Ultra HD (4K) Quality on a Windows or macOS Device</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-use-rutube-downloader-for-quick-video-captures-on-windows-and-macos-systems/"><u>How To Use RuTube Downloader for Quick Video Captures on Windows and macOS Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-reno-8t-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Reno 8T to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kobo-nia-showdown-can-it-compete-with-the-best-of-amazon-kindles/"><u>Kobo Nia Showdown: Can It Compete with the Best of Amazon Kindles?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-irritating-iphone-x-glitches-solutions-and-workarounds/"><u>Top 7 Irritating iPhone X Glitches: Solutions & Workarounds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-complete-guide-for-capturing-stunning-details-on-film/"><u>[New] 2024 Approved The Complete Guide for Capturing Stunning Details on Film</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>2024 Approved Beat the Best Substitutes for Samsung's VR Camera Gear 360</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728487346986-windows-11-4/"><u>解決 Windows 11 鼠標無反應：4 大舒緩技巧</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-your-gopro-an-exhaustive-comparison-for-2024/"><u>Choosing Your GoPro An Exhaustive Comparison for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-home-theater-top-10-players-in-24-for-2024/"><u>Cutting-Edge Home Theater Top 10 Players in '24 for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/dos-maneras-faciles-de-hacer-que-sus-archivos-se-mantengan-alineados-en-la-misma-pc-un-guia-completa/"><u>Dos Maneras Fáciles De Hacer Que Sus Archivos Se Mantengan Alineados en La Misma PC: Un Guía Completa</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-get-started-with-auto-gpt-downloading-and-installing-made-simple/"><u>Easy Steps to Get Started with Auto-GPT: Downloading and Installing Made Simple!</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-simple-pour-resoudre-lerreur-bsod-0xc000021a-sous-windows-10/"><u>Guide Simple Pour Résoudre L'Erreur BSOD 0xC000021A Sous Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-meizu-21-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Meizu 21 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>In 2024, Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-premier-collection-of-ae-plugins-unveiled/"><u>In 2024, The Premier Collection of AE Plugins Unveiled</u></a></li>
+<li><a href="https://win-special.techidaily.com/resolucion-rapida-como-solucionar-la-fase-de-instalacion-atascada-en-windows-11-con-5-metodos-probados/"><u>Resolución Rápida: Cómo Solucionar La Fase De Instalación Atascada en Windows 11 Con 5 Métodos Probados</u></a></li>
+<li><a href="https://win-special.techidaily.com/tutorial-membangun-keterampilan-pemulihan-pengingat-iphone/"><u>Tutorial Membangun Keterampilan Pemulihan Pengingat iPhone</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-update-0x800f081f/"><u>Windows Update エラー 0X800F081F: 原因と修正手順の詳細ガイド</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728483426850-ic2/"><u>オリンパスカメラICレコーダーからデータを取り戻すための新しい2方法</u></a></li>
 </ul></div>
 
