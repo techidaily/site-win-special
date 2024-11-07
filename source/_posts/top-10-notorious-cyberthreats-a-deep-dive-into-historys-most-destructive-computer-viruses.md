@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses"
-date: 2024-10-25T04:33:49.193Z
-updated: 2024-10-31T17:36:26.419Z
+date: 2024-10-31T21:52:55.661Z
+updated: 2024-11-06T18:31:02.853Z
 tags:
   - product
   - antivirus
@@ -48,46 +48,53 @@ My Doom is a computer worm that was first released in early 2004\. It quickly be
 
 Sasser is a computer worm that was released in 2004\. It exploited a vulnerability in the Windows operating system and quickly spread to millions of computers around the world. The Sasser worm was particularly destructive because it caused infected computers to crash, and in some cases, to become unusable. This resulted in $500 million in damages and affected a large number of businesses and organizations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## #3\. Code Red
 
 Code Red is a computer worm that was released in 2001\. It exploited a vulnerability in the Microsoft IIS web server and quickly spread to hundreds of thousands of computers around the world. The Code Red worm was particularly destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and CNN. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The Code Red worm is believed to have caused over $2.4 billion in damages.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## #4\. Nimda
 
 Nimda is a computer worm that was released in 2001\. It exploited a number of vulnerabilities in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The Nimda virus was particularly destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and CNN. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The Nimda virus is believed to have caused over $635 million in damages.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #5\. ILOVEYOU
 
 ILOVEYOU is a computer worm that was released in 2000\. It exploited a vulnerability in the Microsoft Outlook email program and quickly spread to millions of computers around the world. The ILOVEYOU virus was particularly destructive because it caused infected computers to send emails containing the virus to all of the contacts in the address book. This resulted in the virus spreading very quickly and caused a large number of businesses and organizations to shut down their email systems to prevent the virus from spreading further. The ILOVEYOU virus is believed to have caused over $15 billion in damages.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## #6\. Melissa
 
 Melissa is a computer worm that was released in 1999\. It exploited a vulnerability in the Microsoft Outlook email program and quickly spread to millions of computers around the world. The Melissa virus was particularly destructive because it caused infected computers to send emails containing the virus to all of the contacts in the address book. This resulted in the virus spreading very quickly and caused a large number of businesses and organizations to shut down their email systems to prevent the virus from spreading further. The Melissa virus is believed to have caused over $1 billion in damages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## #7\. Conficker
 
 Conficker is a computer worm that was released in 2008\. It exploited a vulnerability in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The Conficker worm was particularly destructive because it caused infected computers to become part of a botnet, which was used to launch denial-of-service attacks and to spread other malware. The Conficker worm is believed to have caused over $9 billion in damages.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## #8\. CryptoLocker
 
@@ -125,13 +132,6 @@ There are a few things you can do to protect your computer from viruses, includi
 
 [Can Malware Hide from Antivirus?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -157,17 +157,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>[New] Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[Updated] Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools-for-2024/"><u>[Updated] Unlock the Magic of Stories in FB – Free, Cross-Platform Tools for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-effizientes-duplikat-erstellen-von-verzeichnissen-und-subverzeichnissen-mit-dem-befehl-xcopy-unter-windows/"><u>1. Effizientes Duplikat Erstellen Von Verzeichnissen Und Subverzeichnissen Mit Dem Befehl XCOPY Unter Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos/"><u>2024 Approved Dial in the Ideal Aspect Ratio for Stunning YouTube Videos</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728470590080-appdata/"><u>尋找AppData資料夾簡單方法: 適合初學者的完美解答</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/becoming-a-language-prodigy-best-certification-pathways/"><u>Becoming a Language Prodigy: Best Certification Pathways</u></a></li>
-<li><a href="https://win-special.techidaily.com/comprehensive-guide-transferring-hyper-v-virtual-machines-to-a-shared-network-environment/"><u>Comprehensive Guide: Transferring Hyper-V Virtual Machines to a Shared Network Environment</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-13-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 13 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-special.techidaily.com/iphone-to-iphone-seamless-transfer-of-contacts-without-using-itunes/"><u>IPhone-to-iPhone: Seamless Transfer of Contacts Without Using iTunes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/google-meet-on-youtube-streaming-tutorial-for-beginners-for-2024/"><u>Live Google Meet on YouTube – Streaming Tutorial for Beginners for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/missing-content-alert-the-resource-you-seek-is-missing/"><u>Missing Content Alert: The Resource You Seek Is Missing!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war-for-2024/"><u>[New] Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-instagram-post-visibility-and-interaction-for-2024/"><u>[Updated] Elevating Your Instagram Post Visibility and Interaction for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-add-gmail-account-to-your-iphone-or-ipad-a-step-by-step-guide/"><u>1. Add Gmail Account to Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728473645779-d/"><u>Dドライブにログインできない、解決手順を見つける</u></a></li>
+<li><a href="https://win-special.techidaily.com/est-il-possible-de-recuperer-des-emails-definitivement-effaces-sur-gmail-ou-outlook-solutions-detaillees/"><u>Est-Il Possible De Récupérer Des Emails Définitivement Effacés Sur Gmail Ou Outlook ? Solutions Détaillées</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-troubleshoot-and-resolve-lack-of-sound-when-using-vlc-media-player-for-dvd-extraction/"><u>How to Troubleshoot and Resolve Lack of Sound When Using VLC Media Player for DVD Extraction</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Narzo N55 Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-newcomers-notebook-navigating-through-pixel-perfect-videos/"><u>In 2024, The Newcomer’s Notebook Navigating Through Pixel-Perfect Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-nord-n30-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Nord N30 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-special.techidaily.com/limpieza-de-desorden-digital-liberando-espacio-en-tu-dispositivo-windows-n/"><u>Limpieza De Desorden Digital: Liberando Espacio en Tu Dispositivo Windows N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-uses-of-chatgpt-as-a-student-what-to-watch-out-for/"><u>Navigating the Uses of ChatGPT as a Student: What to Watch Out For</u></a></li>
+<li><a href="https://win-special.techidaily.com/photoshop-offnen-nicht-moglich-losung-fur-foto-wiederherstellung/"><u>Photoshop Öffnen Nicht Möglich: Lösung Für Foto-Wiederherstellung!</u></a></li>
+<li><a href="https://win-special.techidaily.com/praktische-anleitung-zum-wiederherstellen-von-dateien-auf-linux-mithilfe-eines-flash-speichers/"><u>Praktische Anleitung Zum Wiederherstellen Von Dateien Auf Linux Mithilfe Eines Flash-Speichers</u></a></li>
+<li><a href="https://win-special.techidaily.com/protect-your-family-online-with-these-top-5-safe-web-guardians-including-malwarefox-substitutes/"><u>Protect Your Family Online with These Top 5 Safe Web Guardians, Including MalwareFox Substitutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-privacy-a-comprehensive-tutorial-on-vpn-setup-for-apple-vision-pro-by-zdnet-professionals/"><u>Secure Your Privacy: A Comprehensive Tutorial on VPN Setup for Apple Vision Pro by ZDNET Professionals</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728487165232-windows-pc/"><u>Windows PC最強硬碟損失恢復工具 - [全新教程]</u></a></li>
 </ul></div>
 

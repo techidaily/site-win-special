@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking
-date: 2024-10-30T03:55:38.858Z
-updated: 2024-10-31T19:51:08.504Z
+date: 2024-11-02T22:29:12.014Z
+updated: 2024-11-06T17:13:04.781Z
 tags:
   - product
   - antivirus
@@ -51,16 +51,10 @@ Moreover,  RATs can spy on victims by discreetly activating a computer’s webca
 Other variants of RATs use the network and other machines connected to it and create a botnet. File hosting, torrenting, DDOS attacks, and Bitcoin mining can be done using your home network without your knowledge. RATs usually do not slow down the computer so it can go unnoticed for quite a while. Some may even stay in hiding for long time.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Do RATs Get in Your Computer?
@@ -72,17 +66,10 @@ Social engineering is also a common method. Hackers trick users into downloading
 [![internet hacker](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples of RATs
@@ -92,6 +79,13 @@ There are many examples of RATs, and some are still active and receive regular u
 [Back Orifice](http://www.symantec.com/avcenter/warn/backorifice.html) is a legitimate program for remote system administration. It was designed with a client-server architecture that runs using TCP and UDP network protocols. It is notably small and unobtrusive. Back Orifice even installed without the knowledge of the user. Hence, hackers have been using it as a payload of a Trojan Horse to distribute to various victims. It soon evolved into two modern versions: Back Orifice 2000 and Deep Back Orifice.
 
 Other examples of RATs are Poison-Ivy, Turkojan, Optix, and CyberGate. Some have smaller following such as DarkComet, Vortex, and Shark. Nonetheless, they are still effective.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Protect Yourself from RAT Malware
 
@@ -104,10 +98,16 @@ While Windows Defender is a fantastic security software, modern RATs can easily 
 MalwareFox also protects you while browsing with its Browser Cleaner. This will effectively block ads and fake websites that may carry RATs. It specifically protects you from trojans using the Trojan Killer function which will effectively kill any attacks before it infects your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Thoughts
@@ -139,24 +139,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-masterful-mac-microphone-software-ranking-the-excellent-five-for-2024/"><u>[Updated] Masterful Mac Microphone Software Ranking the Excellent Five for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-tactical-phone-data-shift-android-to-iphone-for-2024/"><u>[Updated] Tactical Phone Data Shift Android to iPhone for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-maestro-at-zoom-broadcasting-on-youtube/"><u>2024 Approved Becoming a Maestro at Zoom Broadcasting on YouTube</u></a></li>
-<li><a href="https://win-special.techidaily.com/backup-completo-delle-tue-email-di-outlook-365-il-metodo-piu-facile-ed-efficiente-per-la-sicurezza-dei-dati/"><u>Backup Completo Delle Tue Email Di Outlook 365: Il Metodo Più Facile Ed Efficiente per La Sicurezza Dei Dati</u></a></li>
-<li><a href="https://win-special.techidaily.com/clonacion-eficiente-de-discos-duros-a-ssd-para-mejorar-el-almacenamiento-digital/"><u>Clonación Eficiente De Discos Duros a SSD Para Mejorar El Almacenamiento Digital</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-unresponsive-samsung-tv-applications-problems/"><u>Effective Fixes for Unresponsive Samsung TV Applications Problems</u></a></li>
-<li><a href="https://win-special.techidaily.com/expert-picks-most-effective-and-efficient-pc-migration-tools-compatible-with-all-windows-versions-including-win-7-8-10-11/"><u>Expert Picks: Most Effective & Efficient PC Migration Tools Compatible with All Windows Versions (Including Win 7, 8, 10, 11)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
-<li><a href="https://win-special.techidaily.com/gratuits-et-performants-les-applications-succedent-au-clonage-des-disques-avec-uefi/"><u>Gratuits Et Performants : Les Applications Succèdent Au Clonage Des Disques Avec UEFI</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-simple-et-complet-construire-une-image-de-systemes-windows-7-en-trois-facons/"><u>Guide Simple Et Complet : Construire Une Image De Systèmes Windows 7 en Trois Façons</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-20-guidelines-livestream-webinars-at-no-extra-charge/"><u>In 2024, 20 Guidelines Livestream Webinars at No Extra Charge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>In 2024, Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
-<li><a href="https://win-special.techidaily.com/regain-access-to-vanished-picasa-pictures-with-these-proven-5-step-strategies/"><u>Regain Access to Vanished Picasa Pictures with These Proven 5-Step Strategies</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-creating-a-disk-image-on-a-separate-hard-drive-using-windows-1011/"><u>Step-by-Step Tutorial: Creating a Disk Image on a Separate Hard Drive Using Windows 10/11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877199-9781609256548-symbolism-of-the-celtic-cross/"><u>Symbolism of the Celtic Cross | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-discreetly-observing-fb-users/"><u>The Art of Discreetly Observing FB Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/understanding-the-reasons-behind-your-epic-games-account-deletion/"><u>Understanding the Reasons Behind Your Epic Games Account Deletion</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-transform-into-a-cartoon-16-essential-apps-for-mobile/"><u>Updated 2024 Approved Transform Into a Cartoon 16 Essential Apps for Mobile</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728486550124-3/"><u>レジストリ修復後のシステム復元: 効果的な解決策3つ</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips-for-2024/"><u>[New] Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-level-recording-discover-budget-friendly-choices/"><u>[New] In 2024, Next-Level Recording Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-decoding-the-mystery-of-smooth-iphone-images-four-ways/"><u>[Updated] 2024 Approved Decoding the Mystery of Smooth iPhone Images (Four Ways)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-solutions-to-stop-blank-spots-in-obs-media/"><u>[Updated] 2024 Approved Solutions to Stop Blank Spots in OBS Media</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>2024 Approved ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728471402144-windows-103/"><u>外部ドライブ向けWindows 10データ保護：トップ3スキルミティゲーション</u></a></li>
+<li><a href="https://win-special.techidaily.com/effektieve-methoden-om-c-schijf-data-omzettingen-te-vergroten-in-windows-7811/"><u>Effektieve Methoden Om C-Schijf Data Omzettingen Te Vergroten in Windows 7/8/11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 Plus with iTunes</u></a></li>
+<li><a href="https://win-special.techidaily.com/guida-alla-creazione-velocissima-di-dispositivi-usb-bootable-in-windows-7-tecniche-essenziali-e-trucchi/"><u>Guida Alla Creazione Velocissima Di Dispositivi USB Bootable in Windows 7: Tecniche Essenziali E Trucchi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-die-richtige-methode-zur-behebung-von-windows-11-bootpartitionenfehlern/"><u>Schritt-Für-Schritt-Anleitung: Die Richtige Methode Zur Behebung Von Windows 11 Bootpartitionenfehlern</u></a></li>
+<li><a href="https://win-special.techidaily.com/self-study-guide-hoe-om-rsync-toepassingen-te-leren-in-windows-10-eenvoudige-alternatieven/"><u>Self-Study Guide: Hoe Om Rsync Toepassingen Te Leren In Windows 10 - Eénvoudige Alternatieven</u></a></li>
+<li><a href="https://win-special.techidaily.com/verstandliche-anleitung-zum-einrichten-von-system-und-bootpartitionsdateien-auf-verschiedenen-hdds/"><u>Verständliche Anleitung Zum Einrichten Von System Und Bootpartitionsdateien Auf Verschiedenen HDDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-edge-a-top-contender-among-browser-games/"><u>What Makes Edge a Top Contender Among Browser Games?</u></a></li>
+<li><a href="https://win-special.techidaily.com/wie-implementieren-sie-ein-ununterbrochenes-backup-in-windows-betriebssystemen-11-10-8-and/"><u>Wie Implementieren Sie Ein Ununterbrochenes Backup in Windows Betriebssystemen (11, 10, 8 & 지금)?</u></a></li>
 </ul></div>
 

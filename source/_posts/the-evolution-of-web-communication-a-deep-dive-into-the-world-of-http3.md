@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-10-29T02:44:10.653Z
-updated: 2024-11-01T01:07:59.088Z
+date: 2024-11-03T18:38:41.309Z
+updated: 2024-11-06T18:35:26.376Z
 tags:
   - product
   - antivirus
@@ -72,6 +72,13 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -102,6 +109,13 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
@@ -115,10 +129,10 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,24 +141,10 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
@@ -153,10 +153,10 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -184,17 +184,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nlocking-your-potential-in-youtube-video-production-scripts-for-2024/"><u>[New] Unlocking Your Potential in YouTube Video Production Scripts for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728471402144-windows-103/"><u>外部ドライブ向けWindows 10データ保護：トップ3スキルミティゲーション</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-secrets-of-your-android-device-unveiling-cpu-power-and-performance-metrics/"><u>Discover the Secrets of Your Android Device: Unveiling CPU Power & Performance Metrics</u></a></li>
-<li><a href="https://win-special.techidaily.com/guida-alla-creazione-velocissima-di-dispositivi-usb-bootable-in-windows-7-tecniche-essenziali-e-trucchi/"><u>Guida Alla Creazione Velocissima Di Dispositivi USB Bootable in Windows 7: Tecniche Essenziali E Trucchi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-enhance-your-online-presence-with-advanced-virtual-webcam-features/"><u>Live Streaming Mastery with ManyCam: Enhance Your Online Presence with Advanced Virtual Webcam Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/peer-reviewed-evaluation-of-action-screening-tech-for-2024/"><u>Peer-Reviewed Evaluation of Action Screening Tech for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/professionelle-festplattenklonierung-unter-windows-topfreie-und-startbar-programme-zum-schutz-ihrer-daten/"><u>Professionelle Festplattenklonierung Unter Windows: Topfreie Und Startbar-Programme Zum Schutz Ihrer Daten</u></a></li>
-<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-die-richtige-methode-zur-behebung-von-windows-11-bootpartitionenfehlern/"><u>Schritt-Für-Schritt-Anleitung: Die Richtige Methode Zur Behebung Von Windows 11 Bootpartitionenfehlern</u></a></li>
-<li><a href="https://facebook.techidaily.com/strengthening-society-one-like-at-a-time/"><u>Strengthening Society One Like at a Time</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreeze-windows-hibernate-with-simple-steps/"><u>Unfreeze Windows Hibernate with Simple Steps</u></a></li>
-<li><a href="https://win-special.techidaily.com/verstandliche-anleitung-zum-einrichten-von-system-und-bootpartitionsdateien-auf-verschiedenen-hdds/"><u>Verständliche Anleitung Zum Einrichten Von System Und Bootpartitionsdateien Auf Verschiedenen HDDs</u></a></li>
-<li><a href="https://win-special.techidaily.com/wie-implementieren-sie-ein-ununterbrochenes-backup-in-windows-betriebssystemen-11-10-8-and/"><u>Wie Implementieren Sie Ein Ununterbrochenes Backup in Windows Betriebssystemen (11, 10, 8 & 지금)?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] In 2024, Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-procleanse-top-tier-background-removal-tool/"><u>[Updated] ProCleanse Top-Tier Background Removal Tool</u></a></li>
+<li><a href="https://win-special.techidaily.com/data-recovery-techniques-when-your-computer-fails-to-boot-myrecover-guide/"><u>Data Recovery Techniques When Your Computer Fails to Boot - MyRecover Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/efficient-methods-for-laptop-to-hard-drive-backups-a-comprehensive-guide/"><u>Efficient Methods for Laptop-to-Hard Drive Backups: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-docker-setup-tips-for-optimized-wsl-2-use/"><u>Elevate Your Docker Setup: Tips for Optimized WSL 2 Use</u></a></li>
+<li><a href="https://article-posts.techidaily.com/evaluating-cloud-services-with-a-budget-lens-2-written-by-ai/"><u>Evaluating Cloud Services with a Budget Lens (2 Written by AI)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-intricacies-of-ai-and-its-goal-congruence-dilemma/"><u>Navigating the Intricacies of AI and Its Goal Congruence Dilemma</u></a></li>
+<li><a href="https://win-special.techidaily.com/quick-guide-how-to-isolate-and-retrieve-files-from-a-windows-11-full-backup/"><u>Quick Guide: How to Isolate and Retrieve Files From a Windows 11 Full Backup</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-verlorene-daten-aus-einem-beschadigten-usb-laufwerk-wiederherstellen/"><u>Schritt-Für-Schritt Anleitung: Verlorene Daten Aus Einem Beschädigten USB-Laufwerk Wiederherstellen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-buyers-checklist-evaluating-used-ipad-options-before-commitment/"><u>Smart Buyer’s Checklist: Evaluating Used iPad Options Before Commitment</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-10-notorious-cyberthreats-a-deep-dive-into-historys-most-destructive-computer-viruses/"><u>Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-pixels-the-exclusive-advantages-of-hp-envy-27-for-2024/"><u>Unmatched Pixels The Exclusive Advantages of HP Envy 27 for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/wie-installiert-man-erfolgreich-windows-11-via-iso-auf-einem-virtuellen-pc-mit-virtualbox/"><u>Wie Installiert Man Erfolgreich Windows #11 via ISO Auf Einem Virtuellen PC Mit VirtualBox?</u></a></li>
 </ul></div>
 
