@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses"
-date: 2024-10-31T21:52:55.661Z
-updated: 2024-11-06T18:31:02.853Z
+date: 2024-11-13T16:34:34.382Z
+updated: 2024-11-17T01:26:24.833Z
 tags:
   - product
   - antivirus
@@ -44,15 +44,22 @@ If you want to learn more about these terrible critters, keep reading. In this b
 
 My Doom is a computer worm that was first released in early 2004\. It quickly became the most widespread virus of all time, infecting millions of computers within days. The My Doom virus was so destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and Google. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The My Doom virus is believed to have caused over $38 billion in damages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## #2\. Sasser
 
 Sasser is a computer worm that was released in 2004\. It exploited a vulnerability in the Windows operating system and quickly spread to millions of computers around the world. The Sasser worm was particularly destructive because it caused infected computers to crash, and in some cases, to become unusable. This resulted in $500 million in damages and affected a large number of businesses and organizations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #3\. Code Red
@@ -63,23 +70,9 @@ Code Red is a computer worm that was released in 2001\. It exploited a vulnerabi
 
 Nimda is a computer worm that was released in 2001\. It exploited a number of vulnerabilities in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The Nimda virus was particularly destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and CNN. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The Nimda virus is believed to have caused over $635 million in damages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## #5\. ILOVEYOU
 
 ILOVEYOU is a computer worm that was released in 2000\. It exploited a vulnerability in the Microsoft Outlook email program and quickly spread to millions of computers around the world. The ILOVEYOU virus was particularly destructive because it caused infected computers to send emails containing the virus to all of the contacts in the address book. This resulted in the virus spreading very quickly and caused a large number of businesses and organizations to shut down their email systems to prevent the virus from spreading further. The ILOVEYOU virus is believed to have caused over $15 billion in damages.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## #6\. Melissa
 
@@ -90,10 +83,10 @@ Melissa is a computer worm that was released in 1999\. It exploited a vulnerabil
 Conficker is a computer worm that was released in 2008\. It exploited a vulnerability in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The Conficker worm was particularly destructive because it caused infected computers to become part of a botnet, which was used to launch denial-of-service attacks and to spread other malware. The Conficker worm is believed to have caused over $9 billion in damages.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #8\. CryptoLocker
@@ -132,6 +125,13 @@ There are a few things you can do to protect your computer from viruses, includi
 
 [Can Malware Hide from Antivirus?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -157,22 +157,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war-for-2024/"><u>[New] Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-instagram-post-visibility-and-interaction-for-2024/"><u>[Updated] Elevating Your Instagram Post Visibility and Interaction for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-add-gmail-account-to-your-iphone-or-ipad-a-step-by-step-guide/"><u>1. Add Gmail Account to Your iPhone or iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728473645779-d/"><u>Dドライブにログインできない、解決手順を見つける</u></a></li>
-<li><a href="https://win-special.techidaily.com/est-il-possible-de-recuperer-des-emails-definitivement-effaces-sur-gmail-ou-outlook-solutions-detaillees/"><u>Est-Il Possible De Récupérer Des Emails Définitivement Effacés Sur Gmail Ou Outlook ? Solutions Détaillées</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/how-to-troubleshoot-and-resolve-lack-of-sound-when-using-vlc-media-player-for-dvd-extraction/"><u>How to Troubleshoot and Resolve Lack of Sound When Using VLC Media Player for DVD Extraction</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Narzo N55 Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-newcomers-notebook-navigating-through-pixel-perfect-videos/"><u>In 2024, The Newcomer’s Notebook Navigating Through Pixel-Perfect Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-nord-n30-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Nord N30 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-special.techidaily.com/limpieza-de-desorden-digital-liberando-espacio-en-tu-dispositivo-windows-n/"><u>Limpieza De Desorden Digital: Liberando Espacio en Tu Dispositivo Windows N</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-uses-of-chatgpt-as-a-student-what-to-watch-out-for/"><u>Navigating the Uses of ChatGPT as a Student: What to Watch Out For</u></a></li>
-<li><a href="https://win-special.techidaily.com/photoshop-offnen-nicht-moglich-losung-fur-foto-wiederherstellung/"><u>Photoshop Öffnen Nicht Möglich: Lösung Für Foto-Wiederherstellung!</u></a></li>
-<li><a href="https://win-special.techidaily.com/praktische-anleitung-zum-wiederherstellen-von-dateien-auf-linux-mithilfe-eines-flash-speichers/"><u>Praktische Anleitung Zum Wiederherstellen Von Dateien Auf Linux Mithilfe Eines Flash-Speichers</u></a></li>
-<li><a href="https://win-special.techidaily.com/protect-your-family-online-with-these-top-5-safe-web-guardians-including-malwarefox-substitutes/"><u>Protect Your Family Online with These Top 5 Safe Web Guardians, Including MalwareFox Substitutes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-privacy-a-comprehensive-tutorial-on-vpn-setup-for-apple-vision-pro-by-zdnet-professionals/"><u>Secure Your Privacy: A Comprehensive Tutorial on VPN Setup for Apple Vision Pro by ZDNET Professionals</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728487165232-windows-pc/"><u>Windows PC最強硬碟損失恢復工具 - [全新教程]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ffortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>[New] Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-does-pickup-elevate-your-editing-game-on-android-heres-what-you-need-to-know-for-2024/"><u>[Updated] Does PickUp Elevate Your Editing Game on Android? Here’s What You Need to Know for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-headline-hacks-for-maximum-impressions-for-2024/"><u>[Updated] Master Headline Hacks for Maximum Impressions for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/aomei-backupper-microsoft-synctoy/"><u>AOMEI Backupper: Microsoft SyncToy的稱帝易位 - 最佳無料版本選擇</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/convertendo-sem-custo-aiff-em-ogg-com-o-servico-on-line-gratuito-da-movavi/"><u>Convertendo Sem Custo: AIFF Em OGG Com O Serviço On-Line Gratuito Da Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-c22-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nokia C22</u></a></li>
+<li><a href="https://win-special.techidaily.com/icloud-update-successfully-overcomes-previous-backup-failure-troubleshooting/"><u>ICloud Update Successfully Overcomes Previous Backup Failure Troubleshooting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Google Pixel 8 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-note-12-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi Note 12 4G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/necessity-of-gaming-laptops-for-devoted-laptop-game-enthusiasts-a-must-or-just-a-myth/"><u>Necessity of Gaming Laptops for Devoted Laptop Game Enthusiasts: A Must or Just a Myth?</u></a></li>
+<li><a href="https://win-special.techidaily.com/outlook-10/"><u>Outlookにおける添付ファイル表示問題解決: 10手配法</u></a></li>
+<li><a href="https://win-special.techidaily.com/ripristina-i-tuoi-file-perduti-o-eliminati-guida-completa-per-wetransfer/"><u>Ripristina I Tuoi File Perduti O Eliminati: Guida Completa per WeTransfer</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-leitfaden-zum-hochfahren-von-dell-systems-mit-intel-rst-in-windows-11/"><u>Schritt-Für-Schritt-Leitfaden Zum Hochfahren Von Dell Systems Mit Intel RST in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-your-devices-health-utilizing-apples-digital-examination-for-iphones/"><u>Secure Your Device's Health: Utilizing Apple’s Digital Examination for iPhones</u></a></li>
+<li><a href="https://win-special.techidaily.com/should-you-backup-data-prior-to-the-transition-to-windows-11-upgrade/"><u>Should You Backup Data Prior to the Transition to Windows 11 Upgrade?</u></a></li>
+<li><a href="https://win-special.techidaily.com/sicheres-loschen-ihrer-wd-solid-state-festplatte-einfache-schritte-fur-windows-1110-nutzer/"><u>Sicheres Löschen Ihrer WD Solid-State-Festplatte: Einfache Schritte Für Windows 11/10 Nutzer</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-guide-speedy-solutions-to-fix-slow-file-transfer-in-windows-10-8-strategies-revealed/"><u>Ultimate Guide: Speedy Solutions to Fix Slow File Transfer in Windows 10 (8 Strategies Revealed)</u></a></li>
 </ul></div>
 

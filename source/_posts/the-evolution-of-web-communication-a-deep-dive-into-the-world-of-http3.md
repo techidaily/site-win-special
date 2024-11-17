@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-11-03T18:38:41.309Z
-updated: 2024-11-06T18:35:26.376Z
+date: 2024-11-13T16:11:38.495Z
+updated: 2024-11-17T04:00:40.630Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,13 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Goodbye TCP
 
 Before we get to further details, a few words about UDP (User Datagram Protocol), a new technology that Google has been working on. This TCP replacement is designed to make transmissions much smoother and faster by removing many of the unnecessary functions that TCP performs.
@@ -71,13 +78,6 @@ Reliable as it may be, the thing that makes TCP slow is that it lets servers che
 This reliability, however, makes this this less than an ideal solution when sending real-time data, where delays are unacceptable. Case in point, when chatting on [Skype](https://www.skype.com/en/).
 
 And this is exactly where UDP comes in.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Out with the old, in with the new
 
@@ -103,24 +103,31 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
@@ -129,10 +136,10 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -151,13 +158,6 @@ While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a 
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -184,19 +184,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] In 2024, Pro Tips for Productive Dialogues on Google Meet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-procleanse-top-tier-background-removal-tool/"><u>[Updated] ProCleanse Top-Tier Background Removal Tool</u></a></li>
-<li><a href="https://win-special.techidaily.com/data-recovery-techniques-when-your-computer-fails-to-boot-myrecover-guide/"><u>Data Recovery Techniques When Your Computer Fails to Boot - MyRecover Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/efficient-methods-for-laptop-to-hard-drive-backups-a-comprehensive-guide/"><u>Efficient Methods for Laptop-to-Hard Drive Backups: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-docker-setup-tips-for-optimized-wsl-2-use/"><u>Elevate Your Docker Setup: Tips for Optimized WSL 2 Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/evaluating-cloud-services-with-a-budget-lens-2-written-by-ai/"><u>Evaluating Cloud Services with a Budget Lens (2 Written by AI)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-intricacies-of-ai-and-its-goal-congruence-dilemma/"><u>Navigating the Intricacies of AI and Its Goal Congruence Dilemma</u></a></li>
-<li><a href="https://win-special.techidaily.com/quick-guide-how-to-isolate-and-retrieve-files-from-a-windows-11-full-backup/"><u>Quick Guide: How to Isolate and Retrieve Files From a Windows 11 Full Backup</u></a></li>
-<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-verlorene-daten-aus-einem-beschadigten-usb-laufwerk-wiederherstellen/"><u>Schritt-Für-Schritt Anleitung: Verlorene Daten Aus Einem Beschädigten USB-Laufwerk Wiederherstellen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-buyers-checklist-evaluating-used-ipad-options-before-commitment/"><u>Smart Buyer’s Checklist: Evaluating Used iPad Options Before Commitment</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-10-notorious-cyberthreats-a-deep-dive-into-historys-most-destructive-computer-viruses/"><u>Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-pixels-the-exclusive-advantages-of-hp-envy-27-for-2024/"><u>Unmatched Pixels The Exclusive Advantages of HP Envy 27 for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/wie-installiert-man-erfolgreich-windows-11-via-iso-auf-einem-virtuellen-pc-mit-virtualbox/"><u>Wie Installiert Man Erfolgreich Windows #11 via ISO Auf Einem Virtuellen PC Mit VirtualBox?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms-for-2024/"><u>[New] Harness KineMaster's Power Techniques for Professionals & Top Online Platforms for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-video-quality-converters-triad-of-tactics/"><u>[New] In 2024, Elevate Video Quality Converter's Triad of Tactics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-5-best-microphones-for-4k-camera/"><u>[Updated] Top 5 Best Microphones for 4K Camera</u></a></li>
+<li><a href="https://win-special.techidaily.com/copia-de-seguridad-perfecta-como-duplicar-tus-documentos-sin-cerrar-la-ventana-de-windows-instrucciones-detalladas/"><u>Copia De Seguridad Perfecta: Cómo Duplicar Tus Documentos Sin Cerrar La Ventana De Windows – Instrucciones Detalladas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-niche-to-noteworthy-the-ultimate-unboxing-strategy-on-instagram-for-2024/"><u>From Niche to Noteworthy The Ultimate Unboxing Strategy on Instagram for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pour-installer-et-utiliser-lenvironnement-de-recuperation-aomei-backupper-creation-facile/"><u>Guide Pour Installer Et Utiliser L'Environnement De Récupération AOMEI Backupper - Création Facile!</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pratique-et-gratuit-pour-recuperer-les-contacts-supprimes-en-format-vcf-a-partir-de-votre-carte-sd/"><u>Guide Pratique Et Gratuit Pour Récupérer Les Contacts Supprimés en Format VCF À Partir De Votre Carte SD</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-professional-gopro-video-making/"><u>In 2024, The Ultimate Guide to Professional GoPro Video Making</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-when-worlds-collapse-premium-zombie-video-game-guide/"><u>In 2024, When Worlds Collapse Premium Zombie Video Game Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mini-marvels-ultimate-game-hunt/"><u>Mini Marvels' Ultimate Game Hunt</u></a></li>
+<li><a href="https://win-special.techidaily.com/missing-pages-alert-error-code-404/"><u>Missing Pages Alert – Error Code ❌404</u></a></li>
+<li><a href="https://win-special.techidaily.com/non-coding-rnas-play-significant-roles-in-regulating-gene-expression-and-maintaining-genomic-stability/"><u>Non-Coding RNAs Play Significant Roles in Regulating Gene Expression and Maintaining Genomic Stability.</u></a></li>
+<li><a href="https://win-special.techidaily.com/resolving-the-issue-of-boot-failure-on-windows-10-with-a-clonezilla-duplicate-disk/"><u>Resolving the Issue of Boot Failure on Windows 10 with a Clonezilla Duplicate Disk</u></a></li>
 </ul></div>
 
