@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking
-date: 2024-11-13T03:01:20.749Z
-updated: 2024-11-17T00:46:15.900Z
+date: 2024-11-25T16:53:18.771Z
+updated: 2024-11-26T16:06:31.963Z
 tags:
   - product
   - antivirus
@@ -40,6 +40,10 @@ Having remote access to any machine is a hacker’s dream. The ability to monito
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is RAT Malware?
 
 A Remote Access Trojan, more popularly known as RAT, is a type of malware that can conduct covert surveillance to a victim’s computer. Its behavior is very similar to [keyloggers](https://tools.techidaily.com/malwarefox/products/). However, RATs can do much more than collect data from keystrokes, usernames, and passwords. Other modern keyloggers can also capture screenshots, emails, browser, chat logs, and more.
@@ -51,10 +55,7 @@ Moreover,  RATs can spy on victims by discreetly activating a computer’s webca
 Other variants of RATs use the network and other machines connected to it and create a botnet. File hosting, torrenting, DDOS attacks, and Bitcoin mining can be done using your home network without your knowledge. RATs usually do not slow down the computer so it can go unnoticed for quite a while. Some may even stay in hiding for long time.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Do RATs Get in Your Computer?
@@ -66,16 +67,11 @@ Social engineering is also a common method. Hackers trick users into downloading
 [![internet hacker](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/05/cyber-hacker.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Examples of RATs
@@ -85,13 +81,6 @@ There are many examples of RATs, and some are still active and receive regular u
 [Back Orifice](http://www.symantec.com/avcenter/warn/backorifice.html) is a legitimate program for remote system administration. It was designed with a client-server architecture that runs using TCP and UDP network protocols. It is notably small and unobtrusive. Back Orifice even installed without the knowledge of the user. Hence, hackers have been using it as a payload of a Trojan Horse to distribute to various victims. It soon evolved into two modern versions: Back Orifice 2000 and Deep Back Orifice.
 
 Other examples of RATs are Poison-Ivy, Turkojan, Optix, and CyberGate. Some have smaller following such as DarkComet, Vortex, and Shark. Nonetheless, they are still effective.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Protect Yourself from RAT Malware
 
@@ -104,10 +93,7 @@ While Windows Defender is a fantastic security software, modern RATs can easily 
 MalwareFox also protects you while browsing with its Browser Cleaner. This will effectively block ads and fake websites that may carry RATs. It specifically protects you from trojans using the Trojan Killer function which will effectively kill any attacks before it infects your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Thoughts
@@ -139,20 +125,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-ranking-top-9-puzzle-games-for-offline-play/"><u>[Updated] 2024 Approved The Ultimate Ranking Top 9 Puzzle Games for Offline Play</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[Updated] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-viewership-a-guide-to-captivating-haul-content-for-2024/"><u>Boosting Viewership A Guide to Captivating Haul Content for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/como-restaurar-una-copia-de-seguridad-en-windows-server-un-tutorial-detallado/"><u>Cómo Restaurar Una Copia De Seguridad en Windows Server: Un Tutorial Detallado</u></a></li>
-<li><a href="https://win-special.techidaily.com/expert-guide-restoring-lost-images-from-sd-memory-cards-with-ifind-data-recovery/"><u>Expert Guide: Restoring Lost Images From SD Memory Cards with IFind Data Recovery</u></a></li>
-<li><a href="https://win-special.techidaily.com/expert-tips-for-resolving-unresponsive-windows-7-(a-hrefhttpswwwmicrosoftcomen-uswindows)task-manager(a)-top-strategies-listed/"><u>Expert Tips for Resolving Unresponsive Windows 7 <a href='https://www.microsoft.com/en-us/windows'>Task Manager</A>: Top Strategies Listed</u></a></li>
-<li><a href="https://win-special.techidaily.com/guia-completa-para-cifrar-copias-de-seguridad-con-aomei-backupper/"><u>Guía Completa Para Cifrar Copias De Seguridad Con AOMEI Backupper</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-restore-cellular-data-functionality-post-ios-update/"><u>How to Restore Cellular Data Functionality Post-iOS Update</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>In 2024, Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210867962-9780811745772-monsters-of-west-virginia/"><u>Monsters of West Virginia | Free Book</u></a></li>
-<li><a href="https://win-special.techidaily.com/soluciones-efectivas-para-recuperar-datos-perdidos-de-una-carpeta-eliminada-en-windows-1011/"><u>Soluciones Efectivas Para Recuperar Datos Perdidos De Una Carpeta Eliminada en Windows 10/11</u></a></li>
-<li><a href="https://win-special.techidaily.com/strategie-innovative-come-individuare-e-risolvere-lirraggiungibile-bersaglio-dei-tuoi-file/"><u>Strategie Innovative: Come Individuare E Risolvere L'Irraggiungibile Bersaglio Dei Tuoi File</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-premier-7-apps-transforming-mobile-video-streaming-on-youtube-for-2024/"><u>The Premier 7 Apps Transforming Mobile Video Streaming on YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-game-changing-streaming-apps-for-gamers/"><u>[New] 2024 Approved Game-Changing Streaming Apps for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom/"><u>[New] How to Create and Combine High Dynamic Range Photos with Lightroom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-making-your-twitter-media-a-gif-masterpiece-for-2024/"><u>[New] Making Your Twitter Media A GIF Masterpiece for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-for-perfect-screen-capture-with-mobizen-for-2024/"><u>[Updated] Easy Steps for Perfect Screen Capture with Mobizen for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728461999172-windows/"><u>修改分割區後在Windows上如何恢復驅動器？請看我的導覽</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows10and115/"><u>再起動が多すぎるWindowsパソコンの問題に対処する手段：10&11で使える5つのテクニック</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-the-problems-with-your-logitech-g733-microphone-solutions-inside/"><u>Addressing the Problems with Your Logitech G733 Microphone - Solutions Inside</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-identifier-et-resoudre-les-difficultes-avec-windows-update-sur-votre-systeme-dexploitation-windows-11/"><u>Comment Identifier Et Résoudre Les Difficultés Avec Windows Update Sur Votre Système D'Exploitation Windows 11?</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-puis-je-restaurer-la-partition-et-reinstaller-le-systeme-dexploitation-sur-mon-ordinateur-acer/"><u>Comment Puis-Je Restaurer La Partition Et Réinstaller Le Système D'exploitation Sur Mon Ordinateur Acer?</u></a></li>
+<li><a href="https://win-special.techidaily.com/crear-varias-copias-de-seguridad-en-windows-10-un-guia-paso-a-paso/"><u>Crear Varias Copias De Seguridad en Windows 10: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-hottest-dual-play-mobile-adventures-top-15-list/"><u>Explore the Hottest Dual Play Mobile Adventures (Top 15 List)</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-completa-de-sincronizacion-para-unidades-usb-premium-optimizando-la-eficiencia-del-almacenamiento-con-windows/"><u>Guía Completa De Sincronización Para Unidades USB Premium: Optimizando La Eficiencia Del Almacenamiento Con Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-facile-a-lutilisation-pour-la-recuperation-de-donnees-avec-aomei-backupper/"><u>Guide Facile À L'Utilisation Pour La Récupération De Données Avec AOMEI Backupper</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-note-30i-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Note 30i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-gt-10-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix GT 10 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-unleash-your-creativity-10-free-whiteboard-animation-tools-for-windows-and-mac/"><u>New Unleash Your Creativity 10 Free Whiteboard Animation Tools for Windows and Mac</u></a></li>
+<li><a href="https://win-special.techidaily.com/quick-fix-how-to-resolve-non-functioning-photos-on-your-iphone/"><u>Quick Fix: How to Resolve Non-Functioning Photos on Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-local-llm-conundrum-why-you-should-care-about-it/"><u>The Local LLM Conundrum: Why You Should Care About It</u></a></li>
+<li><a href="https://win-special.techidaily.com/unmasking-bogus-apple-id-cons-protective-measures-by-malwarefox/"><u>Unmasking Bogus Apple ID Cons: Protective Measures by MalwareFox</u></a></li>
 </ul></div>
 

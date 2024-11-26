@@ -1,7 +1,7 @@
 ---
 title: IFind Data Recovery Tutorial for Retrieving Deleted Files From Windows OS Versions 11/7/8
-date: 2024-11-11T23:01:27.828Z
-updated: 2024-11-16T22:01:14.610Z
+date: 2024-11-22T16:00:18.256Z
+updated: 2024-11-26T17:36:01.766Z
 tags:
   - product
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Recover Permanently Deleted Files in Windows PC & Prevent Data Loss Forever | 2024?
 
@@ -44,31 +48,11 @@ Always check the Recycle Bin first before you empty it! If you just press the De
 
 ![Restore deleted files in Recycle Bin](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Recycle-Bin-Restore.jpg?resize=844%2C478&ssl=1)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Notice:
 
 if you can’t find the icon, use Win+R to run and put “shell:RecycleBinFolder” then click Enter on your keyboard, that’s it!
 
 ![how to run recycle bin in cmd](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/shell-recyclebinfolder.jpg?resize=413%2C213&ssl=1 "shell-recyclebinfolder")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips:
 
@@ -95,16 +79,13 @@ Step 1: Click start and input “File History”, you will see the result and cl
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win11.png?resize=354%2C527&ssl=1 "win11")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Then you can find all the files that have recently been stored, choose the data you need to recover, and hit the GRN button below to restore.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win10-3.png?resize=1100%2C639&ssl=1 "win10-3")
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips:
 
@@ -116,14 +97,11 @@ As we mentioned, there is no previous versions tab in win8, however, you can use
 
 ![shadowexplorer](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/manual_4.png?resize=640%2C480&ssl=1)
 
-### 
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 
 
 ### **File Recovery for Windows 7 Users**
 
@@ -134,6 +112,10 @@ Step 1: Right-click the file you want to recover (For Deleted files, just right-
 Step 2: Choose the file and version you want to recover, and click Restore.
 
 ![windows 7 restore files](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/win7restorefile.jpg?resize=783%2C565&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Double-check the version and click Restore again, you will get the deleted file back now.
 
@@ -150,10 +132,7 @@ Step 3: Double-check the version and click Restore again, you will get the delet
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/10/soft1.png?resize=960%2C600&ssl=1 "soft1")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For those still having trouble restoring deleted files, try iFinD Ddata Recovery, which has Mac and Windows versions. For the best chance of recovering a deleted file from Windows 11 or 10, it’s best to use a professional recovery tool. Having used it, you’ll know what I mean. Due to its recovery ability, speed, and success rate, it stands out among so many file recovery tools on the web.
@@ -168,22 +147,23 @@ For those still having trouble restoring deleted files, try iFinD Ddata Recovery
 
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step One: Quick scan or deep scan**
 
 The file recovery software provides 2 options for the scan. One is the Quick Mode and another is the Deep Mode.
 
 ![scan lost partition](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/Lost2-1.png?resize=960%2C600&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step Two: Choose deleted files from the final scan list**
 
 After some time, the scan result will be displayed in a new Window. You can now find and check the wanted files from the result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step Three(This is recommended to do.): Preview before recovering**
 
@@ -211,6 +191,10 @@ TestDisk is a file recovery tool for Macs that is both free and open-source and 
 
 To prevent files from being permanently deleted from Windows and Mac, you need to gain a deeper understanding of data security. Keep your files backed up regularly, protect sensitive data with encryption, update your most used software, use an antivirus and anti-malware program, and enhance your hardware security, to name a few.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5: Very Useful FAQ about File Recovery**
 
 Q1: Where do deleted files go to Windows 10?
@@ -236,15 +220,16 @@ Yes, sure. You can use iFinD Data Recovery or iFinD Photo Recovery to [recover y
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -274,13 +259,6 @@ In "InfoGraphics"
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/01/How_to_Recover_Recycle_Bin_Deleted_Files.png?fit=1000%2C600&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/how-to-recover-recycle-bin-deleted-files-on-windows-11-10-in-5-useful-ways/ "How to Recover Recycle Bin Deleted Files on Windows 11/10 in 5 Useful Ways?")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### [How to Recover Recycle Bin Deleted Files on Windows 11/10 in 5 Useful Ways?](https://www.ifind-recovery.com/how-to/how-to-recover-recycle-bin-deleted-files-on-windows-11-10-in-5-useful-ways/ "How to Recover Recycle Bin Deleted Files on Windows 11/10 in 5 Useful Ways?")
 
 January 24, 2024
@@ -304,24 +282,16 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-tips-for-adding-visual-impact-in-google-meet/"><u>[New] 2024 Approved Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bend-reality-in-adobe-a-comprehensive-guide-to-ph-warping/"><u>[Updated] Bend Reality in Adobe A Comprehensive Guide to PH Warping</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-storyboarding-through-instagram-slides/"><u>2024 Approved Storyboarding Through Instagram Slides</u></a></li>
-<li><a href="https://win-special.techidaily.com/2outlook-pst/"><u>2個成功複製Outlook PST文件的高效技巧</u></a></li>
-<li><a href="https://network-issues.techidaily.com/breached-barrier-display-controls-unlocked/"><u>Breached Barrier: Display Controls Unlocked</u></a></li>
-<li><a href="https://win-special.techidaily.com/choosing-the-right-windows-version-for-you-an-in-depth-look-at-windows-7-vs-10-vs-11/"><u>Choosing the Right Windows Version for You: An In-Depth Look at Windows 7 vs 10 vs 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/comment-resoudre-le-blocage-de-rebooting-dans-windows-11-ou-windows-10/"><u>Comment Résoudre Le Blocage De Rebooting Dans Windows 11 Ou Windows 10?</u></a></li>
-<li><a href="https://win-special.techidaily.com/elevate-your-enterprise-with-strategic-collaboration-at-aomei-backup-solutions/"><u>Elevate Your Enterprise with Strategic Collaboration at AOMEI Backup Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-originality-is-chatgpt-prone-to-plagiarism/"><u>Exploring Originality: Is ChatGPT Prone to Plagiarism?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-your-free-dvd-decryption-tool-for-windows-7-x86-and-x64-systems-instantly/"><u>Get Your Free DVD Decryption Tool for Windows 7 X86 & X64 Systems Instantly!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-elgato-driver-downloads-for-streamers-and-gamers/"><u>Hassle-Free Elgato Driver Downloads for Streamers and Gamers</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-recover-data-from-an-accidentally-formatted-seagate-external-hdd/"><u>How to Recover Data From an Accidentally Formatted Seagate External HDD</u></a></li>
-<li><a href="https://win-special.techidaily.com/iphone-16/"><u>IPhone 16における「データ転送完了失敗の理由と解決策」</u></a></li>
-<li><a href="https://win-special.techidaily.com/las-mejores-practicas-para-respaldo-de-correos-electronicos-y-archivos-adjuntos-con-gmail-guia-completa/"><u>Las Mejores Prácticas Para Respaldo De Correos Electrónicos Y Archivos Adjuntos Con Gmail: Guía Completa</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/must-try-best-6-fb-lite-videos-for-download/"><u>Must-Try Best 6 FB Lite Videos for Download</u></a></li>
-<li><a href="https://win-special.techidaily.com/pasos-para-recuperar-informacion-de-un-iphone-despues-de-una-restauracion-completa/"><u>Pasos Para Recuperar Información De Un iPhone Después De Una Restauración Completa</u></a></li>
-<li><a href="https://win-special.techidaily.com/protecting-virtual-environments-a-comprehensive-tutorial-on-vm-security-through-encryption/"><u>Protecting Virtual Environments: A Comprehensive Tutorial on VM Security Through Encryption</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-browsing-experience-for-free-installing-and-using-the-proton-vpn-extension-as-explained-by-tech-gurus-at-zdnet/"><u>Secure Your Browsing Experience for Free: Installing and Using the Proton VPN Extension, as Explained by Tech Gurus at ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-success-with-an-ai-chatbot-navigate-through-the-top-7-decisive-factors-for-subscription/"><u>Unlocking Success with an AI Chatbot: Navigate Through The Top 7 Decisive Factors for Subscription</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-best-snap-ideas-of-the-year/"><u>[Updated] Unleash Creativity Best Snap Ideas of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-main-panel-of-windows-11-task-manager/"><u>Customizing Main Panel of Windows 11 Task Manager</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-facil-y-gratuita-para-rescatar-archivos-eliminados-de-tu-disco-duro/"><u>Guía Fácil Y Gratuita Para Rescatar Archivos Eliminados De Tu Disco Duro</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-paso-a-paso-para-hacer-respaldo-de-la-configuracion-de-windows-vhd-en-versiones-11-8-y-7/"><u>Guía Paso a Paso Para Hacer Respaldo De La Configuración De Windows (VHD) en Versiones 11, 8 Y 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-maximize-your-fcpx-experience-10-free-plugins-to-try/"><u>New In 2024, Maximize Your FCPX Experience 10 Free Plugins to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-streamline-your-windows-netconnection-access/"><u>Step-By Step to Streamline Your Windows NetConnection Access</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-12-utahanuti-pokryvek-pro-chromium-podkladovy-filmova-nahravka/"><u>Top 12 Utahanutí Pokrývek Pro Chromium-Podkladový Filmová Nahrávka</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-6-it-alternativen-zu-itunes-fur-mac-und-pc-entdecken-sie-ihre-neuen-lieblings-musikplayer/"><u>Top 6 IT-Alternativen Zu iTunes Für Mac Und PC - Entdecken Sie Ihre Neuen Lieblings-Musikplayer!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-stability-no-more-black-desert-online-pc-game-crashes/"><u>Ultimate Fix for Stability: No More Black Desert Online PC Game Crashes</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-tutorial-on-system-image-recovery-in-windows-via-wbadmin-utility/"><u>Ultimate Tutorial on System Image Recovery in Windows via Wbadmin Utility</u></a></li>
 </ul></div>
 
