@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-11-22T16:13:44.002Z
-updated: 2024-11-26T17:00:05.877Z
+date: 2024-11-29T06:25:46.304Z
+updated: 2024-12-06T00:35:50.936Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,10 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Goodbye TCP
 
 Before we get to further details, a few words about UDP (User Datagram Protocol), a new technology that Google has been working on. This TCP replacement is designed to make transmissions much smoother and faster by removing many of the unnecessary functions that TCP performs.
@@ -71,10 +75,6 @@ Reliable as it may be, the thing that makes TCP slow is that it lets servers che
 This reliability, however, makes this this less than an ideal solution when sending real-time data, where delays are unacceptable. Case in point, when chatting on [Skype](https://www.skype.com/en/).
 
 And this is exactly where UDP comes in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Out with the old, in with the new
 
@@ -100,11 +100,19 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -113,7 +121,7 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -121,10 +129,6 @@ As of right now, [Opera](https://www.opera.com/) is the only other browser that 
 Other browser and software makers will, undoubtedly, add support for this new standard in due time. Particularly those based on the Chromium source code, like the newer versions of [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). Other platforms like [Caddy](https://caddyserver.com/) web server and [Lite Speed](https://www.litespeedtech.com/) products have also integrated this new technology.
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -137,10 +141,6 @@ And while it changes how users and devices access the Internet a lot, HTTP/3 is 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
@@ -148,7 +148,7 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -176,18 +176,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-mac-capturing-apps-beyond-the-traditional-bandicam/"><u>[New] In 2024, Essential Mac Capturing Apps Beyond the Traditional Bandicam</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>[Updated] Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-designing-engaging-instagram-feature-film-posts/"><u>2024 Approved Designing Engaging Instagram Feature Film Posts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-fusing-art-and-technology-crafting-captivating-animation-videos-in-windows-movie-maker/"><u>2024 Approved Fusing Art & Technology Crafting Captivating Animation Videos in Windows Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-savings-atandts-finest-deals-in-may-2er-2024-spotlight/"><u>Discover the Most Savings: AT&T's Finest Deals in May 2Er 2024 | Spotlight</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-compatible-bluetooth-adapter-drivers-for-windows-11-7-and-8/"><u>Free Download: Compatible Bluetooth Adapter Drivers for Windows 11, 7 & 8</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-headset-use-on-xbox-series-xs/"><u>Maximizing Headset Use on Xbox Series X/S</u></a></li>
-<li><a href="https://win-special.techidaily.com/migrate-your-windows-10-system-from-hdd-to-ssd-without-os-reinstallation/"><u>Migrate Your Windows 10 System From HDD to SSD without OS Reinstallation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/nighttime-adventure-cams-faceoff-black-vs-sj7/"><u>Nighttime Adventure Cams Faceoff Black vs SJ7</u></a></li>
-<li><a href="https://win-special.techidaily.com/swapping-data-across-two-iphones-with-separate-apple-ids/"><u>Swapping Data Across Two iPhones with Separate Apple IDs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721437615697-the-evolution-of-internet-search-ai-enhanced-bing/"><u>The Evolution of Internet Search: AI-Enhanced Bing.</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-tips-for-restoring-onedrive-synchronization-in-windows-operating-systems-windows-1011/"><u>Troubleshooting Tips for Restoring OneDrive Synchronization in Windows Operating Systems (Windows 10/11)</u></a></li>
-<li><a href="https://win-special.techidaily.com/tutorial-passo-passo-crea-tu-stessa-una-grafica-di-monitoraggio-computing/"><u>Tutorial Passo-Passo: Crea Tu Stessa Una Grafica Di Monitoraggio Computing!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-effortlessly-amend-your-profile-age-on-tiktok-for-2024/"><u>[New] Effortlessly Amend Your Profile Age on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[New] In 2024, Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://win-special.techidaily.com/boost-your-pcs-efficiency-with-our-guide-to-free-up-ram-and-improve-memory-management-insights-from-yl-computing-solutions/"><u>Boost Your PC's Efficiency with Our Guide to Free Up RAM and Improve Memory Management – Insights From YL Computing Solutions</u></a></li>
+<li><a href="https://win-special.techidaily.com/expert-advice-on-resolving-usb-connection-issues-with-step-by-step-solutions-by-yl-software/"><u>Expert Advice on Resolving USB Connection Issues with Step-by-Step Solutions by YL Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-can-you-restore-the-vibrancy-of-your-discolored-prints-expert-advice-from-yl-computing/"><u>How Can You Restore the Vibrancy of Your Discolored Prints? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-rainbow-six-siege-running-smoothly-after-fixing-launch-issues/"><u>How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/is-tweaking-windows-registry-safe-uncover-potential-pitfalls-with-expert-advice-by-yl-software/"><u>Is Tweaking Windows Registry Safe? Uncover Potential Pitfalls with Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/recognizing-early-indicators-of-memory-loss-insights-from-yl-computing/"><u>Recognizing Early Indicators of Memory Loss: Insights From YL Computing</u></a></li>
+<li><a href="https://win-special.techidaily.com/setting-clock-preferences-in-windows-control-panel-explained-by-yl-computing-experts/"><u>Setting Clock Preferences in Windows Control Panel Explained by YL Computing Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210933002--the-etheric/"><u>The Etheric | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews - In-Depth Analysis & Guides</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-gt-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme GT 3 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-teracopy-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Teracopy Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/yl-softwares-guide-to-boosting-laptop-performance-for-faster-smoother-operation/"><u>YL Software's Guide to Boosting Laptop Performance for Faster, Smoother Operation</u></a></li>
 </ul></div>
 
