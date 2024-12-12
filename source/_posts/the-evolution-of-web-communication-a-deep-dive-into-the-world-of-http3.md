@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-11-29T06:25:46.304Z
-updated: 2024-12-06T00:35:50.936Z
+date: 2024-12-05T03:25:03.825Z
+updated: 2024-12-11T18:33:51.263Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,13 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Goodbye TCP
 
@@ -92,6 +92,10 @@ As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googl
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will HTTP/3 be used?
 
 Soon. The transition has already begun, and slowly but surely the entire web will transition to this new standard. It was only in November 2018 that a [proposal](https://mailarchive.ietf.org/arch/msg/quic/RLRs4nB1lwFCZ%5F7k0iuz0ZBa35s) for HTTP-over-QUIC be called HTTP/3 was accepted by the [IEFT](https://www.ietf.org/), the Internet Engineering Task Force.
@@ -100,10 +104,6 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
@@ -111,7 +111,7 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
@@ -121,7 +121,7 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -141,15 +141,15 @@ And while it changes how users and devices access the Internet a lot, HTTP/3 is 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -176,21 +176,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-effortlessly-amend-your-profile-age-on-tiktok-for-2024/"><u>[New] Effortlessly Amend Your Profile Age on TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[New] In 2024, Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
-<li><a href="https://win-special.techidaily.com/boost-your-pcs-efficiency-with-our-guide-to-free-up-ram-and-improve-memory-management-insights-from-yl-computing-solutions/"><u>Boost Your PC's Efficiency with Our Guide to Free Up RAM and Improve Memory Management – Insights From YL Computing Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/expert-advice-on-resolving-usb-connection-issues-with-step-by-step-solutions-by-yl-software/"><u>Expert Advice on Resolving USB Connection Issues with Step-by-Step Solutions by YL Software</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-can-you-restore-the-vibrancy-of-your-discolored-prints-expert-advice-from-yl-computing/"><u>How Can You Restore the Vibrancy of Your Discolored Prints? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-get-rainbow-six-siege-running-smoothly-after-fixing-launch-issues/"><u>How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/is-tweaking-windows-registry-safe-uncover-potential-pitfalls-with-expert-advice-by-yl-software/"><u>Is Tweaking Windows Registry Safe? Uncover Potential Pitfalls with Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-special.techidaily.com/recognizing-early-indicators-of-memory-loss-insights-from-yl-computing/"><u>Recognizing Early Indicators of Memory Loss: Insights From YL Computing</u></a></li>
-<li><a href="https://win-special.techidaily.com/setting-clock-preferences-in-windows-control-panel-explained-by-yl-computing-experts/"><u>Setting Clock Preferences in Windows Control Panel Explained by YL Computing Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210933002--the-etheric/"><u>The Etheric | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews - In-Depth Analysis & Guides</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-gt-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme GT 3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshooting-teracopy-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Teracopy Issues on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/yl-softwares-guide-to-boosting-laptop-performance-for-faster-smoother-operation/"><u>YL Software's Guide to Boosting Laptop Performance for Faster, Smoother Operation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069453200-updated-2024-approved-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platf/"><u>[Updated] 2024 Approved Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-strategic-planning-of-podcast-drop-times/"><u>2024 Approved Strategic Planning of Podcast Drop Times</u></a></li>
+<li><a href="https://win-special.techidaily.com/audio-issues-resolution-a-step-by-step-guide-from-yl-computing/"><u>Audio Issues Resolution: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/capture-kids-world-in-pairs-of-cameras/"><u>Capture Kids’ World in Pairs of Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-window-file-tracking-on-windows/"><u>Effortless Window File Tracking on Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/high-quality-wwe-team-bad-desktop-graphics-and-hd-wallpaper-collection-by-yl-computing/"><u>High-Quality WWE Team B.A.D Desktop Graphics & HD Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-delay-restore-logilda-dll/"><u>No Delay: Restore LogiLDA DLL</u></a></li>
+<li><a href="https://win-special.techidaily.com/overcoming-print-pairing-problems-ensuring-your-printer-connects-seamlessly-to-your-computer-tips-by-yl-software-experts/"><u>Overcoming Print Pairing Problems: Ensuring Your Printer Connects Seamlessly to Your Computer - Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-touchscreen-issues-on-your-tablet-discover-our-8-essential-tips/"><u>Overcoming Touchscreen Issues on Your Tablet: Discover Our 8 Essential Tips</u></a></li>
+<li><a href="https://win-special.techidaily.com/protecting-against-cybersecurity-risks-preventative-measures-for-malware-defense-with-yl-software-solutions/"><u>Protecting Against Cybersecurity Risks: Preventative Measures for Malware Defense with YL Software Solutions</u></a></li>
+<li><a href="https://win-special.techidaily.com/solving-scanner-problems-understanding-why-your-scan-tool-wont-recognize-documents-insights-by-yl-software/"><u>Solving Scanner Problems: Understanding Why Your Scan Tool Won't Recognize Documents – Insights by YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-the-wildest-iphone-issue-yet-how-apple-can-improve-user-experience/"><u>Tackling the Wildest iPhone Issue Yet: How Apple Can Improve User Experience</u></a></li>
+<li><a href="https://win-special.techidaily.com/tracking-the-collective-funds-managing-and-monitoring-several-bch-wallet-balances-with-yl-software/"><u>Tracking the Collective Funds: Managing & Monitoring Several BCH Wallet Balances with YL Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/understanding-distinctive-features-a-comparative-analysis-of-various-cryptocurrencies-insights-by-yl-computing/"><u>Understanding Distinctive Features: A Comparative Analysis of Various Cryptocurrencies - Insights by YL Computing</u></a></li>
+<li><a href="https://win-special.techidaily.com/understanding-potential-dangers-a-comprehensive-guide-to-crypto-trading-hazards-by-yl-computing/"><u>Understanding Potential Dangers: A Comprehensive Guide to Crypto Trading Hazards - By YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unfreezing-frozen-obs-stream-input-for-2024/"><u>Unfreezing Frozen OBS Stream Input for 2024</u></a></li>
 </ul></div>
 
