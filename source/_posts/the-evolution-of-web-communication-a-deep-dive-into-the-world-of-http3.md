@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-12-24T06:32:38.266Z
-updated: 2024-12-27T04:18:07.735Z
+date: 2024-12-31T16:55:50.960Z
+updated: 2025-01-05T18:03:45.232Z
 tags:
   - product
   - antivirus
@@ -40,10 +40,6 @@ Let’s take an acronyms and abbreviations filled look at HTTP/3, and how it aim
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is HTTP/3?
 
 HTTP, as you are aware, is the system web browsers use to fetch data from web servers. It is the technology that is used to load web pages and other files and information from the Internet. And this third and latest version of HTTP is designed to offer a faster experience when browsing the web.
@@ -53,6 +49,10 @@ The reason for this is the use of a couple of new technologies that have recentl
 Basically, Google is leading the charge here with [QUIC](https://www.chromium.org/quic), its Quick UDP Internet Connections system that it publicly [unveiled](https://blog.chromium.org/2013/06/experimenting-with-quic.html) in 2013, and officially suggested three years later as a successor to HTTP/2\. It employs several impressive techniques to make webpages load faster, and even ditched TCP, another mainstay of networking since olden days.
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
@@ -76,10 +76,6 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -91,6 +87,10 @@ All these numbers sound fast, but in computing and networking terms, these are l
 In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
@@ -111,7 +111,7 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
@@ -126,30 +126,30 @@ Other browser and software makers will, undoubtedly, add support for this new st
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from traditional HTTP. Designed to work around the limitations of that protocol, HTTP/3 will serve as a combination of SSL and TCP to cut down on initial connection times and speed up the modern web.
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -176,14 +176,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-vids-summary-uncovered-for-2024/"><u>[Updated] Essential Vids Summary Uncovered for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>2024 Approved Premium Screens at Their Peak Top #10 Listings for 4K Monitors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-stellar-youtube-thumbnails-with-these-8-software-alternatives/"><u>Craft Stellar YouTube Thumbnails with These 8 Software Alternatives</u></a></li>
-<li><a href="https://win-special.techidaily.com/does-deleting-a-steam-installation-impact-the-preservation-of-your-in-game-photos/"><u>Does Deleting a Steam Installation Impact the Preservation of Your In-Game Photos?</u></a></li>
-<li><a href="https://win-special.techidaily.com/retrieve-accidentally-deleted-memos-on-iphone-11-with-these-easy-tricks/"><u>Retrieve Accidentally Deleted Memos on iPhone 11 with These Easy Tricks</u></a></li>
-<li><a href="https://win-special.techidaily.com/reversing-a-disk-cleanup-in-windows-11-a-comprehensive-step-by-step-guide/"><u>Reversing a Disk Cleanup in Windows 11 - A Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/snag-the-best-deal-on-mini-snapdragon-x-elite-computing-power-available-now-for-preorder/"><u>Snag the Best Deal on Mini Snapdragon X Elite Computing Power - Available Now for Preorder</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-francophiles-checklist-top-103plus-travel-phrases-for-france/"><u>The Francophile's Checklist: Top 103+ Travel Phrases for France</u></a></li>
-<li><a href="https://win-special.techidaily.com/wiederherstellen-von-geloschten-downloads-im-chrome-browser-myrecovery-tipps/"><u>Wiederherstellen Von Gelöschten Downloads Im Chrome-Browser - MyRecovery Tipps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] Cost-Free Match Mastery How to Stream and Slice</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-upload-videos-to-igtv/"><u>[Updated] 2024 Approved How to Upload Videos to IGTV?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://win-special.techidaily.com/affordable-alternatives-to-syncthing-how-to-securely-transfer-files-across-your-computers-for-free/"><u>Affordable Alternatives to Syncthing: How to Securely Transfer Files Across Your Computers for Free</u></a></li>
+<li><a href="https://win-special.techidaily.com/complete-solution-manual-for-fixing-windows-update-error-0x80244022/"><u>Complete Solution Manual for Fixing Windows Update Error 0X80244022</u></a></li>
+<li><a href="https://win-special.techidaily.com/ejemplo-de-instrucciones-detalladas-sobre-como-realizar-el-respaldo-de-un-volumenparticion/"><u>Ejemplo De Instrucciones Detalladas Sobre Cómo Realizar El Respaldo De Un Volumen/Partición</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-boot-from-an-external-hard-drive-on-windows-11-a-step-by-step-guide/"><u>How to Boot From an External Hard Drive on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-z-fold-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy Z Fold 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-official-method-to-unlock-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Max Official Method to Unlock Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/loudness-in-the-void-breaking-soundless-twitter-vids-for-2024/"><u>Loudness in the Void Breaking Soundless Twitter Vids for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpeg-to-swf-transformation-download-our-no-cost-online-service-by-movavi/"><u>MPEG to SWF Transformation: Download Our No-Cost Online Service by Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/resolve-win11-error-code-c0000098-fast-expert-troubleshooting-guide/"><u>Resolve Win11 Error Code C0000098 Fast - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 screen lock without password</u></a></li>
 </ul></div>
 
