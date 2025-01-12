@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-12-31T16:55:50.960Z
-updated: 2025-01-05T18:03:45.232Z
+date: 2025-01-08T21:40:17.323Z
+updated: 2025-01-11T22:21:26.930Z
 tags:
   - product
   - antivirus
@@ -51,7 +51,7 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
@@ -89,7 +89,7 @@ In contrast, QUIC can perform both these actions simultaneously.
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
@@ -110,15 +110,15 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
@@ -133,7 +133,7 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 thought on “What is HTTP/3”
@@ -148,7 +148,7 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -176,20 +176,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-upload-videos-to-igtv/"><u>[Updated] 2024 Approved How to Upload Videos to IGTV?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
-<li><a href="https://win-special.techidaily.com/affordable-alternatives-to-syncthing-how-to-securely-transfer-files-across-your-computers-for-free/"><u>Affordable Alternatives to Syncthing: How to Securely Transfer Files Across Your Computers for Free</u></a></li>
-<li><a href="https://win-special.techidaily.com/complete-solution-manual-for-fixing-windows-update-error-0x80244022/"><u>Complete Solution Manual for Fixing Windows Update Error 0X80244022</u></a></li>
-<li><a href="https://win-special.techidaily.com/ejemplo-de-instrucciones-detalladas-sobre-como-realizar-el-respaldo-de-un-volumenparticion/"><u>Ejemplo De Instrucciones Detalladas Sobre Cómo Realizar El Respaldo De Un Volumen/Partición</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-boot-from-an-external-hard-drive-on-windows-11-a-step-by-step-guide/"><u>How to Boot From an External Hard Drive on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-z-fold-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy Z Fold 5 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-official-method-to-unlock-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Max Official Method to Unlock Your Apple iPhone XS Max</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/loudness-in-the-void-breaking-soundless-twitter-vids-for-2024/"><u>Loudness in the Void Breaking Soundless Twitter Vids for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mpeg-to-swf-transformation-download-our-no-cost-online-service-by-movavi/"><u>MPEG to SWF Transformation: Download Our No-Cost Online Service by Movavi</u></a></li>
-<li><a href="https://win-special.techidaily.com/resolve-win11-error-code-c0000098-fast-expert-troubleshooting-guide/"><u>Resolve Win11 Error Code C0000098 Fast - Expert Troubleshooting Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-13-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 screen lock without password</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>[New] In 2024, Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>[Updated] 2024 Approved Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-top-fifa-matches-visualized-data-highlights-for-2024/"><u>[Updated] Top FIFA Matches Visualized Data Highlights for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-case-reviewed-a-compact-alternative-to-apple-originals-zdnet-insights/"><u>Apple Vision Pro Case Reviewed: A Compact Alternative to Apple Originals | ZDNet Insights</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/compatibility-guide-which-windows-os-is-covered-by-windows-defenders-antivirus-features/"><u>Compatibility Guide: Which Windows OS Is Covered by Windows Defender's Antivirus Features?</u></a></li>
+<li><a href="https://win-special.techidaily.com/copia-de-seguridad-perfecta-como-duplicar-tus-documentos-sin-cerrar-la-ventana-de-windows-instrucciones-detalladas/"><u>Copia De Seguridad Perfecta: Cómo Duplicar Tus Documentos Sin Cerrar La Ventana De Windows – Instrucciones Detalladas</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pour-installer-et-utiliser-lenvironnement-de-recuperation-aomei-backupper-creation-facile/"><u>Guide Pour Installer Et Utiliser L'Environnement De Récupération AOMEI Backupper - Création Facile!</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pratique-et-gratuit-pour-recuperer-les-contacts-supprimes-en-format-vcf-a-partir-de-votre-carte-sd/"><u>Guide Pratique Et Gratuit Pour Récupérer Les Contacts Supprimés en Format VCF À Partir De Votre Carte SD</u></a></li>
+<li><a href="https://win-special.techidaily.com/missing-pages-alert-error-code-404/"><u>Missing Pages Alert – Error Code ❌404</u></a></li>
+<li><a href="https://win-special.techidaily.com/non-coding-rnas-play-significant-roles-in-regulating-gene-expression-and-maintaining-genomic-stability/"><u>Non-Coding RNAs Play Significant Roles in Regulating Gene Expression and Maintaining Genomic Stability.</u></a></li>
+<li><a href="https://win-special.techidaily.com/resolving-the-issue-of-boot-failure-on-windows-10-with-a-clonezilla-duplicate-disk/"><u>Resolving the Issue of Boot Failure on Windows 10 with a Clonezilla Duplicate Disk</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-shopping-for-gamers-understanding-5-important-elements-before-consolette-purchase/"><u>Smart Shopping for Gamers: Understanding 5 Important Elements Before Consolette Purchase</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-interruptions-solve-your-pcs-unintended-sleep-problems-now/"><u>Stop the Interruptions: Solve Your PC's Unintended Sleep Problems Now!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-when-your-keyboard-and-mouse-fail-to-respond-with-solutions-from-yl-computing/"><u>Troubleshooting: When Your Keyboard and Mouse Fail to Respond with Solutions From YL Computing</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728503068303-usb/"><u>USB 闪存驱动器深度清理技巧 | 三种最高效的安全清洗方式</u></a></li>
 </ul></div>
 

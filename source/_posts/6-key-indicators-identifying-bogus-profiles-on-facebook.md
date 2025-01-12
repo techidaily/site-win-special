@@ -1,7 +1,7 @@
 ---
 title: "6 Key Indicators: Identifying Bogus Profiles on Facebook"
-date: 2025-01-02T18:16:51.061Z
-updated: 2025-01-05T17:33:03.124Z
+date: 2025-01-08T20:16:59.371Z
+updated: 2025-01-12T03:49:00.893Z
 tags:
   - product
   - antivirus
@@ -50,6 +50,10 @@ The first thing you see in a profile on Facebook is their profile picture. You c
 
 ![Check Profile Picture](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-Profile-Picture.jpg "Check Profile Picture")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Single Profile Picture**
 
 An active user on Facebook regularly changes his/her profile picture. If you see only one profile picture and the profile is new or 2-3 years old, it should raise a concern.
@@ -57,7 +61,7 @@ An active user on Facebook regularly changes his/her profile picture. If you see
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Profile Pictures of Celebrities**
@@ -66,19 +70,11 @@ Its okay if someone is a fan of a celebrity, but he will not put all profile pic
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **No Profile Picture**
 
 The Facebook name is enough to compel someone to put a picture on the profile. If it is not there, it is alarming enough.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **A Perfect Profile Picture**
 
@@ -101,11 +97,7 @@ Click on **Upload an image** and then click on **Choose file**, select the profi
 ![Search on Google Image 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-2.jpg "Search on Google Image 2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Read the About Section
@@ -139,20 +131,20 @@ Now it comes to reading the Timeline. If a user is posting too many links of one
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline2.jpg "Read the Timeline")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Users on Facebook shares different things like jokes, music, video, or pictures. They also share their activity like traveling, reading, and listening. If you don’t see such different types of posts, then it could also be a sign of a fake account. Just scroll the timeline to grasp what users are sharing and compare it with what they were sharing earlier. Shifting of content on the timeline indicates the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check the Lack of Interactions on the Posts
 
 Now check the profile carefully, click on the pictures and check the likes and comments. When you see so many likes, and generic comments on pictures of girls’ accounts like beautiful, cute, sweet, and the account holder hasn’t replied to anyone then it is a sign of a fake profile. A genuine person at least thanks when someone comments on his or her picture.
 
 ![Lack of Interaction 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction-2.jpg "Lack of Interaction 2")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Another sign is when you see lots of friends in the friend list, and very few of them like and comment on the posts then it also rings a bell. Click on the More button to see more activity like Check-ins, Music, Films, TV-Programme, etc.
 
@@ -161,6 +153,10 @@ Another sign is when you see lots of friends in the friend list, and very few of
 If you see no such activity, then the profile is not genuine.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,10 +171,6 @@ This is serious as fake fb pages are used to breach false DV .Can put innocent i
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/caf62a92018556227984fb24f4803b8c?s=50&d=mm&r=g)  
    KolbyTotten  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    [March 5, 2022 at 2:52 am](https://tools.techidaily.com/malwarefox/products/)  
    hi  
@@ -224,6 +216,10 @@ I run a Facebook group and I have noticed people applying with an Anglo-American
 5. ![](https://secure.gravatar.com/avatar/d39c6364e08d0d3791b6bcab44904680?s=50&d=mm&r=g)  
 Austin  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [August 23, 2020 at 5:45 am](https://tools.techidaily.com/malwarefox/products/)  
 Hi my name is Austin I’ve checked fb market place and this guy is selling a truck I checked his profile no post , nothing but a pic of a fire pole and says fire department he has 6 friends all girls they haven’t updated or posted since a few years ago , he has no places of work , lived , nothing else leaves me to question  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -242,19 +238,11 @@ I found all this credible up till the conclusion. The grammar flubs in that sect
    * ![](https://secure.gravatar.com/avatar/22c4825b1e12d79b9259832a80171c5a?s=50&d=mm&r=g)  
    Lizzie Zucker Saltz  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    [March 29, 2021 at 9:02 pm](https://tools.techidaily.com/malwarefox/products/)  
    Agree  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/035a8658bd8b3789b8fa0de59bb1669f?s=50&d=mm&r=g)  
    Lyn Allan  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    [September 22, 2022 at 3:06 pm](https://tools.techidaily.com/malwarefox/products/)  
    I noticed it too. I wonder why. I need advice but now not sure!  
@@ -273,6 +261,10 @@ Wow
 9. ![](https://secure.gravatar.com/avatar/8eedcf8385a6b1bf53274b15233600cc?s=50&d=mm&r=g)  
 Xoliiey swaa  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [March 4, 2021 at 4:26 am](https://tools.techidaily.com/malwarefox/products/)  
 Love yourself before you love others  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -284,6 +276,11 @@ I notice almost all fake fb accounts are people from W. Africa. They always use 
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/fa427f27a62cdc6625506bc38139fad3?s=50&d=mm&r=g)  
    Roger k  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [May 1, 2024 at 2:20 am](https://tools.techidaily.com/malwarefox/products/)  
    Yes, the poor spelling and the grammar was totally off do not understand certain phrases. They Don’t ask the right questions giving you bad answers That’s how you can tell and the responses sometimes too illiterate to fit the picture of a pretty American white woman.. Then the magic question “money”  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -326,6 +323,11 @@ Thank u
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 16. ![](https://secure.gravatar.com/avatar/1d2835f3144fa289049fa85a53c5d814?s=50&d=mm&r=g)  
 BRIAN K NEMETH  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [June 29, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 On facebook messenger, I used a video call to talk to a live person. That’s how I know it’s a real person. If not, I just plain block the whole account  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -361,19 +363,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-ace-circular-designs-and-spherical-structures-in-mc/"><u>[New] Ace Circular Designs & Spherical Structures in MC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-beam-wise-video-setups-expert-strategies-to-shine-for-2024/"><u>[New] Beam-Wise Video Setups Expert Strategies to Shine for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nraveling-youtubes-monetization-policy-overhaul-for-2024/"><u>[New] Unraveling YouTube’s Monetization Policy Overhaul for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>2024 Approved Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
-<li><a href="https://win-special.techidaily.com/pc-onedrive/"><u>複数PCへのデータ保険: OneDriveバックアップ完全手引き</u></a></li>
-<li><a href="https://win-special.techidaily.com/cctv/"><u>監視映像修復法：CCTVで失われた記録を再び取り戻す方法</u></a></li>
-<li><a href="https://win-special.techidaily.com/conversion-sd-a-hdd-methodes-de-transfert-intra-et-extra-carte/"><u>Conversion SD À HDD : Méthodes De Transfert Intra-Et Extra-Carte</u></a></li>
-<li><a href="https://win-special.techidaily.com/guia-paso-a-paso-como-clonar-un-ssd-mas-pequeno-a-uno-mayor-con-freeware-en-sistemas-operativos-windows/"><u>Guía Paso a Paso: Cómo Clonar Un SSD Más Pequeño a Uno Mayor Con Freeware en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-finger-sets-taking-vr-to-new-heights/"><u>In 2024, Innovative Finger Sets Taking VR to New Heights</u></a></li>
-<li><a href="https://win-special.techidaily.com/resolved-clonezilla-error-indicates-target-disk-is-too-small/"><u>Resolved: Clonezilla Error Indicates Target Disk Is Too Small</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solving-playstation-controller-driver-problems-for-windows-users-w10-w8-and-w7-edition/"><u>Solving PlayStation Controller Driver Problems for Windows Users: W10, W8, and W7 Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2213963-9780008138189-the-pig-in-2016-your-chinese-horoscope/"><u>The Pig in 2016: Your Chinese Horoscope | Free Book</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-2-methods-for-retrieving-lost-files-from-a-samsung-solid-state-drive/"><u>Top 2 Methods for Retrieving Lost Files From a Samsung Solid State Drive</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578943937-unleash-the-power-of-croatian-language-with-these-top-7-benefits/"><u>Unleash the Power of Croatian Language with These Top 7 Benefits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-master-thumbnail-design-for-mac-users-youtube-edition/"><u>[New] Master Thumbnail Design for Mac Users - YouTube Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-not-responding-fixes-and-solutions-revealed/"><u>Cyberpunk 2077 Not Responding? Fixes and Solutions Revealed</u></a></li>
+<li><a href="https://win-studio.techidaily.com/descubre-como-activar-facilmente-la-sincronizacion-automatica-de-archivos-en-tus-sistemas-windows-windows-11-8-and-7-dos-tecnicas-utiles-y-faciles-de-seguir237/"><u>Descubre Cómo Activar Fácilmente La Sincronización Automática De Archivos en Tus Sistemas Windows (Windows 11, 8 & 7): Dos Técnicas Útiles Y Fáciles De Seguir</u></a></li>
+<li><a href="https://win-special.techidaily.com/descubre-la-forma-sencilla-de-configurar-copias-de-seguridad-programadas-para-tu-equipo-y-datos-importantes-en-espanol/"><u>Descubre La Forma Sencilla De Configurar Copias De Seguridad Programadas Para Tu Equipo Y Datos Importantes en Español</u></a></li>
+<li><a href="https://win-special.techidaily.com/einfache-methode-zum-updates-von-festplatten-in-windows-11-keine-neuinstallation-notwendig/"><u>Einfache Methode Zum Updates Von Festplatten in Windows 11 – Keine Neuinstallation Notwendig</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-low-cost-footage-source-directory/"><u>In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210800704-9781959682547-outrageous-fortune/"><u>Outrageous Fortune | Free Book</u></a></li>
+<li><a href="https://win-special.techidaily.com/recuperacion-de-perifericos-borrados-tres-tecnicas-practicas-en-sistemas-windows-10/"><u>Recuperación De Periféricos Borrados: Tres Técnicas Prácticas en Sistemas Windows 10</u></a></li>
+<li><a href="https://ai-video.techidaily.com/top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-avoid-data-loss-essential-tips-for-saving-your-final-cut-pro-project/"><u>Updated 2024 Approved Avoid Data Loss Essential Tips for Saving Your Final Cut Pro Project</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728479707765-windows-server/"><u>シンプルな手順でWindows Serverのデータ差分バックアップを作成する方法</u></a></li>
 </ul></div>
 
