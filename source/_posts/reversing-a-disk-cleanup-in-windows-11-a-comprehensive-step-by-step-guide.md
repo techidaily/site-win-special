@@ -1,7 +1,7 @@
 ---
 title: Reversing a Disk Cleanup in Windows 11 - A Comprehensive Step-by-Step Guide
-date: 2025-01-22T01:43:56.581Z
-updated: 2025-01-23T20:45:55.321Z
+date: 2025-02-26T22:13:16.856Z
+updated: 2025-03-03T19:01:26.584Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -53,10 +49,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -82,14 +74,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -101,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -157,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -168,10 +144,6 @@ Sicherer Download
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -243,15 +215,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,20 +232,20 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>[New] 2024 Approved 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-select-from-the-leading-7-android-apps-to-eradicate-ads/"><u>[New] 2024 Approved Select From the Leading 7 Android Apps to Eradicate Ads</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-trending-apps-battle-royale-wholl-win-over-users-likes-or-tiktok-in-2024/"><u>[New] Trending Apps Battle Royale Who'll Win Over Users, Likes or TikTok, In 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-no-cost-methods-to-retrieve-images-from-your-leica-device/"><u>1. No-Cost Methods to Retrieve Images From Your Leica Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030153363-3gpmovwav/"><u>3GP形式をMOV/WAVに簡単変換ガイド</u></a></li>
-<li><a href="https://win-special.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
-<li><a href="https://win-special.techidaily.com/combatting-the-i-forgot-my-apple-id-phishing-threat-safety-tips-by-malwarefox/"><u>Combatting the 'I Forgot My Apple ID' Phishing Threat – Safety Tips by MalwareFox</u></a></li>
-<li><a href="https://win-special.techidaily.com/dont-lose-hope-four-powerful-techniques-for-retrieving-deleted-items-on-your-windows-10-system/"><u>Don't Lose Hope: Four Powerful Techniques for Retrieving Deleted Items on Your Windows 10 System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-newest-epson-printing-drivers-on-windows-11-an-expert-download-approach/"><u>Getting Newest Epson Printing Drivers on Windows 11: An Expert Download Approach</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-comprehending-the-language-of-youtube-seo/"><u>In 2024, Comprehending the Language of YouTube SEO</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-friendly-software-to-recover-your-iphones-erased-content-photos-videos-and-phone-numbers-revisited/"><u>Mac-Friendly Software to Recover Your iPhone's Erased Content: Photos, Videos, and Phone Numbers Revisited</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-now-fixes-for-rogue-companys-previous-crash-issues-on-windows-and-macos/"><u>Smooth Sailing Now! Fixes for Rogue Company's Previous Crash Issues on Windows and MacOS</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-restoring-files-from-the-recycle-bin-in-windows-10-even-after-deletion/"><u>Step-by-Step Guide: Restoring Files From the Recycle Bin in Windows 10 Even After Deletion</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-solution-manual-for-fixing-windows-11s-error-code-0x800f0954/"><u>Step-by-Step Solution Manual for Fixing Windows 11'S Error Code 0X800F0954</u></a></li>
-<li><a href="https://win-special.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-out-youtubes-financial-strategy-for-nurturing-short-videos-for-2024/"><u>[New] Charting Out YouTube's Financial Strategy for Nurturing Short Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-eyevision-recorder-ultimate/"><u>[New] In 2024, EyeVision Recorder Ultimate</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exploring-updates-to-sonys-s6500-model/"><u>[Updated] In 2024, Exploring Updates to Sony's S6500 Model</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728497278824-hdd/"><u>「具備された自動同期機能を持つ優秀な外部HDD同期プログラム - 無料提供」</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-avoid-monetization-mishaps-essential-youtube-checks/"><u>In 2024, Avoid Monetization Mishaps Essential YouTube Checks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-gemini-the-future-of-ai-beyond-chatgpts-reach/"><u>Is Gemini the Future of AI Beyond ChatGPT's Reach?</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/streamlining-web-navigation-enhancing-your-internet-experience-with-profile-based-arcs-tips-from-zdnet/"><u>Streamlining Web Navigation: Enhancing Your Internet Experience with Profile-Based Arcs - Tips From ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-pitfalls-of-debloating-your-pc-and-effective-alternatives-zdnet-insights/"><u>The Pitfalls of Debloating Your PC & Effective Alternatives | ZDNet Insights</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-role-of-windows-in-shaping-tomorrows-hybrid-work-environments-insights-from-microsoft-zdnet/"><u>The Role of Windows in Shaping Tomorrow’s Hybrid Work Environments - Insights From Microsoft | ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-6-essential-windows-11-settings-tweaks-you-need-to-make-immediately-insights-from-zdnet/"><u>Top 6 Essential Windows 11 Settings Tweaks You Need To Make Immediately - Insights From ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/transforming-windows-11-from-frustrating-to-flawless-7-essential-hacks-by-zdnet/"><u>Transforming Windows 11 From Frustrating to Flawless: 7 Essential Hacks by ZDNet</u></a></li>
+<li><a href="https://win-special.techidaily.com/transitioning-from-windows-home-to-professional-a-step-by-step-guide-and-benefits/"><u>Transitioning From Windows Home to Professional: A Step-by-Step Guide & Benefits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-on-screen-keyboard-control-instructions-for-activationdeactivation/"><u>Windows 11 On-Screen Keyboard Control: Instructions for Activation/Deactivation</u></a></li>
+<li><a href="https://win-special.techidaily.com/your-guide-to-the-elusive-windows-10-lifeline-silent-announcement-from-microsoft-leaves-hope-dwindling/"><u>Your Guide to the Elusive Windows 10 Lifeline - Silent Announcement From Microsoft Leaves Hope Dwindling</u></a></li>
 </ul></div>
 

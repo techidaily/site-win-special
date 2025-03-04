@@ -1,7 +1,7 @@
 ---
 title: Réinitialiser Et Reconfigurer Vos Messages Emails Avec La Solution De Sauvegarde AOMEI Backupper
-date: 2025-02-06T00:11:13.853Z
-updated: 2025-02-13T00:49:31.050Z
+date: 2025-03-01T17:35:37.534Z
+updated: 2025-03-03T20:44:57.397Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd1d393f4b6d528ffbc9df6b1.jpg
@@ -43,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -68,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -108,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -145,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,20 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[Updated] Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-film-lovers-answers-repository/"><u>2024 Approved Film Lovers' Answers Repository</u></a></li>
-<li><a href="https://win-special.techidaily.com/boost-your-pcs-efficiency-with-our-guide-to-free-up-ram-and-improve-memory-management-insights-from-yl-computing-solutions/"><u>Boost Your PC's Efficiency with Our Guide to Free Up RAM and Improve Memory Management – Insights From YL Computing Solutions</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comprender-el-proceso-de-recuperacion-de-datos-para-iphone-tu-respuesta-esperada/"><u>Comprender El Proceso De Recuperación De Datos Para iPhone - Tu Respuesta Esperada</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-experience-top-servers-on-the-rise/"><u>Elevating Your Experience: Top Servers on the Rise</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-can-you-restore-the-vibrancy-of-your-discolored-prints-expert-advice-from-yl-computing/"><u>How Can You Restore the Vibrancy of Your Discolored Prints? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-stop-your-ipad-from-accessing-youtube-effective-tips-and-tricks/"><u>How To Stop Your iPad From Accessing YouTube: Effective Tips and Tricks</u></a></li>
-<li><a href="https://win-special.techidaily.com/identifying-signs-of-a-faulty-gpu-a-guide-by-yl-computings-tech-experts/"><u>Identifying Signs of a Faulty GPU: A Guide by YL Computing's Tech Experts</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-user-account-control-yl-softwares-top-strategies-for-efficient-administration/"><u>Mastering User Account Control: YL Software's Top Strategies for Efficient Administration</u></a></li>
-<li><a href="https://win-special.techidaily.com/recognizing-early-indicators-of-memory-loss-insights-from-yl-computing/"><u>Recognizing Early Indicators of Memory Loss: Insights From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-google-pixel-7a-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Google Pixel 7a Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-12-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://win-special.techidaily.com/setting-clock-preferences-in-windows-control-panel-explained-by-yl-computing-experts/"><u>Setting Clock Preferences in Windows Control Panel Explained by YL Computing Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resolving-win-no-connection-problems/"><u>Strategies for Resolving WIN No Connection Problems</u></a></li>
-<li><a href="https://win-special.techidaily.com/yl-softwares-guide-to-boosting-laptop-performance-for-faster-smoother-operation/"><u>YL Software's Guide to Boosting Laptop Performance for Faster, Smoother Operation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-hero-with-telegram-promotion-techniques/"><u>[New] From Zero to Hero with Telegram Promotion Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-instagram-perfect-integration-of-twitters-visual-content/"><u>[Updated] 2024 Approved Instagram-Perfect Integration of Twitter's Visual Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-craft-a-powerhouse-channel-with-studio-expertise-for-2024/"><u>[Updated] Craft a Powerhouse Channel with Studio Expertise for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-sound-to-sight-choosing-between-audio-and-video-media/"><u>[Updated] From Sound to Sight Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve/"><u>[Updated] Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve</u></a></li>
+<li><a href="https://win-special.techidaily.com/evaluating-your-systems-health-a-guide-to-inspecting-computer-hardware-tips-from-yl-computing/"><u>Evaluating Your System's Health: A Guide to Inspecting Computer Hardware - Tips From YL Computing</u></a></li>
+<li><a href="https://win-special.techidaily.com/experience-the-wild-with-gorilla-graphics-by-yl-software/"><u>Experience the Wild with Gorilla Graphics by YL Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-se-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone SE</u></a></li>
+<li><a href="https://win-special.techidaily.com/solving-the-mystery-of-blue-screen-of-death-errors-with-expert-advice-from-yl-computing/"><u>Solving the Mystery of 'Blue Screen of Death' Errors with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-keyboards-of-2024-a-comprehensive-guide-to-full-size-tkl-and-mini-options/"><u>Top Rated Gaming Keyboards of 2024: A Comprehensive Guide to Full-Size, TKL & Mini Options</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-rated-programs-for-boosting-pc-efficiency-insights-by-yl-software-experts/"><u>Top-Rated Programs for Boosting PC Efficiency: Insights by YL Software Experts</u></a></li>
 </ul></div>
 

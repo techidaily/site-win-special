@@ -1,7 +1,7 @@
 ---
 title: Comment Récupérer Un Fichier 'Windows.old' Supprimé De Manière Optimale ?
-date: 2025-02-11T23:18:54.947Z
-updated: 2025-02-12T16:59:42.716Z
+date: 2025-03-01T21:53:03.102Z
+updated: 2025-03-04T02:44:41.362Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d733ca5558e5f2d4e68026f7eb.jpg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -42,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -90,23 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -142,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -159,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -199,10 +167,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,17 +216,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-youtube-video-reverser-online/"><u>[New] Best YouTube Video Reverser Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-solutions-to-amplify-iphoneandroid-video-quality/"><u>[Updated] 2024 Approved Solutions to Amplify iPhone/Android Video Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-experience-beyond-reality-choosing-the-premier-10-headsets-for-360-video-on-pc/"><u>[Updated] Experience Beyond Reality Choosing the Premier 10 Headsets for 360 Video on PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-real-time-recording-rivalry-obs-versus-shadowreplay/"><u>2024 Approved Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-maharashtra-raat-performances-into-multiple-formats-mp4-mov-mp3/"><u>Step-by-Step Guide: Converting Maharashtra Raat Performances Into Multiple Formats (MP4, MOV, MP3)</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-downloading-video-content-from-sharptrades/"><u>Step-by-Step Guide: Downloading Video Content From SharpTrades</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-securely-capturing-streamed-sessions-on-vtc-services/"><u>Step-by-Step Guide: Securely Capturing Streamed Sessions on VTC Services</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-converting-online-vice-content-into-various-video-files-mp4-avi-flv-mov/"><u>Step-by-Step Tutorial: Converting Online Vice Content Into Various Video Files (MP4, AVI, FLV, MOV)</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-tutorial-saving-and-exporting-fxs-analysis-videos-in-various-formats-for-macwindows-users/"><u>Step-by-Step Tutorial: Saving and Exporting FXS Analysis Videos in Various Formats for Mac/Windows Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-path-to-expertise-announcing-1500-no-charge-lessons-a-day/"><u>The Path to Expertise: Announcing 1500 No-Charge Lessons a Day</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-audio-woes-zero-sound-output/"><u>Windows Audio Woes: Zero Sound Output</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expanding-digital-presence-stream-to-youtube-plus-additional-platforms/"><u>[New] 2024 Approved Expanding Digital Presence Stream to YouTube + Additional Platforms</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-loom-app-evaluation-an-in-depth-comparison-with-movavi/"><u>1. Loom App Evaluation: An In-Depth Comparison with Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726224945583-2024-8/"><u>2024년 상세한 무료 웹테이너 선보여주기: 8월에서 제공하는 가장 좋은 플랫폼 페어링</u></a></li>
+<li><a href="https://win-special.techidaily.com/m4vmovavi/"><u>網上免費音樂將M4V格式化：利用Movavi轉換器完成</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buys-unbeatable-deal-highly-rated-immersive-sound-systems-now-100-off-exclusive-insight-by-zdnet/"><u>Best Buy's Unbeatable Deal: Highly Rated Immersive Sound Systems Now $100 Off | Exclusive Insight by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-instagram-lags-with-these-easy-fixes-for-your-android-and-ios-device/"><u>Combat Instagram Lags with These Easy Fixes for Your Android and iOS Device</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-faire-concevoir-and-tutorial/"><u>Comment Faire, Concevoir, and Tutorial.</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-opus-tracks-to-mp3-files-free-of-charge-effortless-online-conversion-with-movavi/"><u>Convert Opus Tracks to MP3 Files Free of Charge - Effortless Online Conversion with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-future-of-verification-on-twit/"><u>Deciphering the Future of Verification on Twit</u></a></li>
+<li><a href="https://win-unique.techidaily.com/denon-dn-mc6000-mk-ii-dex-3-controller-preset-library/"><u>Denon DN-MC6000 Mk II DEX 3 Controller Preset Library</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-brannprogram-for-windows-bast-programrar-i-6-steg-for-windows-1187/"><u>Gratis Brännprogram För Windows: Bäst Programrar I 6 Steg - För Windows 11/8/7</u></a></li>
+<li><a href="https://win-special.techidaily.com/gratis-konvertereermiddelen-vob-in-mpeg-format-online-met-movavi/"><u>Gratis Konvertereermiddelen VOB in MPEG Format - Online Met Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-google-pixel-8-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Google Pixel 8 Unlock Without Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nubia Z50S Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
 

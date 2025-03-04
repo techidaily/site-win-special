@@ -1,7 +1,7 @@
 ---
 title: Guide Pour Installer Et Utiliser L'Environnement De Récupération AOMEI Backupper - Création Facile!
-date: 2025-01-18T21:28:33.827Z
-updated: 2025-01-24T06:03:08.863Z
+date: 2025-02-25T01:17:11.549Z
+updated: 2025-03-03T20:13:55.620Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2944d63225d253c3279f8dae40efe484858639ea552fbe04c95a0ccb48d7f545.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -49,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -101,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -113,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -198,17 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-creative-commons-legalities-explained-simply/"><u>[New] Creative Commons Legalities Explained Simply</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[New] Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/"><u>[Updated] Sky's Limit for Your Visual Stories Unlimited Free Options and Premium Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/acquiring-large-format-fb-videos-effortlessly-for-2024/"><u>Acquiring Large-Format FB Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/identifying-frequent-cybersecurity-threats-in-daily-computer-use-an-expert-guide-yl-tech-insights/"><u>Identifying Frequent Cybersecurity Threats in Daily Computer Use: An Expert Guide - YL Tech Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y17s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y17s to New Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra-in-depth-feature-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S24 Ultra – In-Depth Feature Comparison</u></a></li>
-<li><a href="https://win-special.techidaily.com/master-file-distribution-with-yl-softwares-easy-sharing-techniques-for-users-and-folders-alike/"><u>Master File Distribution with YL Software's Easy Sharing Techniques for Users and Folders Alike</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-multilingualism-with-windows-n-a-comprehensive-yl-software-walkthrough-for-changing-languages/"><u>Mastering Multilingualism with Windows N: A Comprehensive YL Software Walkthrough for Changing Languages</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-v-purse-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor V Purse</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revolutionize-your-streaming-experience-with-microsoft-edges-new-live-ai-video-translation-feature/"><u>Revolutionize Your Streaming Experience with Microsoft Edge's New Live AI Video Translation Feature</u></a></li>
-<li><a href="https://win-special.techidaily.com/spotting-signs-of-trouble-a-guide-to-common-symptoms-in-windows-memory-errors-by-yl-software-experts/"><u>Spotting Signs of Trouble: A Guide to Common Symptoms in Windows Memory Errors by YL Software Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-combining-zoom-and-fb-live/"><u>[New] The Ultimate Guide to Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-post-a-link-on-instagram-stories-and-posts/"><u>[Updated] How to Post a Link on Instagram Stories and Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-simplified-window-capturing-software/"><u>2024 Approved Simplified Window Capturing Software</u></a></li>
+<li><a href="https://win-special.techidaily.com/5aac5l2v5zyo5aot57iu5b2x54mh5ykz5lu95pah5lu25lit5bcl5zue6kkr6yg65asx55qe5qqu5qgi/"><u>如何在壓縮影片備份文件中尋回被遺失的檔案</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comwin-harmony-achieved-post-update/"><u>ComWin Harmony Achieved Post-Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-to-overcoming-bluetooth-paired-yet-unconnected-woes-in-your-windows-10-pc/"><u>Expert Guide to Overcoming 'Bluetooth Paired, Yet Unconnected' Woes in Your Windows 10 PC</u></a></li>
+<li><a href="https://win-special.techidaily.com/getting-to-know-kelsey-a-deep-dive-into-the-biography-of-a-renowned-writer/"><u>Getting to Know Kelsey: A Deep Dive Into the Biography of a Renowned Writer</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-sencilla-para-instalar-un-hdd-usado-en-una-nueva-pc-con-windows-10/"><u>Guía Sencilla Para Instalar Un HDD Usado en Una Nueva PC Con Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/justifying-auto-gpts-role-without-gpt-4/"><u>Justifying Auto-GPT's Role Without GPT-4</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/revive-your-iphones-space-top-7-methods-for-clearing-storage-in-ios-and-windows-operating-systems/"><u>Revive Your iPhone's Space: Top 7 Methods for Clearing Storage in iOS and Windows Operating Systems</u></a></li>
 </ul></div>
 

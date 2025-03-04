@@ -1,7 +1,7 @@
 ---
 title: Guía Completa Para Cifrar Copias De Seguridad Con AOMEI Backupper
-date: 2025-01-17T07:20:01.081Z
-updated: 2025-01-24T07:43:49.274Z
+date: 2025-03-03T06:23:27.285Z
+updated: 2025-03-04T01:32:50.131Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac9294944d02b8e17d908c0f4.png
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -100,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -113,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,19 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[New] 2024 Approved Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-essential-gimbal-selection-tips-for-aerial-photography-for-2024/"><u>[New] Essential Gimbal Selection Tips for Aerial Photography for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23/"><u>[Updated] Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-mastering-file-management-utilize-microsoft-365-mobile-app-efficiently/"><u>1. Mastering File Management: Utilize Microsoft 365 Mobile App Efficiently</u></a></li>
-<li><a href="https://win-special.techidaily.com/2024s-ultimate-tablet-guide-professional-evaluations-and-rankings-zdnet/"><u>2024'S Ultimate Tablet Guide: Professional Evaluations and Rankings | ZDNET</u></a></li>
-<li><a href="https://win-special.techidaily.com/could-samsung-and-microsoft-revolutionize-the-cloud-gaming-industry-discover-more-on-zdnet/"><u>Could Samsung and Microsoft Revolutionize the Cloud Gaming Industry? Discover More on ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/countdown-for-change-how-microsoft-must-resolve-windows-amo-problems-within-a-year-according-to-zdnet-experts/"><u>Countdown for Change: How Microsoft Must Resolve Windows Amo Problems Within a Year, According to ZDNet Experts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mize-your-videos-appeal-youtube-thumbnail-tips-and-tricks/"><u>Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6s-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40 Ultra?</u></a></li>
-<li><a href="https://win-special.techidaily.com/inside-the-lab-the-rise-of-microsofts-next-gen-ai-processor-to-challenge-apple-macbook-dominance-insights-from-zdnet/"><u>Inside the Lab: The Rise of Microsoft's Next-Gen AI Processor to Challenge Apple MacBook Dominance | Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-up-to-spectacle-adding-neon-borderlines-to-youtubes-for-2024/"><u>Step Up to Spectacle Adding Neon Borderlines to YouTubes for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-customizing-your-kindle-fires-display-with-new-wallpapers/"><u>Ultimate Guide: Customizing Your Kindle Fire's Display with New Wallpapers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-innovative-metaverse-marketing/"><u>[Updated] A Guide to Innovative Metaverse Marketing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visualedits-exploration-in-depth-look-at-androvid/"><u>[Updated] In 2024, VisualEdits Exploration – In-Depth Look at AndroVid</u></a></li>
+<li><a href="https://facebook.techidaily.com/3-reasons-you-should-be-worried-about-the-facebook-metaverse/"><u>3 Reasons You Should Be Worried About the Facebook Metaverse</u></a></li>
+<li><a href="https://win-special.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728491012253-usb/"><u>如何正確地格式化USB設備—深入教學指南</u></a></li>
+<li><a href="https://win-special.techidaily.com/como-crear-una-copia-de-seguridad-perfecta-del-correo-de-tu-cuenta-de-outlook-live-en-windows/"><u>Cómo Crear Una Copia De Seguridad Perfecta Del Correo De Tu Cuenta De Outlook Live en Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/complete-tutorial-on-downgrading-windows-11-to-earlier-versions-like-windows-817/"><u>Complete Tutorial on Downgrading Windows 11 to Earlier Versions Like Windows 8.1/7</u></a></li>
+<li><a href="https://win-special.techidaily.com/confronto-tra-pulizia-solid-state-disk-ssd-e-cancellazione-garantita-di-dati-consigli-e-fasi-completa/"><u>Confronto Tra Pulizia Solid State Disk (SSD) E Cancellazione Garantita Di Dati: Consigli E Fasi Completa</u></a></li>
+<li><a href="https://win-special.techidaily.com/esporta-i-tuoi-contatti-di-microsoft-outlook-senza-problemi-una-guida-completa-e-dettagliata/"><u>Esporta I Tuoi Contatti Di Microsoft Outlook Senza Problemi: Una Guida Completa E Dettagliata</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-review-elite-gaming-consoles-dominating-the-market-this-year/"><u>Exclusive Review: Elite Gaming Consoles Dominating the Market This Year</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/iphoneapple-music/"><u>IPhone連絡先データ自動保存メソッド：Apple Music除く</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stellar-photo-alterations-frameshift-prowess/"><u>Stellar Photo Alterations FrameShift Prowess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-adding-dolby-atmos-to-your-pc/"><u>Step-By-Step: Adding Dolby Atmos to Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-gionee-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Gionee? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrill-your-senses-quality-gaming-monitor-at-an-unbelievable-bargain-acer-nitro-27/"><u>Thrill Your Senses: Quality Gaming Monitor at an Unbelievable Bargain - Acer Nitro 27</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-guide-understanding-database-instances-and-effective-sql-backup-strategies/"><u>Ultimate Guide: Understanding Database Instances & Effective SQL Backup Strategies</u></a></li>
 </ul></div>
 

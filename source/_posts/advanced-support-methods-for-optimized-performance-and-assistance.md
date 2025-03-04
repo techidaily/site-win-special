@@ -1,7 +1,7 @@
 ---
 title: Advanced Support Methods for Optimized Performance and Assistance
-date: 2025-01-18T19:47:15.328Z
-updated: 2025-01-23T22:06:31.372Z
+date: 2025-02-27T23:45:50.811Z
+updated: 2025-03-04T05:58:09.561Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef749d02f8bbbc7b8223952f6c6.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -97,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,22 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-apex-play-exclusively-how-to-disable-cross-play-feature/"><u>[New] In 2024, Mastering Apex Play Exclusively How to Disable Cross-Play Feature</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-complete-guide-mastering-voice-recognition-in-google-documents-for-2024/"><u>[Updated] Complete Guide Mastering Voice Recognition in Google Documents for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>[Updated] The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
-<li><a href="https://win-special.techidaily.com/boost-your-machines-speed-and-stability-with-these-simple-strategies-by-yl-software-experts/"><u>Boost Your Machine's Speed & Stability with These Simple Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-special.techidaily.com/celebrate-max-verstappens-championship-victory-with-official-f1-2021-themes-images-and-walls-from-yl-software-solutions/"><u>Celebrate Max Verstappen's Championship Victory with Official F1 2021 Themes, Images & Walls From YL Software Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/diagnose-and-fix-corrupt-driver-issues-on-your-pc-with-yl-softwares-step-by-step-strategies-for-windows-users/"><u>Diagnose & Fix Corrupt Driver Issues on Your PC with YL Software's Step-by-Step Strategies for Windows Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/enhancing-performance-with-a-new-cpu-expert-advice-from-yl-computing-and-yl-software/"><u>Enhancing Performance with a New CPU: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-special.techidaily.com/expert-advice-on-resolving-usb-connection-issues-with-step-by-step-solutions-by-yl-software/"><u>Expert Advice on Resolving USB Connection Issues with Step-by-Step Solutions by YL Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hassle-free-nutrition-with-arf-automatic-pet-feeder/"><u>Hassle-Free Nutrition with Arf Automatic Pet Feeder</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-issue-of-non-launching-overwatch-game/"><u>How to Resolve the Issue of Non-Launching Overwatch Game</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/i-migliori-programmi-di-compressione-video-per-ottimizzare-le-dimensioni-dei-file/"><u>I Migliori Programmi Di Compressione Video per Ottimizzare Le Dimensioni Dei File</u></a></li>
-<li><a href="https://win-special.techidaily.com/is-tweaking-windows-registry-safe-uncover-potential-pitfalls-with-expert-advice-by-yl-software/"><u>Is Tweaking Windows Registry Safe? Uncover Potential Pitfalls with Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-help.techidaily.com/losungen-zur-behebung-von-problemen-mit-nicht-sichtbarer-aufnahmefunktion-bei-zoom/"><u>Lösungen Zur Behebung Von Problemen Mit Nicht Sichtbarer Aufnahmefunktion Bei Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-ev-charge-efficiency-with-affordable-emporia-smart-charger-an-in-depth-review-and-price-breakdown-on-zdnet/"><u>Maximizing EV Charge Efficiency with Affordable Emporia Smart Charger: An In-Depth Review and Price Breakdown on ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-visibility-on-dell-laptop-screens/"><u>Step-by-Step Instructions to Restore Visibility on Dell Laptop Screens</u></a></li>
-<li><a href="https://win-special.techidaily.com/yl-computings-independence-day-4th-of-july-fireworks-background-images-professional-designed/"><u>YL Computing's Independence Day 4Th of July Fireworks Background Images - Professional Designed</u></a></li>
-<li><a href="https://win-special.techidaily.com/yl-softwares-guide-to-boosting-laptop-performance-for-faster-smoother-operation/"><u>YL Software's Guide to Boosting Laptop Performance for Faster, Smoother Operation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-integrating-your-apple-tv-and-social-media-watch-facebook-now/"><u>[New] 2024 Approved Integrating Your Apple TV & Social Media Watch Facebook Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ilmmakers-choice-selecting-perfect-lenses-for-youtube-creation-for-2024/"><u>[New] Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-uncover-ustream-plus-alternatives/"><u>[Updated] In 2024, Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-transforming-fast-action-into-slow-motion-ig-treasures/"><u>[Updated] The Ultimate Guide to Transforming Fast Action Into Slow Motion IG Treasures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-oggwav/"><u>「Movaviで使いやすい無料音声ファイル形式コンバーター - OGGとWAV」</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-two-effective-ways-to-transfer-your-iphone-data-to-google-drive/"><u>1. Two Effective Ways to Transfer Your iPhone Data to Google Drive</u></a></li>
+<li><a href="https://win-special.techidaily.com/5bplus955wl5bey56e76zmk5pww5o2u55qe5ase55cg5pa55byp77ya6kej5yaz5oyh5y2x44cc/"><u>忽略已移除数据的处理方式：解决指南。</u></a></li>
+<li><a href="https://win-special.techidaily.com/6kej6zmk56ob55uk6ziy5aplusr5yqf6io955qe5oyh5y2x77ya5a6m5pw05qc85byp5yyw6ygo56il5rex5ywl5lqg6kej/"><u>解除磁盤防寫功能的指南：完整格式化過程深入了解</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728508665476-windows/"><u>解決方法：謎之Windows系統分割區消失</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-engagement-game-the-instagram-edge-guide-for-2024/"><u>Elevating Your Engagement Game The Instagram Edge Guide for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/further-questions-what-if-we-can-repeat-elements-from-the-input-array/"><u>Further Questions: What if We Can Repeat Elements From the Input Array?</u></a></li>
+<li><a href="https://win-special.techidaily.com/reviving-lost-levels-how-to-restore-your-erased-game-saves-with-myrecovers-step-by-step-tutorial/"><u>Reviving Lost Levels: How to Restore Your Erased Game Saves with MyRecover's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-updating-device-drivers-on-windows-systems-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Device Drivers on Windows Systems - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/thorough-summary-googles-podcast-platform-demystified/"><u>Thorough Summary Google's Podcast Platform Demystified</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-a-non-functional-attrib-command-top-3-methods/"><u>Troubleshooting a Non-Functional Attrib Command - Top 3 Methods</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-methods-for-restoring-wuauserv-service-on-windows-11-systems/"><u>Troubleshooting Methods for Restoring WUAUserv Service on Windows 11 Systems</u></a></li>
+<li><a href="https://win-info.techidaily.com/understanding-the-consequences-for-chinese-citizamoins-during-the-1937-1945-conflict-with-japan-yl-software/"><u>Understanding the Consequences for Chinese Citizamoins During the 1937-1945 Conflict with Japan - YL Software</u></a></li>
 </ul></div>
 

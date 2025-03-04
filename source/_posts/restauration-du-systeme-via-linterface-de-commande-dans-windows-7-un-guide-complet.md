@@ -1,7 +1,7 @@
 ---
 title: "Restauration Du Système via L'interface De Commande Dans Windows 7 : Un Guide Complet"
-date: 2025-02-10T06:13:54.305Z
-updated: 2025-02-12T18:06:05.381Z
+date: 2025-02-27T06:12:22.680Z
+updated: 2025-03-04T04:39:25.370Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1cb34757b006a9b7dc8bcdff.jpeg
@@ -47,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -98,10 +94,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -109,10 +101,6 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -130,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -143,10 +127,6 @@ Next, let’s have a look at how to recover files infected by ransomware from a 
 Step 1\. Press **Win + S** to open the Windows search box, type **Create a restore point**, and click **Open** from the list of results.
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
 
@@ -162,10 +142,6 @@ If there is no restore point, it might be because the system protection isn't tu
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Notes:✎...
 
 Some ransomware decryption tools can help to decrypt files encrypted by ransomware. However, such tools do not fully guarantee that ransomware-encrypted files can be recovered. Thus, recovering files infected by ransomware using a ransomware recovery service like MyRecover or with the help of a backup file are the easiest and most workable ways.
@@ -178,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -198,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,18 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-budget-friendly-methods-for-youtube-card-creation/"><u>[New] In 2024, Budget-Friendly Methods for YouTube Card Creation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shadow-surge-and-sun-sweep-encounter/"><u>[Updated] Shadow Surge and Sun Sweep Encounter</u></a></li>
-<li><a href="https://solve-news.techidaily.com/discover-the-ultimate-list-of-free-hd-movie-downloading-websites-watch-your-favorite-films-in-stunning-quality-for-zero-cost/"><u>Discover the Ultimate List of Free HD Movie Downloading Websites - Watch Your Favorite Films in Stunning Quality for Zero Cost!</u></a></li>
-<li><a href="https://discover-best.techidaily.com/discovering-a-new-era-in-digital-publishing-with-onyx-boox-palma-the-book-worlds-answer-to-the-ipod-phenomenon/"><u>Discovering a New Era in Digital Publishing with Onyx Boox Palma - The Book World's Answer to the iPod Phenomenon</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>In 2024, Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-x-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone X and iPad</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-visual-treat-top-ten-4k-televisions/"><u>In 2024, Ultimate Visual Treat Top Ten 4K Televisions</u></a></li>
-<li><a href="https://win-special.techidaily.com/in-depth-analysis-the-recent-microsoft-365-service-interruption-affecting-thousands-explained-cyberwise/"><u>In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-dawn-of-learning-tech-how-pc-producers-are-shaping-the-future-with-windows-11-se-discoveries-on-zdnet/"><u>The Dawn of Learning Tech: How PC Producers Are Shaping the Future with Windows 11 SE | Discoveries on ZDNET</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/transforming-google-meet-screens-on-devices-for-2024/"><u>Transforming Google Meet Screens on Devices for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-businesses-discover-the-best-picks-on-zdnet/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Businesses - Discover the Best Picks on ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/unveiling-the-future-of-productivity-with-microsoft-surface-laptop-studio-a-first-look-that-will-make-you-want-more/"><u>Unveiling the Future of Productivity with Microsoft Surface Laptop Studio - A First Look That Will Make You Want More</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[New] 2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-reimagined-review-sonys-s6700-overhaul/"><u>[New] 2024 Approved Reimagined Review Sony's S6700 Overhaul</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>[New] Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streamline-your-windows-pc-to-record-live-tv-with-ease/"><u>[Updated] 2024 Approved Streamline Your Windows PC to Record Live TV with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-question-of-streaming-fb-moviesvideos-via-tv/"><u>[Updated] 2024 Approved The Question of Streaming FB Movies/Videos via TV</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-savory-sensations-top-youtube-food-influencers/"><u>2024 Approved Savory Sensations Top YouTube Food Influencers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-note-taking-with-elite-digital-notebooks-in-depth-analysis-and-ratings-expert-roundup-at-zdnet/"><u>Ace Your Note-Taking with Elite Digital Notebooks: In-Depth Analysis and Ratings | Expert Roundup at ZDNET</u></a></li>
+<li><a href="https://win-special.techidaily.com/adding-background-tunes-with-flipbuilder-a-step-by-step-guide/"><u>Adding Background Tunes with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/customizing-visuals-in-flipbooks-master-changing-flash-window-hues-on-flipbuildercom/"><u>Customizing Visuals in Flipbooks: Master Changing Flash Window Hues on FlipBuilder.com</u></a></li>
+<li><a href="https://win-special.techidaily.com/direct-printing-selective-pages-from-ebooks-with-flipbuilder-how-it-works/"><u>Direct Printing Selective Pages From eBooks with FlipBuilder - How It Works</u></a></li>
+<li><a href="https://win-special.techidaily.com/discover-flipbuildercom-your-ultimate-online-image-and-video-uploading-platform/"><u>Discover FlipBuilder.com: Your Ultimate Online Image & Video Uploading Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevating-roi-by-mastering-the-craft-of-fb-animated-advertising-for-2024/"><u>Elevating ROI by Mastering the Craft of FB Animated Advertising for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/emailing-your-custom-made-flipbooks-a-step-by-step-guide-using-html-links-discover-how-at-flipbuildercom/"><u>Emailing Your Custom-Made Flipbooks: A Step-by-Step Guide Using HTML Links - Discover How at FlipBuilder.com</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-replace-flipbuilder-e-book-icon-with-your-own-design-on-ios-devices/"><u>Guide: Replace FlipBuilder E-Book Icon With Your Own Design on iOS Devices</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-build-a-multi-image-pdf-and-allow-downloads-a-guide-on-flipbuilder/"><u>How to Build a Multi-Image PDF & Allow Downloads – A Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-easily-disable-flipbuilders-web-design-toolbar-a-step-by-step-guide/"><u>How to Easily Disable FlipBuilder's Web Design Toolbar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-magic-6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor Magic 6 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-apple-pushing-you-towards-a-new-iphone-lets-investigate-their-tactics/"><u>Is Apple Pushing You Towards a New iPhone? Let's Investigate Their Tactics!</u></a></li>
+<li><a href="https://win-special.techidaily.com/switching-reading-direction-in-a-flipbook-transition-from-right-to-left-layout-a-comprehensive-guide-with-flipbuilder/"><u>Switching Reading Direction in a Flipbook: Transition From Right-to-Left Layout - A Comprehensive Guide with FlipBuilder</u></a></li>
 </ul></div>
 

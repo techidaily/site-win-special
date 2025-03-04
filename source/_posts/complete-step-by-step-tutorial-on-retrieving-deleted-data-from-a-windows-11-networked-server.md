@@ -1,7 +1,7 @@
 ---
 title: Complete Step-by-Step Tutorial on Retrieving Deleted Data From a Windows 11 Networked Server
-date: 2025-01-05T10:16:59.579Z
-updated: 2025-01-12T07:23:53.633Z
+date: 2025-03-02T05:03:23.460Z
+updated: 2025-03-03T20:13:13.348Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b2a4f404614a92dadcad15cd.jpg
@@ -41,10 +41,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
    5. [Option 5\. Repair EFI Boot Loader](https://tools.techidaily.com/ubackup/products/)
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
@@ -94,10 +90,6 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
@@ -124,10 +116,6 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -147,10 +135,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -210,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -230,19 +210,7 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -256,17 +224,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -313,18 +273,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-avian-cha-cha-cha-for-2024/"><u>[New] Avian Cha-Cha-Cha for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-finding-the-best-replacement-for-magixs-acid-pro-for-2024/"><u>[New] Finding the Best Replacement for Magix's ACID Pro for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-funnyframeforge-picfunnyfactory-for-2024/"><u>[New] FunnyFrameForge PicFunnyFactory for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-solo-sounders-plight-resolved-guide/"><u>[Updated] Solo Sounder's Plight Resolved Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/a-deep-dive-into-the-sudden-drop-in-audio-volume-settings-expert-analysis-from-yl-software-team/"><u>A Deep Dive Into the Sudden Drop in Audio Volume Settings: Expert Analysis From YL Software Team</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-love-for-words-the-romance-family/"><u>A Love for Words: The Romance Family</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-premium-ai-prompt-platforms/"><u>Discover the Ultimate List of Premium AI Prompt Platforms</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-recover-from-gpu-malfunction-tips-and-tricks-yl-tech-solutions/"><u>How to Recover From GPU Malfunction: Tips & Tricks - YL Tech Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-guide-restoring-functionality-when-your-scanner-ignores-commands-insights-by-yl-software-team/"><u>Troubleshooting Guide: Restoring Functionality When Your Scanner Ignores Commands - Insights by YL Software Team</u></a></li>
-<li><a href="https://win-special.techidaily.com/ultra-hd-wallpaper-collection-for-your-pcmac-premium-visual-content-including-photos-illustrations-and-more-from-yl-software-solutions/"><u>Ultra HD Wallpaper Collection for Your PC/Mac: Premium Visual Content Including Photos, Illustrations, and More From YL Software Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-software-malfunction-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Software Malfunction - Insights From YL Computing</u></a></li>
-<li><a href="https://win-special.techidaily.com/warriors-at-the-battle-of-red-cliffs-an-insight-into-participating-armies-by-yl-computing/"><u>Warriors at the Battle of Red Cliffs - An Insight Into Participating Armies by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-5-ways-to-record-vr-gameplay/"><u>[New] 2024 Approved 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>[New] The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728498910957-windows/"><u>簡單方法同時在多台電腦中部署克隆的Windows 지원</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728478243039-windows-11-ssd/"><u>将脸书硬盘拷贝到Windows 11 SSD驱动器：全新方法</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728461999172-windows/"><u>修改分割區後在Windows上如何恢復驅動器？請看我的導覽</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows10and115/"><u>再起動が多すぎるWindowsパソコンの問題に対処する手段：10&11で使える5つのテクニック</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-identifier-et-resoudre-les-difficultes-avec-windows-update-sur-votre-systeme-dexploitation-windows-11/"><u>Comment Identifier Et Résoudre Les Difficultés Avec Windows Update Sur Votre Système D'Exploitation Windows 11?</u></a></li>
+<li><a href="https://win-special.techidaily.com/crear-varias-copias-de-seguridad-en-windows-10-un-guia-paso-a-paso/"><u>Crear Varias Copias De Seguridad en Windows 10: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-artisan-1430-print-drivers-download-guide-for-windows-users-win11-win10-and-win8/"><u>Epson Artisan 1430 Print Drivers: Download Guide for Windows Users (Win11, Win10 & Win8)</u></a></li>
+<li><a href="https://win-special.techidaily.com/exploring-browser-hijacking-threats-and-solutions-using-malwarefox/"><u>Exploring Browser Hijacking Threats and Solutions Using MalwareFox</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-digital-devices-turn-images-into-videos/"><u>In 2024, Prime Digital Devices Turn Images Into Videos</u></a></li>
+<li><a href="https://win-special.techidaily.com/mastering-minecraft-world-safeguarding-three-essential-backup-techniques-for-windows-users-versions-11-10-8-and-ebx/"><u>Mastering Minecraft World Safeguarding: Three Essential Backup Techniques for Windows Users (Versions 11, 10, 8 & Ebx)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210336416-9781784884888-numerology/"><u>Numerology | Free Book</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-restoring-accidentally-deleted-videos-on-windows-11/"><u>Step-by-Step Guide: Restoring Accidentally Deleted Videos on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/they-are-well-suited-for-high-viscosity-fluids-and-maintain-performance-under-varying-pressures/"><u>They Are Well-Suited for High Viscosity Fluids and Maintain Performance Under Varying Pressures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-metas-revolutionary-approach-to-artifice-intellect/"><u>Understanding Meta's Revolutionary Approach to Artifice Intellect</u></a></li>
 </ul></div>
 

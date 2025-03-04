@@ -1,7 +1,7 @@
 ---
 title: Duplicare Un Disco Rigido Con Dimensioni Variabili in Windows 10/11 | Metodi SECURISSIMI
-date: 2025-01-05T23:28:36.764Z
-updated: 2025-01-12T11:17:53.861Z
+date: 2025-03-02T18:05:07.230Z
+updated: 2025-03-04T02:50:19.412Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511d16fa18d7a28833e2a6d9c5.jpg
@@ -61,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -89,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -116,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -141,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,24 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-interactive-features/"><u>[New] 2024 Approved Interactive Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-proven-performers-the-best-of-8-mirrorless-cameras-for-video-creators/"><u>[Updated] 2024 Approved Proven Performers The Best of 8 Mirrorless Cameras for Video Creators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-5-best-live-streaming-webcamscameras-for-twitch/"><u>[Updated] Top 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-windows-speed-dial-for-swift-inspection-for-2024/"><u>[Updated] Windows Speed Dial for Swift Inspection for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-miniature-film-script-sketch/"><u>2024 Approved Miniature Film Script Sketch</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-to-exciting-windows-11-gaming-world/"><u>2024 Approved Navigate to Exciting Windows 11 Gaming World</u></a></li>
-<li><a href="https://win-special.techidaily.com/activating-or-deactivating-your-pcs-sound-card-on-windows-step-by-step-guide/"><u>Activating or Deactivating Your PC's Sound Card on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-winning-proposals-strategies-for-creating-compelling-bids-that-stand-out/"><u>ChatGPT and Winning Proposals: Strategies for Creating Compelling Bids that Stand Out</u></a></li>
-<li><a href="https://win-special.techidaily.com/effective-techniques-for-fine-tuning-your-windows-registry-insights-from-yl-computings-expertise/"><u>Effective Techniques for Fine-Tuning Your Windows Registry - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-f04-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy F04 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/installing-windows-security-essentials-quickly-and-efficiently-tips-from-yl-software-professionals/"><u>Installing Windows Security Essentials Quickly & Efficiently - Tips From YL Software Professionals</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-windows-glitches-causing-steam-errors/"><u>Resolving Windows Glitches Causing Steam Errors</u></a></li>
-<li><a href="https://win-special.techidaily.com/scopri-il-motivo-dietro-la-cancellazione-delle-tue-vecchie-e-mail-di-yahoo-risolvi-facilmente-qui/"><u>Scopri Il Motivo Dietro La Cancellazione Delle Tue Vecchie E-Mail Di Yahoo - Risolvi Facilmente Qui</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-custom-fonts-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adding Custom Fonts via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-special.techidaily.com/transferir-el-sistema-operativo-y-datos-del-hdd-al-nuevo-ssd-en-windows-versiones-version-facil/"><u>Transferir El Sistema Operativo Y Datos Del HDD Al Nuevo SSD en Windows Versiones (Versión Fácil)</u></a></li>
-<li><a href="https://win-special.techidaily.com/understanding-miners-earnings-an-insight-into-cryptocurrency-incentives-with-yl-computing/"><u>Understanding Miner's Earnings: An Insight Into Cryptocurrency Incentives with YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlinking-your-pc-from-onedrive-in-windows-1110-quick-fixes-and-long-term-solutions-method-guide/"><u>Unlinking Your PC From OneDrive in Windows 11/10: Quick Fixes & Long-Term Solutions (Method Guide)</u></a></li>
-<li><a href="https://win-special.techidaily.com/updating-your-video-card-drivers-a-step-by-step-guide-by-yl-software/"><u>Updating Your Video Card Drivers: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://win-special.techidaily.com/viewing-image-files-in-windows-top-software-picks-by-yl-tech-support/"><u>Viewing Image Files in Windows: Top Software Picks by YL Tech Support</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[New] The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>[Updated] In 2024, Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://win-special.techidaily.com/4windows/"><u>4効果的な手順で、Windows上のファイルフォルダ容量を減らします</u></a></li>
+<li><a href="https://win-special.techidaily.com/effectiveness-of-factory-restores-does-it-wipe-out-android-trojans-worms-and-spyware-as-per-malwarefox-analysis/"><u>Effectiveness of Factory Restores: Does It Wipe Out Android Trojans, Worms, and Spyware as per MalwareFox Analysis?</u></a></li>
+<li><a href="https://win-special.techidaily.com/guard-your-system-with-malwarefox-a-powerful-defense-for-ransomware-threats/"><u>Guard Your System with MalwareFox - A Powerful Defense for Ransomware Threats</u></a></li>
+<li><a href="https://win-special.techidaily.com/guida-rapida-e-facile-per-eseguire-la-manutenzione-del-disco-rigido/"><u>Guida Rapida E Facile per Eseguire La Manutenzione Del Disco Rigido</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-does-emeditor-handle-regex-unveiling-its-string-pattern-matching-skills/"><u>How Does EmEditor Handle Regex? Unveiling Its String Pattern Matching Skills</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-hey-siri-functionality-problems-on-iphones-a-step-by-step-walkthrough/"><u>How To Repair 'Hey Siri' Functionality Problems on iPhones - A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209874022-9780985524579-stabilizing-the-mind/"><u>Stabilizing the Mind | Free Book</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-rated-no-cost-seagate-network-attached-storage-nas-data-protection-apps-for-windows-11-8-and-07/"><u>Top Rated No-Cost Seagate Network Attached Storage (NAS) Data Protection Apps for Windows 11, 8 & 07</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools-for-2024/"><u>Transform Your Team Sessions Masterful Use of Slack & Filmora Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/zing-youtubes-annotation-feature-for-2024/"><u>Utilizing YouTube's Annotation Feature for 2024</u></a></li>
 </ul></div>
 

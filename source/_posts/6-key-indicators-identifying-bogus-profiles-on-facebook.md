@@ -1,7 +1,7 @@
 ---
 title: "6 Key Indicators: Identifying Bogus Profiles on Facebook"
-date: 2025-01-22T09:16:18.866Z
-updated: 2025-01-23T20:03:34.821Z
+date: 2025-02-25T17:53:17.535Z
+updated: 2025-03-04T03:06:18.905Z
 tags:
   - product
   - antivirus
@@ -50,10 +50,6 @@ The first thing you see in a profile on Facebook is their profile picture. You c
 
 ![Check Profile Picture](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-Profile-Picture.jpg "Check Profile Picture")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Single Profile Picture**
 
 An active user on Facebook regularly changes his/her profile picture. If you see only one profile picture and the profile is new or 2-3 years old, it should raise a concern.
@@ -72,10 +68,6 @@ The Facebook name is enough to compel someone to put a picture on the profile. I
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **A Perfect Profile Picture**
 
 Usually, people click pictures with the phone camera, and these pictures aren’t perfect. If you are seeing a picture of a model with a perfect angle and lighting, then it might be a fake one.
@@ -87,10 +79,6 @@ To ensure if a profile picture is genuine you can save it to your computer and t
 To do that Right click on the profile picture and click **Save image as** and then save it to your computer,
 
 ![How to Spot a Fake Facebook Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image.jpg "Search on Google Image")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now open [Google Image search](https://images.google.com/) and click on the **Camera icon**
 
@@ -113,10 +101,6 @@ Also, when you see lots of patterns like Works in California, Went to the Univer
 Now it’s time to check the friend list; a genuine person would like to connect with more local persons. When you see so many foreign friends, and no or fewer local friends, then it could be a fake profile. If a person is from New York then why would he connect with so many Saudi Arab Emirates persons?
 
 ![Check the Friend List - Spot Fake Facebook Account](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-the-Friendlist.jpg "Check the Friend List")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it is a girl profile and you see 3-4K friends on the list, then it should raise a red flag. Usually, genuine girls on Facebook don’t like unknown people, and they have limited friends. When you see so many friends, and most of them are fake, then don’t accept the friend request and block the person.
 
@@ -142,10 +126,6 @@ Now check the profile carefully, click on the pictures and check the likes and c
 
 ![Lack of Interaction 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction-2.jpg "Lack of Interaction 2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Another sign is when you see lots of friends in the friend list, and very few of them like and comment on the posts then it also rings a bell. Click on the More button to see more activity like Check-ins, Music, Films, TV-Programme, etc.
 
 ![Lack of Interaction](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction.jpg "Lack of Interaction")
@@ -153,10 +133,6 @@ Another sign is when you see lots of friends in the friend list, and very few of
 If you see no such activity, then the profile is not genuine.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -246,10 +222,6 @@ I found all this credible up till the conclusion. The grammar flubs in that sect
 7. ![](https://secure.gravatar.com/avatar/1792081751be84c99f1cd031ffffc387?s=50&d=mm&r=g)  
 Abel Wubetu  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [January 10, 2021 at 3:38 am](https://tools.techidaily.com/malwarefox/products/)  
 wow it was amazing I got what want it is helpful!!!  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -279,10 +251,6 @@ I notice almost all fake fb accounts are people from W. Africa. They always use 
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 11. ![](https://secure.gravatar.com/avatar/76185882738ffa3fc3d5f2d1dc6c3d14?s=50&d=mm&r=g)  
 Ansie de Beer  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [January 30, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 If the profile photo and inbox messages disappear, can it also be a false profile? Only my own comments are still there. In another case the name and profile picture has changed, but the comments for the previous profile are still there. It seems I was scammed to pay a lot of money. The latest was I got a screenshot of a facebook message from somebody on whatsapp. When I checked the profile, the post was there, but it has also disappeared.  
@@ -321,10 +289,6 @@ Thank u
 16. ![](https://secure.gravatar.com/avatar/1d2835f3144fa289049fa85a53c5d814?s=50&d=mm&r=g)  
 BRIAN K NEMETH  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [June 29, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 On facebook messenger, I used a video call to talk to a live person. That’s how I know it’s a real person. If not, I just plain block the whole account  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -334,10 +298,6 @@ Cheryl
 [August 17, 2022 at 10:56 am](https://tools.techidaily.com/malwarefox/products/)  
 Another clue is when you get friend requests from people who are already your friend. You need to report those to Facebook. Also bad spelling and grammar when you expect it to be better.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -364,16 +324,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-scanning-shorthand-efficient-profile-hunting-on-fb-for-2024/"><u>[Updated] Social Scanning Shorthand Efficient Profile Hunting on FB for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-guide-best-top-10-fb-videos-on-android-downloader/"><u>2024 Approved Essential Guide Best Top 10 FB Videos on Android Downloader</u></a></li>
-<li><a href="https://win-special.techidaily.com/convert-mp3-files-to-wav-format-for-free-using-movavis-easy-tool/"><u>Convert MP3 Files to WAV Format for Free Using Movavi's Easy Tool!</u></a></li>
-<li><a href="https://win-special.techidaily.com/convert-swf-files-into-mp4-format-for-free-using-movavis-quick-and-secure-tool/"><u>Convert SWF Files Into MP4 Format for Free Using Movavi's Quick and Secure Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-windows-device-ready-free-epson-et-2750-driver/"><u>Get Your Windows Device Ready: Free Epson ET-2750 Driver</u></a></li>
-<li><a href="https://win-special.techidaily.com/google-online-vimeo-swf-movavi/"><u>Google으로 바꾸기: Online 무료 Vimeo SWF 형식 개선 - Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210167370-9781646280179-ideas-forever/"><u>Ideas Forever | Free Book</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>In 2024, Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
-<li><a href="https://win-special.techidaily.com/movavi-voorbeelden-voor-kostenloos-m4v-conversie-van-swfs-op-internet/"><u>Movavi - Voorbeelden Voor Kostenloos M4V-Conversie Van SWF's Op Internet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-note-30-vip-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 VIP? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-10-proplus-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 10 Pro+ 5G Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-maximizing-your-zoom-experience-on-chromeos/"><u>[Updated] 2024 Approved Maximizing Your Zoom Experience on ChromeOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-earn-big-on-snapchat-the-ultimate-guide-to-money-making-tips-for-2024/"><u>[Updated] Earn Big on Snapchat The Ultimate Guide to Money-Making Tips for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-magixs-legacy-in-vectors-finding-future-software-for-2024/"><u>[Updated] Magix's Legacy in Vectors Finding Future Software for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/4windows/"><u>4効果的な手順で、Windows上のファイルフォルダ容量を減らします</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-vega-64-driver-installation-and-update-steps-for-windows-users-the-ultimate-how-to-guide/"><u>AMD Vega 64 Driver Installation and Update Steps for Windows Users: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-6-windows-computers-tracking-apps-unveiled/"><u>Essential 6 Windows Computers Tracking Apps Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x9a-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X9a FRP Locks</u></a></li>
+<li><a href="https://win-special.techidaily.com/guida-rapida-e-facile-per-eseguire-la-manutenzione-del-disco-rigido/"><u>Guida Rapida E Facile per Eseguire La Manutenzione Del Disco Rigido</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-de-recouvrement-dune-cle-usb-en-induisant-le-formateur/"><u>Guide De Recouvrement D'Une Clé USB en Induisant Le Formateur</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-8-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 8 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728497501600-microsoft-outlookpst/"><u>Microsoft Outlookで削除されたPSTファイルの修復手順</u></a></li>
+<li><a href="https://win-special.techidaily.com/risolvi-i-tuoi-problemi-di-partizione-con-windows-11-utilizzando-questi-due-modi-migliori-su-misurini/"><u>Risolvi I Tuoi Problemi Di Partizione Con Windows 11 Utilizzando Questi Due Modi Migliori Su Misurini!</u></a></li>
+<li><a href="https://win-special.techidaily.com/tauschen-sie-die-festplatte-schnell-und-sicher-auf-eine-solid-state-drive-um-anleitung-fur-anfanger/"><u>Tauschen Sie Die Festplatte Schnell Und Sicher Auf Eine Solid State Drive Um - Anleitung Für Anfänger</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor V Purse</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-rated-no-cost-seagate-network-attached-storage-nas-data-protection-apps-for-windows-11-8-and-07/"><u>Top Rated No-Cost Seagate Network Attached Storage (NAS) Data Protection Apps for Windows 11, 8 & 07</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-mobile-broadband-estimating-usage-time-and-costs-for-every-megabyte/"><u>Understanding Mobile Broadband: Estimating Usage Time and Costs for Every Megabyte</u></a></li>
+<li><a href="https://win-special.techidaily.com/vmware-on-your-machine-step-by-step-setup-for-newbies/"><u>VMware On Your Machine: Step-by-Step Setup for Newbies</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728509787126-win11/"><u>Win11 成功恢復最新遭到刪除的檔案：[用戶証明範例]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques Faciles Pour Cloner Windows 11 Vers Disque Dur Ou SSD À L'aide De Clonezilla Ou Autre Outil Convivial
-date: 2025-01-17T22:33:05.136Z
-updated: 2025-01-24T09:44:41.732Z
+date: 2025-03-02T21:40:23.861Z
+updated: 2025-03-03T18:38:30.228Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324df271cfd9aff178b05822fa5.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -64,10 +60,6 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -75,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -109,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -157,10 +137,6 @@ Take disk backup as an example. Follow the step below to backup your computer di
 Select the corresponding backup methods if you want to backup system, partition or individual files.
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
@@ -207,10 +183,6 @@ For backup and restore features, you have 4 corresponding options plus two premi
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs about Norton Ghost
 
 **1\. Is Norton Ghost still available?**
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,24 +258,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-what-lies-beneath-the-core-of-asmr-videos/"><u>[New] In 2024, What Lies Beneath The Core of ASMR Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[Updated] In 2024, Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-unseen-virtues-of-vector-graphics-mastery/"><u>[Updated] The Unseen Virtues of Vector Graphics Mastery</u></a></li>
-<li><a href="https://win-special.techidaily.com/2outlook-pst/"><u>2個成功複製Outlook PST文件的高效技巧</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-beginners-roadmap-for-instagram-reels-mastery/"><u>A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://win-special.techidaily.com/choosing-the-right-windows-version-for-you-an-in-depth-look-at-windows-7-vs-10-vs-11/"><u>Choosing the Right Windows Version for You: An In-Depth Look at Windows 7 vs 10 vs 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/ensuring-system-security-how-to-transfer-windows-tenth-from-an-ssd-to-a-hard-drive/"><u>Ensuring System Security: How to Transfer Windows Tenth From an SSD to a Hard Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-cod-wwii-error-4220-the-ultimate-fix-checklist/"><u>Expert Tips for Eliminating COD WWII Error 4220 - The Ultimate Fix Checklist</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-recover-data-from-an-accidentally-formatted-seagate-external-hdd/"><u>How to Recover Data From an Accidentally Formatted Seagate External HDD</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g-stylus-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G Stylus 5G (2023) Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/iphone-16/"><u>IPhone 16における「データ転送完了失敗の理由と解決策」</u></a></li>
-<li><a href="https://win-special.techidaily.com/las-mejores-practicas-para-respaldo-de-correos-electronicos-y-archivos-adjuntos-con-gmail-guia-completa/"><u>Las Mejores Prácticas Para Respaldo De Correos Electrónicos Y Archivos Adjuntos Con Gmail: Guía Completa</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-dvd-creation-how-to-include-subtitles-in-your-projects/"><u>Mastering DVD Creation: How to Include Subtitles in Your Projects</u></a></li>
-<li><a href="https://win-special.techidaily.com/pasos-para-recuperar-informacion-de-un-iphone-despues-de-una-restauracion-completa/"><u>Pasos Para Recuperar Información De Un iPhone Después De Una Restauración Completa</u></a></li>
-<li><a href="https://win-special.techidaily.com/protecting-virtual-environments-a-comprehensive-tutorial-on-vm-security-through-encryption/"><u>Protecting Virtual Environments: A Comprehensive Tutorial on VM Security Through Encryption</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/regain-control-how-to-combat-cellphone-disruption-in-four-easy-steps/"><u>Regain Control: How to Combat Cellphone Disruption in Four Easy Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-tackling-the-troublesome-windows-10-update-issue-error-0xc1n00208-explained/"><u>Solved: Tackling the Troublesome Windows 10 Update Issue - Error 0xC1n00208 Explained</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-moving-your-windows-8-or-81-setup-from-hard-drive-to-solid-state-drive/"><u>Step-by-Step Guide: Moving Your Windows 8 or 8.1 Setup From Hard Drive to Solid State Drive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-achieving-youtube-excellence-with-gamers-channel-graphics/"><u>[Updated] In 2024, Achieving YouTube Excellence with Gamers' Channel Graphics</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-ultimate-tutorial-setting-up-a-guest-operating-system-in-vmware-esxi/"><u>1. Ultimate Tutorial: Setting Up a Guest Operating System in VMware ESXi</u></a></li>
+<li><a href="https://win-special.techidaily.com/activating-or-deactivating-your-pcs-sound-card-on-windows-step-by-step-guide/"><u>Activating or Deactivating Your PC's Sound Card on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>In 2024, Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-google-chromes-freeze-problem-effective-tips-and-tricks/"><u>Solving Google Chrome's Freeze Problem – Effective Tips and Tricks</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-adding-custom-fonts-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adding Custom Fonts via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-digital-content-how-to-bypass-adobes-drm-protection-on-epubpdf-formats-for-pc-and-mac/"><u>Unlocking Digital Content: How to Bypass Adobe's DRM Protection on EPUB/PDF Formats for PC and Mac</u></a></li>
+<li><a href="https://win-special.techidaily.com/updating-your-video-card-drivers-a-step-by-step-guide-by-yl-software/"><u>Updating Your Video Card Drivers: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-growth-booster-top-seo-tools-uncovered-for-2024/"><u>Video Growth Booster – Top SEO Tools Uncovered for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/viewing-image-files-in-windows-top-software-picks-by-yl-tech-support/"><u>Viewing Image Files in Windows: Top Software Picks by YL Tech Support</u></a></li>
+<li><a href="https://win-special.techidaily.com/yl-software-solutions-for-managing-your-browser-cookies-a-step-by-step-enablement-and-disablement-guide/"><u>YL Software Solutions for Managing Your Browser Cookies - A Step-by-Step Enablement and Disablement Guide</u></a></li>
 </ul></div>
 
